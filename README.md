@@ -1,7 +1,7 @@
 # ACRE-Canada
 Data files from the ACRE-Canada citizen science project
 
-This repository contains files from the ACRE-Canada historical climatology data rescue project. Historical weather observations from across Canada were transcribed, mainly by citizen science transcribers, between 2010-2015. This project was organized by Victoria Slonosky. The files here are in station echange format (SEF) (https://datarescue.climate.copernicus.eu/node/80), where each file consists of one meteorological variable for one station.
+This repository contains files from the ACRE-Canada historical climatology data rescue project. Historical weather observations from across Canada were transcribed by Environment Canada in 2001 and by citizen science transcribers and the University of Giessen between 2010-2015. This project was organized by Victoria Slonosky. The files here are in station echange format (SEF) (https://datarescue.climate.copernicus.eu/node/80), where each file consists of one meteorological variable for one station.
 Please be aware that the international SEF format also requires data to be translated into universal time co-ordinates (UTC), rather than the original local time recording. Given the uncertainties prevailing in both time and longitude during most of the time period covered by this project, the UTC conversion was calculated using current day time zone conversions.
 
 Although this dataset as a whole has not yet been published, diffrent aspects of the project have been published as lited below. Please cite the publication which is best suited for your use of the data. If none of the citation suit, please choose Slonosky (2018).
