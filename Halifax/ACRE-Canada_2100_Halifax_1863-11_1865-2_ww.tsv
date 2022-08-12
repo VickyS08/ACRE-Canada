@@ -1,0 +1,985 @@
+SEF	1.0.0
+ID	2100
+Name	'Halifax'
+Lat	44.648
+Lon	-63.58
+Alt	68
+Source	ACRE-Canada
+Link	TBD
+Vbl	ww
+Stat	point
+Units	text
+Meta	Observer Name='Anon'	UTCOffset=Applied	UTCOffset=4.00
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1863	11	01	16	00	0	clear	Orig=clear text|Local Time=1863-11-1 12:00
+1863	11	01	04	00	0	Sun Shine	Orig=Sun Shine text|Local Time=1863-11-1 00:00
+1863	11	02	16	00	0	?	Orig=? text|Local Time=1863-11-2 12:00
+1863	11	02	04	00	0		Orig= text|Local Time=1863-11-2 00:00
+1863	11	03	16	00	0	?	Orig=? text|Local Time=1863-11-3 12:00
+1863	11	03	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1863-11-3 00:00
+1863	11	04	16	00	0	?	Orig=? text|Local Time=1863-11-4 12:00
+1863	11	04	04	00	0	light shower afternoon	Orig=light shower afternoon text|Local Time=1863-11-4 00:00
+1863	11	05	16	00	0	?	Orig=? text|Local Time=1863-11-5 12:00
+1863	11	05	04	00	0	light snow & rain afternoon	Orig=light snow & rain afternoon text|Local Time=1863-11-5 00:00
+1863	11	06	16	00	0	thick	Orig=thick text|Local Time=1863-11-6 12:00
+1863	11	06	04	00	0		Orig= text|Local Time=1863-11-6 00:00
+1863	11	07	16	00	0	clear	Orig=clear text|Local Time=1863-11-7 12:00
+1863	11	07	04	00	0		Orig= text|Local Time=1863-11-7 00:00
+1863	11	08	16	00	0	rain	Orig=rain text|Local Time=1863-11-8 12:00
+1863	11	08	04	00	0		Orig= text|Local Time=1863-11-8 00:00
+1863	11	09	16	00	0	foggy	Orig=foggy text|Local Time=1863-11-9 12:00
+1863	11	09	04	00	0		Orig= text|Local Time=1863-11-9 00:00
+1863	11	10	16	00	0	foggy	Orig=foggy text|Local Time=1863-11-10 12:00
+1863	11	10	04	00	0	rain mainly all day  ??	Orig=rain mainly all day  ?? text|Local Time=1863-11-10 00:00
+1863	11	11	16	00	0	clear	Orig=clear text|Local Time=1863-11-11 12:00
+1863	11	11	04	00	0	rain at night	Orig=rain at night text|Local Time=1863-11-11 00:00
+1863	11	12	16	00	0	thick	Orig=thick text|Local Time=1863-11-12 12:00
+1863	11	12	04	00	0		Orig= text|Local Time=1863-11-12 00:00
+1863	11	13	16	00	0	?	Orig=? text|Local Time=1863-11-13 12:00
+1863	11	13	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1863-11-13 00:00
+1863	11	14	16	00	0	clear	Orig=clear text|Local Time=1863-11-14 12:00
+1863	11	14	04	00	0		Orig= text|Local Time=1863-11-14 00:00
+1863	11	15	16	00	0	clear	Orig=clear text|Local Time=1863-11-15 12:00
+1863	11	15	04	00	0		Orig= text|Local Time=1863-11-15 00:00
+1863	11	16	16	00	0	rain	Orig=rain text|Local Time=1863-11-16 12:00
+1863	11	16	04	00	0	alternate foggy day/fog at night	Orig=alternate foggy day/fog at night text|Local Time=1863-11-16 00:00
+1863	11	17	16	00	0	fog	Orig=fog text|Local Time=1863-11-17 12:00
+1863	11	17	04	00	0	dense fog & rain	Orig=dense fog & rain text|Local Time=1863-11-17 00:00
+1863	11	18	16	00	0		Orig= text|Local Time=1863-11-18 12:00
+1863	11	18	04	00	0	rain & fog all day	Orig=rain & fog all day text|Local Time=1863-11-18 00:00
+1863	11	19	16	00	0	clear	Orig=clear text|Local Time=1863-11-19 12:00
+1863	11	19	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-11-19 00:00
+1863	11	20	16	00	0	hazy	Orig=hazy text|Local Time=1863-11-20 12:00
+1863	11	20	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-11-20 00:00
+1863	11	21	16	00	0	thick	Orig=thick text|Local Time=1863-11-21 12:00
+1863	11	21	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-11-21 00:00
+1863	11	22	16	00	0	thick	Orig=thick text|Local Time=1863-11-22 12:00
+1863	11	22	04	00	0	rain & fog afternoon	Orig=rain & fog afternoon text|Local Time=1863-11-22 00:00
+1863	11	23	16	00	0	clear	Orig=clear text|Local Time=1863-11-23 12:00
+1863	11	23	04	00	0	Sun Shine	Orig=Sun Shine text|Local Time=1863-11-23 00:00
+1863	11	24	16	00	0	clear	Orig=clear text|Local Time=1863-11-24 12:00
+1863	11	24	04	00	0	sun shine during day/rain night	Orig=sun shine during day/rain night text|Local Time=1863-11-24 00:00
+1863	11	25	16	00	0	clear	Orig=clear text|Local Time=1863-11-25 12:00
+1863	11	25	04	00	0	sun during day, rain at night	Orig=sun during day, rain at night text|Local Time=1863-11-25 00:00
+1863	11	26	16	00	0	clear	Orig=clear text|Local Time=1863-11-26 12:00
+1863	11	26	04	00	0		Orig= text|Local Time=1863-11-26 00:00
+1863	11	27	16	00	0	clear	Orig=clear text|Local Time=1863-11-27 12:00
+1863	11	27	04	00	0		Orig= text|Local Time=1863-11-27 00:00
+1863	11	28	16	00	0	thick	Orig=thick text|Local Time=1863-11-28 12:00
+1863	11	28	04	00	0	heavy rain at night	Orig=heavy rain at night text|Local Time=1863-11-28 00:00
+1863	11	29	16	00	0	dull	Orig=dull text|Local Time=1863-11-29 12:00
+1863	11	29	04	00	0		Orig= text|Local Time=1863-11-29 00:00
+1863	11	30	16	00	0	dull	Orig=dull text|Local Time=1863-11-30 12:00
+1863	11	30	04	00	0		Orig= text|Local Time=1863-11-30 00:00
+1863	12	01	16	00	0	clear	Orig=clear text|Local Time=1863-12-1 12:00
+1863	12	01	04	00	0		Orig= text|Local Time=1863-12-1 00:00
+1863	12	02	16	00	0	thick	Orig=thick text|Local Time=1863-12-2 12:00
+1863	12	02	04	00	0	wind, rain at night	Orig=wind, rain at night text|Local Time=1863-12-2 00:00
+1863	12	03	16	00	0	clear	Orig=clear text|Local Time=1863-12-3 12:00
+1863	12	03	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-12-3 00:00
+1863	12	04	16	00	0	clear	Orig=clear text|Local Time=1863-12-4 12:00
+1863	12	04	04	00	0	light rain at night	Orig=light rain at night text|Local Time=1863-12-4 00:00
+1863	12	05	16	00	0	clear	Orig=clear text|Local Time=1863-12-5 12:00
+1863	12	05	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-12-5 00:00
+1863	12	06	16	00	0	thick	Orig=thick text|Local Time=1863-12-6 12:00
+1863	12	06	04	00	0	light snow during day	Orig=light snow during day text|Local Time=1863-12-6 00:00
+1863	12	07	16	00	0	hazy	Orig=hazy text|Local Time=1863-12-7 12:00
+1863	12	07	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-12-7 00:00
+1863	12	08	16	00	0	clear	Orig=clear text|Local Time=1863-12-8 12:00
+1863	12	08	04	00	0	sun shine	Orig=sun shine text|Local Time=1863-12-8 00:00
+1863	12	09	16	00	0	thick	Orig=thick text|Local Time=1863-12-9 12:00
+1863	12	09	04	00	0		Orig= text|Local Time=1863-12-9 00:00
+1863	12	10	16	00	0	thick	Orig=thick text|Local Time=1863-12-10 12:00
+1863	12	10	04	00	0	snow storm afternoon	Orig=snow storm afternoon text|Local Time=1863-12-10 00:00
+1863	12	11	16	00	0	thick	Orig=thick text|Local Time=1863-12-11 12:00
+1863	12	11	04	00	0	light snow during day	Orig=light snow during day text|Local Time=1863-12-11 00:00
+1863	12	12	16	00	0	clear	Orig=clear text|Local Time=1863-12-12 12:00
+1863	12	12	04	00	0		Orig= text|Local Time=1863-12-12 00:00
+1863	12	13	16	00	0	thick	Orig=thick text|Local Time=1863-12-13 12:00
+1863	12	13	04	00	0	rain during day	Orig=rain during day text|Local Time=1863-12-13 00:00
+1863	12	14	16	00	0	foggy	Orig=foggy text|Local Time=1863-12-14 12:00
+1863	12	14	04	00	0	dense fog all day, rain at night	Orig=dense fog all day, rain at night text|Local Time=1863-12-14 00:00
+1863	12	15	16	00	0	thick	Orig=thick text|Local Time=1863-12-15 12:00
+1863	12	15	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1863-12-15 00:00
+1863	12	16	16	00	0	clear	Orig=clear text|Local Time=1863-12-16 12:00
+1863	12	16	04	00	0		Orig= text|Local Time=1863-12-16 00:00
+1863	12	17	16	00	0	thick	Orig=thick text|Local Time=1863-12-17 12:00
+1863	12	17	04	00	0		Orig= text|Local Time=1863-12-17 00:00
+1863	12	18	16	00	0	rain	Orig=rain text|Local Time=1863-12-18 12:00
+1863	12	18	04	00	0	heavy rain all day, light snow aftn	Orig=heavy rain all day, light snow aftn text|Local Time=1863-12-18 00:00
+1863	12	19	16	00	0	clear	Orig=clear text|Local Time=1863-12-19 12:00
+1863	12	19	04	00	0	snow afternoon	Orig=snow afternoon text|Local Time=1863-12-19 00:00
+1863	12	20	16	00	0	clear	Orig=clear text|Local Time=1863-12-20 12:00
+1863	12	20	04	00	0	light snow at intervals	Orig=light snow at intervals text|Local Time=1863-12-20 00:00
+1864	01	01	16	00	0	thick	Orig=thick text|Local Time=1864-1-1 12:00
+1864	01	01	04	00	0	snow forenoon, rain afternoon	Orig=snow forenoon, rain afternoon text|Local Time=1864-1-1 00:00
+1864	01	02	16	00	0	clear	Orig=clear text|Local Time=1864-1-2 12:00
+1864	01	02	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1864-1-2 00:00
+1864	01	03	16	00	0	clear	Orig=clear text|Local Time=1864-1-3 12:00
+1864	01	03	04	00	0		Orig= text|Local Time=1864-1-3 00:00
+1864	01	04	16	00	0	thick	Orig=thick text|Local Time=1864-1-4 12:00
+1864	01	04	04	00	0	snow afternoon	Orig=snow afternoon text|Local Time=1864-1-4 00:00
+1864	01	05	16	00	0	thick	Orig=thick text|Local Time=1864-1-5 12:00
+1864	01	05	04	00	0	heavy fall of snow afternoon	Orig=heavy fall of snow afternoon text|Local Time=1864-1-5 00:00
+1864	01	06	16	00	0	thick	Orig=thick text|Local Time=1864-1-6 12:00
+1864	01	06	04	00	0		Orig= text|Local Time=1864-1-6 00:00
+1864	01	07	16	00	0	hazy	Orig=hazy text|Local Time=1864-1-7 12:00
+1864	01	07	04	00	0		Orig= text|Local Time=1864-1-7 00:00
+1864	01	08	16	00	0	thick	Orig=thick text|Local Time=1864-1-8 12:00
+1864	01	08	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1864-1-8 00:00
+1864	01	09	16	00	0	thick	Orig=thick text|Local Time=1864-1-9 12:00
+1864	01	09	04	00	0		Orig= text|Local Time=1864-1-9 00:00
+1864	01	10	16	00	0	clear	Orig=clear text|Local Time=1864-1-10 12:00
+1864	01	10	04	00	0		Orig= text|Local Time=1864-1-10 00:00
+1864	01	11	16	00	0	thick	Orig=thick text|Local Time=1864-1-11 12:00
+1864	01	11	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1864-1-11 00:00
+1864	01	12	16	00	0	clear	Orig=clear text|Local Time=1864-1-12 12:00
+1864	01	12	04	00	0		Orig= text|Local Time=1864-1-12 00:00
+1864	01	13	16	00	0	clear	Orig=clear text|Local Time=1864-1-13 12:00
+1864	01	13	04	00	0		Orig= text|Local Time=1864-1-13 00:00
+1864	01	14	16	00	0	clear	Orig=clear text|Local Time=1864-1-14 12:00
+1864	01	14	04	00	0		Orig= text|Local Time=1864-1-14 00:00
+1864	01	15	16	00	0	thick	Orig=thick text|Local Time=1864-1-15 12:00
+1864	01	15	04	00	0	snow & rain from 7pm?	Orig=snow & rain from 7pm? text|Local Time=1864-1-15 00:00
+1864	01	16	16	00	0	thick	Orig=thick text|Local Time=1864-1-16 12:00
+1864	01	16	04	00	0	rain forenoon	Orig=rain forenoon text|Local Time=1864-1-16 00:00
+1864	01	17	16	00	0	clear	Orig=clear text|Local Time=1864-1-17 12:00
+1864	01	17	04	00	0		Orig= text|Local Time=1864-1-17 00:00
+1864	01	18	16	00	0	foggy	Orig=foggy text|Local Time=1864-1-18 12:00
+1864	01	18	04	00	0	thick fog forenoon	Orig=thick fog forenoon text|Local Time=1864-1-18 00:00
+1864	01	19	16	00	0	rain	Orig=rain text|Local Time=1864-1-19 12:00
+1864	01	19	04	00	0	heavy rain all day	Orig=heavy rain all day text|Local Time=1864-1-19 00:00
+1864	01	20	16	00	0	thick	Orig=thick text|Local Time=1864-1-20 12:00
+1864	01	20	04	00	0	light snow at night	Orig=light snow at night text|Local Time=1864-1-20 00:00
+1864	01	21	16	00	0	thick	Orig=thick text|Local Time=1864-1-21 12:00
+1864	01	21	04	00	0		Orig= text|Local Time=1864-1-21 00:00
+1864	01	22	16	00	0	clear	Orig=clear text|Local Time=1864-1-22 12:00
+1864	01	22	04	00	0		Orig= text|Local Time=1864-1-22 00:00
+1864	01	23	16	00	0	clear	Orig=clear text|Local Time=1864-1-23 12:00
+1864	01	23	04	00	0		Orig= text|Local Time=1864-1-23 00:00
+1864	01	24	16	00	0	thick	Orig=thick text|Local Time=1864-1-24 12:00
+1864	01	24	04	00	0		Orig= text|Local Time=1864-1-24 00:00
+1864	01	25	16	00	0	rain	Orig=rain text|Local Time=1864-1-25 12:00
+1864	01	25	04	00	0	showery all day	Orig=showery all day text|Local Time=1864-1-25 00:00
+1864	01	26	16	00	0	thick	Orig=thick text|Local Time=1864-1-26 12:00
+1864	01	26	04	00	0	heavy snow afternoon	Orig=heavy snow afternoon text|Local Time=1864-1-26 00:00
+1864	01	27	16	00	0	thick	Orig=thick text|Local Time=1864-1-27 12:00
+1864	01	27	04	00	0	snow mid-day	Orig=snow mid-day text|Local Time=1864-1-27 00:00
+1864	01	28	16	00	0	thick	Orig=thick text|Local Time=1864-1-28 12:00
+1864	01	28	04	00	0		Orig= text|Local Time=1864-1-28 00:00
+1864	01	29	16	00	0	thick	Orig=thick text|Local Time=1864-1-29 12:00
+1864	01	29	04	00	0		Orig= text|Local Time=1864-1-29 00:00
+1864	01	30	16	00	0	clear	Orig=clear text|Local Time=1864-1-30 12:00
+1864	01	30	04	00	0		Orig= text|Local Time=1864-1-30 00:00
+1864	01	31	16	00	0	thick	Orig=thick text|Local Time=1864-1-31 12:00
+1864	01	31	04	00	0	heavy fall of snow	Orig=heavy fall of snow text|Local Time=1864-1-31 00:00
+1864	02	01	16	00	0	clear	Orig=clear text|Local Time=1864-2-1 12:00
+1864	02	01	04	00	0		Orig= text|Local Time=1864-2-1 00:00
+1864	02	02	16	00	0	foggy	Orig=foggy text|Local Time=1864-2-2 12:00
+1864	02	02	04	00	0	fog & rain all day	Orig=fog & rain all day text|Local Time=1864-2-2 00:00
+1864	02	03	16	00	0	clear	Orig=clear text|Local Time=1864-2-3 12:00
+1864	02	03	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1864-2-3 00:00
+1864	02	04	16	00	0	clear	Orig=clear text|Local Time=1864-2-4 12:00
+1864	02	04	04	00	0		Orig= text|Local Time=1864-2-4 00:00
+1864	02	05	16	00	0	rain	Orig=rain text|Local Time=1864-2-5 12:00
+1864	02	05	04	00	0	rain all day	Orig=rain all day text|Local Time=1864-2-5 00:00
+1864	02	06	16	00	0	foggy	Orig=foggy text|Local Time=1864-2-6 12:00
+1864	02	06	04	00	0	dense fog forenoon	Orig=dense fog forenoon text|Local Time=1864-2-6 00:00
+1864	02	07	16	00	0	foggy	Orig=foggy text|Local Time=1864-2-7 12:00
+1864	02	07	04	00	0	rain & fog all day	Orig=rain & fog all day text|Local Time=1864-2-7 00:00
+1864	02	08	16	00	0	clear	Orig=clear text|Local Time=1864-2-8 12:00
+1864	02	08	04	00	0	light snow forenoon	Orig=light snow forenoon text|Local Time=1864-2-8 00:00
+1864	02	09	16	00	0	clear	Orig=clear text|Local Time=1864-2-9 12:00
+1864	02	09	04	00	0		Orig= text|Local Time=1864-2-9 00:00
+1864	02	10	16	00	0	clear	Orig=clear text|Local Time=1864-2-10 12:00
+1864	02	10	04	00	0		Orig= text|Local Time=1864-2-10 00:00
+1864	02	11	16	00	0	clear	Orig=clear text|Local Time=1864-2-11 12:00
+1864	02	11	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-2-11 00:00
+1864	02	12	16	00	0	clear	Orig=clear text|Local Time=1864-2-12 12:00
+1864	02	12	04	00	0		Orig= text|Local Time=1864-2-12 00:00
+1864	02	13	16	00	0	clear	Orig=clear text|Local Time=1864-2-13 12:00
+1864	02	13	04	00	0		Orig= text|Local Time=1864-2-13 00:00
+1864	02	14	16	00	0	thick	Orig=thick text|Local Time=1864-2-14 12:00
+1864	02	14	04	00	0	snow all day	Orig=snow all day text|Local Time=1864-2-14 00:00
+1864	02	15	16	00	0	hazy	Orig=hazy text|Local Time=1864-2-15 12:00
+1864	02	15	04	00	0		Orig= text|Local Time=1864-2-15 00:00
+1864	02	16	16	00	0	clear	Orig=clear text|Local Time=1864-2-16 12:00
+1864	02	16	04	00	0	heavy snow fall at night	Orig=heavy snow fall at night text|Local Time=1864-2-16 00:00
+1864	02	17	16	00	0	thick	Orig=thick text|Local Time=1864-2-17 12:00
+1864	02	17	04	00	0	sudden fall of Bar(ometer) morning	Orig=sudden fall of Bar(ometer) morning text|Local Time=1864-2-17 00:00
+1864	02	18	16	00	0	clear	Orig=clear text|Local Time=1864-2-18 12:00
+1864	02	18	04	00	0		Orig= text|Local Time=1864-2-18 00:00
+1864	02	19	16	00	0	hazy	Orig=hazy text|Local Time=1864-2-19 12:00
+1864	02	19	04	00	0		Orig= text|Local Time=1864-2-19 00:00
+1864	02	20	16	00	0	thick	Orig=thick text|Local Time=1864-2-20 12:00
+1864	02	20	04	00	0	snow during day	Orig=snow during day text|Local Time=1864-2-20 00:00
+1864	02	21	16	00	0	clear	Orig=clear text|Local Time=1864-2-21 12:00
+1864	02	21	04	00	0		Orig= text|Local Time=1864-2-21 00:00
+1864	02	22	16	00	0	hazy	Orig=hazy text|Local Time=1864-2-22 12:00
+1864	02	22	04	00	0		Orig= text|Local Time=1864-2-22 00:00
+1864	02	23	16	00	0	thick	Orig=thick text|Local Time=1864-2-23 12:00
+1864	02	23	04	00	0	rain all day	Orig=rain all day text|Local Time=1864-2-23 00:00
+1864	02	24	16	00	0	fog	Orig=fog text|Local Time=1864-2-24 12:00
+1864	02	24	04	00	0	dense for till 3pm	Orig=dense for till 3pm text|Local Time=1864-2-24 00:00
+1864	02	25	16	00	0	clear	Orig=clear text|Local Time=1864-2-25 12:00
+1864	02	25	04	00	0	rain & fog at intervals	Orig=rain & fog at intervals text|Local Time=1864-2-25 00:00
+1864	02	26	16	00	0	clear	Orig=clear text|Local Time=1864-2-26 12:00
+1864	02	26	04	00	0	light snow aftn, rain at night	Orig=light snow aftn, rain at night text|Local Time=1864-2-26 00:00
+1864	02	27	16	00	0	thick	Orig=thick text|Local Time=1864-2-27 12:00
+1864	02	27	04	00	0	heavy snow all day	Orig=heavy snow all day text|Local Time=1864-2-27 00:00
+1864	02	28	16	00	0	clear	Orig=clear text|Local Time=1864-2-28 12:00
+1864	02	28	04	00	0		Orig= text|Local Time=1864-2-28 00:00
+1864	02	29	16	00	0	thick	Orig=thick text|Local Time=1864-2-29 12:00
+1864	02	29	04	00	0	fog & rain all day	Orig=fog & rain all day text|Local Time=1864-2-29 00:00
+1864	03	01	16	00	0	clear	Orig=clear text|Local Time=1864-3-1 12:00
+1864	03	01	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-1 00:00
+1864	03	02	16	00	0	thick	Orig=thick text|Local Time=1864-3-2 12:00
+1864	03	02	04	00	0	heavy snow forenoon	Orig=heavy snow forenoon text|Local Time=1864-3-2 00:00
+1864	03	03	16	00	0	clear	Orig=clear text|Local Time=1864-3-3 12:00
+1864	03	03	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-3 00:00
+1864	03	04	16	00	0	clear	Orig=clear text|Local Time=1864-3-4 12:00
+1864	03	04	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-4 00:00
+1864	03	05	16	00	0	thick	Orig=thick text|Local Time=1864-3-5 12:00
+1864	03	05	04	00	0	fog all day	Orig=fog all day text|Local Time=1864-3-5 00:00
+1864	03	06	16	00	0	foggy	Orig=foggy text|Local Time=1864-3-6 12:00
+1864	03	06	04	00	0	fog forenoon	Orig=fog forenoon text|Local Time=1864-3-6 00:00
+1864	03	07	16	00	0	clear	Orig=clear text|Local Time=1864-3-7 12:00
+1864	03	07	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-3-7 00:00
+1864	03	08	16	00	0	rain	Orig=rain text|Local Time=1864-3-8 12:00
+1864	03	08	04	00	0	heavy rain all day	Orig=heavy rain all day text|Local Time=1864-3-8 00:00
+1864	03	09	16	00	0	clear	Orig=clear text|Local Time=1864-3-9 12:00
+1864	03	09	04	00	0		Orig= text|Local Time=1864-3-9 00:00
+1864	03	10	16	00	0	clear	Orig=clear text|Local Time=1864-3-10 12:00
+1864	03	10	04	00	0		Orig= text|Local Time=1864-3-10 00:00
+1864	03	11	16	00	0	clear	Orig=clear text|Local Time=1864-3-11 12:00
+1864	03	11	04	00	0		Orig= text|Local Time=1864-3-11 00:00
+1864	03	12	16	00	0	rain	Orig=rain text|Local Time=1864-3-12 12:00
+1864	03	12	04	00	0	thunder storm/heavy rain/lightning	Orig=thunder storm/heavy rain/lightning text|Local Time=1864-3-12 00:00
+1864	03	13	16	00	0	clear	Orig=clear text|Local Time=1864-3-13 12:00
+1864	03	13	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-13 00:00
+1864	03	14	16	00	0	clear	Orig=clear text|Local Time=1864-3-14 12:00
+1864	03	14	04	00	0	snow forenoon	Orig=snow forenoon text|Local Time=1864-3-14 00:00
+1864	03	15	16	00	0	clear	Orig=clear text|Local Time=1864-3-15 12:00
+1864	03	15	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-15 00:00
+1864	03	16	16	00	0	clear	Orig=clear text|Local Time=1864-3-16 12:00
+1864	03	16	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-16 00:00
+1864	03	17	16	00	0	clear	Orig=clear text|Local Time=1864-3-17 12:00
+1864	03	17	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-17 00:00
+1864	03	18	16	00	0	clear	Orig=clear text|Local Time=1864-3-18 12:00
+1864	03	18	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-18 00:00
+1864	03	19	16	00	0	hazy	Orig=hazy text|Local Time=1864-3-19 12:00
+1864	03	19	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1864-3-19 00:00
+1864	03	20	16	00	0	clear	Orig=clear text|Local Time=1864-3-20 12:00
+1864	03	20	04	00	0	light snow forenoon	Orig=light snow forenoon text|Local Time=1864-3-20 00:00
+1864	03	21	16	00	0	clear	Orig=clear text|Local Time=1864-3-21 12:00
+1864	03	21	04	00	0		Orig= text|Local Time=1864-3-21 00:00
+1864	03	22	16	00	0	clear	Orig=clear text|Local Time=1864-3-22 12:00
+1864	03	22	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-22 00:00
+1864	03	23	16	00	0	thick	Orig=thick text|Local Time=1864-3-23 12:00
+1864	03	23	04	00	0	light snow afternoon	Orig=light snow afternoon text|Local Time=1864-3-23 00:00
+1864	03	24	16	00	0	thick	Orig=thick text|Local Time=1864-3-24 12:00
+1864	03	24	04	00	0	sudden fall of Bar early morn	Orig=sudden fall of Bar early morn text|Local Time=1864-3-24 00:00
+1864	03	25	16	00	0	clear	Orig=clear text|Local Time=1864-3-25 12:00
+1864	03	25	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-25 00:00
+1864	03	26	16	00	0	clear	Orig=clear text|Local Time=1864-3-26 12:00
+1864	03	26	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-26 00:00
+1864	03	27	16	00	0	clear	Orig=clear text|Local Time=1864-3-27 12:00
+1864	03	27	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-27 00:00
+1864	03	28	16	00	0	clear	Orig=clear text|Local Time=1864-3-28 12:00
+1864	03	28	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-28 00:00
+1864	03	29	16	00	0	hazy	Orig=hazy text|Local Time=1864-3-29 12:00
+1864	03	29	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-3-29 00:00
+1864	03	30	16	00	0	wet	Orig=wet text|Local Time=1864-3-30 12:00
+1864	03	30	04	00	0	rain afternoon & night	Orig=rain afternoon & night text|Local Time=1864-3-30 00:00
+1864	03	31	16	00	0	thick	Orig=thick text|Local Time=1864-3-31 12:00
+1864	03	31	04	00	0	rain & fog	Orig=rain & fog text|Local Time=1864-3-31 00:00
+1864	04	01	16	00	0	clear	Orig=clear text|Local Time=1864-4-1 12:00
+1864	04	01	04	00	0	clear	Orig=clear text|Local Time=1864-4-1 00:00
+1864	04	02	16	00	0	clear	Orig=clear text|Local Time=1864-4-2 12:00
+1864	04	02	04	00	0	clear	Orig=clear text|Local Time=1864-4-2 00:00
+1864	04	03	16	00	0	clear	Orig=clear text|Local Time=1864-4-3 12:00
+1864	04	03	04	00	0	clear	Orig=clear text|Local Time=1864-4-3 00:00
+1864	04	04	16	00	0	clear	Orig=clear text|Local Time=1864-4-4 12:00
+1864	04	04	04	00	0	clear	Orig=clear text|Local Time=1864-4-4 00:00
+1864	04	05	16	00	0	clear	Orig=clear text|Local Time=1864-4-5 12:00
+1864	04	05	04	00	0	clear	Orig=clear text|Local Time=1864-4-5 00:00
+1864	04	06	16	00	0	clear	Orig=clear text|Local Time=1864-4-6 12:00
+1864	04	06	04	00	0	clear	Orig=clear text|Local Time=1864-4-6 00:00
+1864	04	07	16	00	0	clear	Orig=clear text|Local Time=1864-4-7 12:00
+1864	04	07	04	00	0	clear	Orig=clear text|Local Time=1864-4-7 00:00
+1864	04	08	16	00	0	thick	Orig=thick text|Local Time=1864-4-8 12:00
+1864	04	08	04	00	0	rain aftrnoon	Orig=rain aftrnoon text|Local Time=1864-4-8 00:00
+1864	04	09	16	00	0	thick	Orig=thick text|Local Time=1864-4-9 12:00
+1864	04	09	04	00	0	snow all day	Orig=snow all day text|Local Time=1864-4-9 00:00
+1864	04	10	16	00	0	hazy	Orig=hazy text|Local Time=1864-4-10 12:00
+1864	04	10	04	00	0		Orig= text|Local Time=1864-4-10 00:00
+1864	04	11	16	00	0	thick	Orig=thick text|Local Time=1864-4-11 12:00
+1864	04	11	04	00	0	rain during day	Orig=rain during day text|Local Time=1864-4-11 00:00
+1864	04	12	16	00	0	thick	Orig=thick text|Local Time=1864-4-12 12:00
+1864	04	12	04	00	0	snow & sleet forenoon	Orig=snow & sleet forenoon text|Local Time=1864-4-12 00:00
+1864	04	13	16	00	0	thick	Orig=thick text|Local Time=1864-4-13 12:00
+1864	04	13	04	00	0	rain all day	Orig=rain all day text|Local Time=1864-4-13 00:00
+1864	04	14	16	00	0	thick	Orig=thick text|Local Time=1864-4-14 12:00
+1864	04	14	04	00	0	fog & rain all day	Orig=fog & rain all day text|Local Time=1864-4-14 00:00
+1864	04	15	16	00	0	clear	Orig=clear text|Local Time=1864-4-15 12:00
+1864	04	15	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-15 00:00
+1864	04	16	16	00	0	hazy	Orig=hazy text|Local Time=1864-4-16 12:00
+1864	04	16	04	00	0		Orig= text|Local Time=1864-4-16 00:00
+1864	04	17	16	00	0	clear	Orig=clear text|Local Time=1864-4-17 12:00
+1864	04	17	04	00	0		Orig= text|Local Time=1864-4-17 00:00
+1864	04	18	16	00	0	clear	Orig=clear text|Local Time=1864-4-18 12:00
+1864	04	18	04	00	0	light rain afternoon	Orig=light rain afternoon text|Local Time=1864-4-18 00:00
+1864	04	19	16	00	0	clear	Orig=clear text|Local Time=1864-4-19 12:00
+1864	04	19	04	00	0		Orig= text|Local Time=1864-4-19 00:00
+1864	04	20	16	00	0	thick	Orig=thick text|Local Time=1864-4-20 12:00
+1864	04	20	04	00	0	heavy snow at night	Orig=heavy snow at night text|Local Time=1864-4-20 00:00
+1864	04	21	16	00	0	thick	Orig=thick text|Local Time=1864-4-21 12:00
+1864	04	21	04	00	0		Orig= text|Local Time=1864-4-21 00:00
+1864	04	22	16	00	0	clear	Orig=clear text|Local Time=1864-4-22 12:00
+1864	04	22	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-22 00:00
+1864	04	23	16	00	0	clear	Orig=clear text|Local Time=1864-4-23 12:00
+1864	04	23	04	00	0	sun shine, rain at night	Orig=sun shine, rain at night text|Local Time=1864-4-23 00:00
+1864	04	24	16	00	0	clear	Orig=clear text|Local Time=1864-4-24 12:00
+1864	04	24	04	00	0		Orig= text|Local Time=1864-4-24 00:00
+1864	04	25	16	00	0	clear	Orig=clear text|Local Time=1864-4-25 12:00
+1864	04	25	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-25 00:00
+1864	04	26	16	00	0	clear	Orig=clear text|Local Time=1864-4-26 12:00
+1864	04	26	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-26 00:00
+1864	04	27	16	00	0	clear	Orig=clear text|Local Time=1864-4-27 12:00
+1864	04	27	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-27 00:00
+1864	04	28	16	00	0	clear	Orig=clear text|Local Time=1864-4-28 12:00
+1864	04	28	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-28 00:00
+1864	04	29	16	00	0	clear	Orig=clear text|Local Time=1864-4-29 12:00
+1864	04	29	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-4-29 00:00
+1864	04	30	16	00	0	hazy	Orig=hazy text|Local Time=1864-4-30 12:00
+1864	04	30	04	00	0		Orig= text|Local Time=1864-4-30 00:00
+1864	05	01	16	00	0	clear	Orig=clear text|Local Time=1864-5-1 12:00
+1864	05	01	04	00	0		Orig= text|Local Time=1864-5-1 00:00
+1864	05	02	16	00	0	rain	Orig=rain text|Local Time=1864-5-2 12:00
+1864	05	02	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-5-2 00:00
+1864	05	03	16	00	0	thick	Orig=thick text|Local Time=1864-5-3 12:00
+1864	05	03	04	00	0		Orig= text|Local Time=1864-5-3 00:00
+1864	05	04	16	00	0	hazy	Orig=hazy text|Local Time=1864-5-4 12:00
+1864	05	04	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-4 00:00
+1864	05	05	16	00	0	clear	Orig=clear text|Local Time=1864-5-5 12:00
+1864	05	05	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-5 00:00
+1864	05	06	16	00	0	clear	Orig=clear text|Local Time=1864-5-6 12:00
+1864	05	06	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-6 00:00
+1864	05	07	16	00	0	clear	Orig=clear text|Local Time=1864-5-7 12:00
+1864	05	07	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-7 00:00
+1864	05	08	16	00	0	clear	Orig=clear text|Local Time=1864-5-8 12:00
+1864	05	08	04	00	0	fog & rain all day	Orig=fog & rain all day text|Local Time=1864-5-8 00:00
+1864	05	09	16	00	0	thick	Orig=thick text|Local Time=1864-5-9 12:00
+1864	05	09	04	00	0	fog & rain all day	Orig=fog & rain all day text|Local Time=1864-5-9 00:00
+1864	05	10	16	00	0		Orig= text|Local Time=1864-5-10 12:00
+1864	05	10	04	00	0	fog evening	Orig=fog evening text|Local Time=1864-5-10 00:00
+1864	05	11	16	00	0	fog	Orig=fog text|Local Time=1864-5-11 12:00
+1864	05	11	04	00	0	dense fog all day	Orig=dense fog all day text|Local Time=1864-5-11 00:00
+1864	05	12	16	00	0	fog	Orig=fog text|Local Time=1864-5-12 12:00
+1864	05	12	04	00	0	dense fog forenoon	Orig=dense fog forenoon text|Local Time=1864-5-12 00:00
+1864	05	13	16	00	0	fog	Orig=fog text|Local Time=1864-5-13 12:00
+1864	05	13	04	00	0	dense fog forenoon	Orig=dense fog forenoon text|Local Time=1864-5-13 00:00
+1864	05	14	16	00	0	fog	Orig=fog text|Local Time=1864-5-14 12:00
+1864	05	14	04	00	0	dense fog at intervals	Orig=dense fog at intervals text|Local Time=1864-5-14 00:00
+1864	05	15	16	00	0	fog	Orig=fog text|Local Time=1864-5-15 12:00
+1864	05	15	04	00	0	dense fog all day	Orig=dense fog all day text|Local Time=1864-5-15 00:00
+1864	05	16	16	00	0	fog	Orig=fog text|Local Time=1864-5-16 12:00
+1864	05	16	04	00	0	dense fog all day	Orig=dense fog all day text|Local Time=1864-5-16 00:00
+1864	05	17	16	00	0	fog	Orig=fog text|Local Time=1864-5-17 12:00
+1864	05	17	04	00	0	dense fog all day	Orig=dense fog all day text|Local Time=1864-5-17 00:00
+1864	05	18	16	00	0	clear	Orig=clear text|Local Time=1864-5-18 12:00
+1864	05	18	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-18 00:00
+1864	05	19	16	00	0	clear	Orig=clear text|Local Time=1864-5-19 12:00
+1864	05	19	04	00	0		Orig= text|Local Time=1864-5-19 00:00
+1864	05	20	16	00	0	clear	Orig=clear text|Local Time=1864-5-20 12:00
+1864	05	20	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-20 00:00
+1864	05	21	16	00	0	thick	Orig=thick text|Local Time=1864-5-21 12:00
+1864	05	21	04	00	0	slight shower afternoon	Orig=slight shower afternoon text|Local Time=1864-5-21 00:00
+1864	05	22	16	00	0	thick	Orig=thick text|Local Time=1864-5-22 12:00
+1864	05	22	04	00	0	heavy rain forenoon	Orig=heavy rain forenoon text|Local Time=1864-5-22 00:00
+1864	05	23	16	00	0	clear	Orig=clear text|Local Time=1864-5-23 12:00
+1864	05	23	04	00	0		Orig= text|Local Time=1864-5-23 00:00
+1864	05	24	16	00	0	clear	Orig=clear text|Local Time=1864-5-24 12:00
+1864	05	24	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-5-24 00:00
+1864	05	25	16	00	0	thick	Orig=thick text|Local Time=1864-5-25 12:00
+1864	05	25	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-5-25 00:00
+1864	05	26	16	00	0	thick	Orig=thick text|Local Time=1864-5-26 12:00
+1864	05	26	04	00	0	rain at night	Orig=rain at night text|Local Time=1864-5-26 00:00
+1864	05	27	16	00	0	thick	Orig=thick text|Local Time=1864-5-27 12:00
+1864	05	27	04	00	0	rain & fog all day	Orig=rain & fog all day text|Local Time=1864-5-27 00:00
+1864	05	28	16	00	0	clear	Orig=clear text|Local Time=1864-5-28 12:00
+1864	05	28	04	00	0		Orig= text|Local Time=1864-5-28 00:00
+1864	05	29	16	00	0	clear	Orig=clear text|Local Time=1864-5-29 12:00
+1864	05	29	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-5-29 00:00
+1864	05	30	16	00	0	clear	Orig=clear text|Local Time=1864-5-30 12:00
+1864	05	30	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-5-30 00:00
+1864	05	31	16	00	0	clear	Orig=clear text|Local Time=1864-5-31 12:00
+1864	05	31	04	00	0	shower at night	Orig=shower at night text|Local Time=1864-5-31 00:00
+1864	06	01	16	00	0	hazy	Orig=hazy text|Local Time=1864-6-1 12:00
+1864	06	01	04	00	0	slight rain afternoon	Orig=slight rain afternoon text|Local Time=1864-6-1 00:00
+1864	06	02	16	00	0	hazy	Orig=hazy text|Local Time=1864-6-2 12:00
+1864	06	02	04	00	0	slight rain afternoon	Orig=slight rain afternoon text|Local Time=1864-6-2 00:00
+1864	06	03	16	00	0	clear	Orig=clear text|Local Time=1864-6-3 12:00
+1864	06	03	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-3 00:00
+1864	06	04	16	00	0	clear	Orig=clear text|Local Time=1864-6-4 12:00
+1864	06	04	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-4 00:00
+1864	06	05	16	00	0	clear	Orig=clear text|Local Time=1864-6-5 12:00
+1864	06	05	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-5 00:00
+1864	06	06	16	00	0	foggy	Orig=foggy text|Local Time=1864-6-6 12:00
+1864	06	06	04	00	0		Orig= text|Local Time=1864-6-6 00:00
+1864	06	07	16	00	0	clear	Orig=clear text|Local Time=1864-6-7 12:00
+1864	06	07	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-7 00:00
+1864	06	08	16	00	0	clear	Orig=clear text|Local Time=1864-6-8 12:00
+1864	06	08	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-8 00:00
+1864	06	09	16	00	0	clear	Orig=clear text|Local Time=1864-6-9 12:00
+1864	06	09	04	00	0	rain & fog all day	Orig=rain & fog all day text|Local Time=1864-6-9 00:00
+1864	06	10	16	00	0	clear	Orig=clear text|Local Time=1864-6-10 12:00
+1864	06	10	04	00	0	fog & rain forenoon	Orig=fog & rain forenoon text|Local Time=1864-6-10 00:00
+1864	06	11	16	00	0		Orig= text|Local Time=1864-6-11 12:00
+1864	06	11	04	00	0	fog & rain forenoon, sun afternoon	Orig=fog & rain forenoon, sun afternoon text|Local Time=1864-6-11 00:00
+1864	06	12	16	00	0	clear	Orig=clear text|Local Time=1864-6-12 12:00
+1864	06	12	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-12 00:00
+1864	06	13	16	00	0	clear	Orig=clear text|Local Time=1864-6-13 12:00
+1864	06	13	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-13 00:00
+1864	06	14	16	00	0	clear	Orig=clear text|Local Time=1864-6-14 12:00
+1864	06	14	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-14 00:00
+1864	06	15	16	00	0	clear	Orig=clear text|Local Time=1864-6-15 12:00
+1864	06	15	04	00	0	rain all day	Orig=rain all day text|Local Time=1864-6-15 00:00
+1864	06	16	16	00	0	clear	Orig=clear text|Local Time=1864-6-16 12:00
+1864	06	16	04	00	0	rain all day	Orig=rain all day text|Local Time=1864-6-16 00:00
+1864	06	17	16	00	0	hazy	Orig=hazy text|Local Time=1864-6-17 12:00
+1864	06	17	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-17 00:00
+1864	06	18	16	00	0	clear	Orig=clear text|Local Time=1864-6-18 12:00
+1864	06	18	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-18 00:00
+1864	06	19	16	00	0	clear	Orig=clear text|Local Time=1864-6-19 12:00
+1864	06	19	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-19 00:00
+1864	06	20	16	00	0	thick	Orig=thick text|Local Time=1864-6-20 12:00
+1864	06	20	04	00	0	fog & rain forenoon	Orig=fog & rain forenoon text|Local Time=1864-6-20 00:00
+1864	06	21	16	00	0	clear	Orig=clear text|Local Time=1864-6-21 12:00
+1864	06	21	04	00	0	fog & rain forenoon	Orig=fog & rain forenoon text|Local Time=1864-6-21 00:00
+1864	06	22	16	00	0	clear	Orig=clear text|Local Time=1864-6-22 12:00
+1864	06	22	04	00	0	sun shineall day	Orig=sun shineall day text|Local Time=1864-6-22 00:00
+1864	06	23	16	00	0	thick	Orig=thick text|Local Time=1864-6-23 12:00
+1864	06	23	04	00	0	fog & rain	Orig=fog & rain text|Local Time=1864-6-23 00:00
+1864	06	24	16	00	0	clear	Orig=clear text|Local Time=1864-6-24 12:00
+1864	06	24	04	00	0	sun shine afternoon	Orig=sun shine afternoon text|Local Time=1864-6-24 00:00
+1864	06	25	16	00	0	hazy	Orig=hazy text|Local Time=1864-6-25 12:00
+1864	06	25	04	00	0	sun shine afternoon	Orig=sun shine afternoon text|Local Time=1864-6-25 00:00
+1864	06	26	16	00	0	thick	Orig=thick text|Local Time=1864-6-26 12:00
+1864	06	26	04	00	0	rain & fog forenoon & thunder	Orig=rain & fog forenoon & thunder text|Local Time=1864-6-26 00:00
+1864	06	27	16	00	0	foggy	Orig=foggy text|Local Time=1864-6-27 12:00
+1864	06	27	04	00	0	fog & rain forenoon & thunder	Orig=fog & rain forenoon & thunder text|Local Time=1864-6-27 00:00
+1864	06	28	16	00	0	hazy	Orig=hazy text|Local Time=1864-6-28 12:00
+1864	06	28	04	00	0	occasional showers	Orig=occasional showers text|Local Time=1864-6-28 00:00
+1864	06	29	16	00	0	clear	Orig=clear text|Local Time=1864-6-29 12:00
+1864	06	29	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-6-29 00:00
+1864	06	30	16	00	0	clear	Orig=clear text|Local Time=1864-6-30 12:00
+1864	06	30	04	00	0		Orig= text|Local Time=1864-6-30 00:00
+1864	07	01	16	00	0	clear	Orig=clear text|Local Time=1864-7-1 12:00
+1864	07	01	04	00	0		Orig= text|Local Time=1864-7-1 00:00
+1864	07	02	16	00	0	clear	Orig=clear text|Local Time=1864-7-2 12:00
+1864	07	02	04	00	0	rain & fog afternoon	Orig=rain & fog afternoon text|Local Time=1864-7-2 00:00
+1864	07	03	16	00	0	hazy	Orig=hazy text|Local Time=1864-7-3 12:00
+1864	07	03	04	00	0		Orig= text|Local Time=1864-7-3 00:00
+1864	07	04	16	00	0	rain	Orig=rain text|Local Time=1864-7-4 12:00
+1864	07	04	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-4 00:00
+1864	07	05	16	00	0	foggy	Orig=foggy text|Local Time=1864-7-5 12:00
+1864	07	05	04	00	0	heavy alternate showers	Orig=heavy alternate showers text|Local Time=1864-7-5 00:00
+1864	07	06	16	00	0	clear	Orig=clear text|Local Time=1864-7-6 12:00
+1864	07	06	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-6 00:00
+1864	07	07	16	00	0	clear	Orig=clear text|Local Time=1864-7-7 12:00
+1864	07	07	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-7 00:00
+1864	07	08	16	00	0	clear	Orig=clear text|Local Time=1864-7-8 12:00
+1864	07	08	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-8 00:00
+1864	07	09	16	00	0	clear	Orig=clear text|Local Time=1864-7-9 12:00
+1864	07	09	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-9 00:00
+1864	07	10	16	00	0	foggy	Orig=foggy text|Local Time=1864-7-10 12:00
+1864	07	10	04	00	0	fog afternoon	Orig=fog afternoon text|Local Time=1864-7-10 00:00
+1864	07	11	16	00	0	hazy	Orig=hazy text|Local Time=1864-7-11 12:00
+1864	07	11	04	00	0	heavy alternate showers	Orig=heavy alternate showers text|Local Time=1864-7-11 00:00
+1864	07	12	16	00	0	clear	Orig=clear text|Local Time=1864-7-12 12:00
+1864	07	12	04	00	0	fog am/thunder/lightning rain at night	Orig=fog am/thunder/lightning rain at night text|Local Time=1864-7-12 00:00
+1864	07	13	16	00	0	clear	Orig=clear text|Local Time=1864-7-13 12:00
+1864	07	13	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-13 00:00
+1864	07	14	16	00	0	clear	Orig=clear text|Local Time=1864-7-14 12:00
+1864	07	14	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-14 00:00
+1864	07	15	16	00	0	clear	Orig=clear text|Local Time=1864-7-15 12:00
+1864	07	15	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-15 00:00
+1864	07	16	16	00	0	hazy	Orig=hazy text|Local Time=1864-7-16 12:00
+1864	07	16	04	00	0	fog from 11 pm to 6am	Orig=fog from 11 pm to 6am text|Local Time=1864-7-16 00:00
+1864	07	17	16	00	0	clear	Orig=clear text|Local Time=1864-7-17 12:00
+1864	07	17	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-17 00:00
+1864	07	18	16	00	0	clear	Orig=clear text|Local Time=1864-7-18 12:00
+1864	07	18	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-18 00:00
+1864	07	19	16	00	0	hazy	Orig=hazy text|Local Time=1864-7-19 12:00
+1864	07	19	04	00	0	fog forenoon	Orig=fog forenoon text|Local Time=1864-7-19 00:00
+1864	07	20	16	00	0	clear	Orig=clear text|Local Time=1864-7-20 12:00
+1864	07	20	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-20 00:00
+1864	07	21	16	00	0	foggy	Orig=foggy text|Local Time=1864-7-21 12:00
+1864	07	21	04	00	0	thick fog all day	Orig=thick fog all day text|Local Time=1864-7-21 00:00
+1864	07	22	16	00	0	clear	Orig=clear text|Local Time=1864-7-22 12:00
+1864	07	22	04	00	0	fog forenoon	Orig=fog forenoon text|Local Time=1864-7-22 00:00
+1864	07	23	16	00	0	clear	Orig=clear text|Local Time=1864-7-23 12:00
+1864	07	23	04	00	0		Orig= text|Local Time=1864-7-23 00:00
+1864	07	24	16	00	0	clear	Orig=clear text|Local Time=1864-7-24 12:00
+1864	07	24	04	00	0		Orig= text|Local Time=1864-7-24 00:00
+1864	07	25	16	00	0	clear	Orig=clear text|Local Time=1864-7-25 12:00
+1864	07	25	04	00	0	heavy showers at night	Orig=heavy showers at night text|Local Time=1864-7-25 00:00
+1864	07	26	16	00	0	clear	Orig=clear text|Local Time=1864-7-26 12:00
+1864	07	26	04	00	0		Orig= text|Local Time=1864-7-26 00:00
+1864	07	27	16	00	0	clear	Orig=clear text|Local Time=1864-7-27 12:00
+1864	07	27	04	00	0		Orig= text|Local Time=1864-7-27 00:00
+1864	07	28	16	00	0	clear	Orig=clear text|Local Time=1864-7-28 12:00
+1864	07	28	04	00	0		Orig= text|Local Time=1864-7-28 00:00
+1864	07	29	16	00	0	foggy	Orig=foggy text|Local Time=1864-7-29 12:00
+1864	07	29	04	00	0	occasional showers	Orig=occasional showers text|Local Time=1864-7-29 00:00
+1864	07	30	16	00	0	clear	Orig=clear text|Local Time=1864-7-30 12:00
+1864	07	30	04	00	0		Orig= text|Local Time=1864-7-30 00:00
+1864	07	31	16	00	0	hazy	Orig=hazy text|Local Time=1864-7-31 12:00
+1864	07	31	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-7-31 00:00
+1864	08	01	16	00	0	clear	Orig=clear text|Local Time=1864-8-1 12:00
+1864	08	01	04	00	0		Orig= text|Local Time=1864-8-1 00:00
+1864	08	02	16	00	0	clear	Orig=clear text|Local Time=1864-8-2 12:00
+1864	08	02	04	00	0	sunshine, thunder storm/rain/lightning at 8pm	Orig=sunshine, thunder storm/rain/lightning at 8pm text|Local Time=1864-8-2 00:00
+1864	08	03	16	00	0	hazy	Orig=hazy text|Local Time=1864-8-3 12:00
+1864	08	03	04	00	0		Orig= text|Local Time=1864-8-3 00:00
+1864	08	04	16	00	0	rain	Orig=rain text|Local Time=1864-8-4 12:00
+1864	08	04	04	00	0	dense fog & rain	Orig=dense fog & rain text|Local Time=1864-8-4 00:00
+1864	08	05	16	00	0	foggy	Orig=foggy text|Local Time=1864-8-5 12:00
+1864	08	05	04	00	0	foggy forenoon heavy rain aftrnoon	Orig=foggy forenoon heavy rain aftrnoon text|Local Time=1864-8-5 00:00
+1864	08	06	16	00	0	clear	Orig=clear text|Local Time=1864-8-6 12:00
+1864	08	06	04	00	0		Orig= text|Local Time=1864-8-6 00:00
+1864	08	07	16	00	0	clear	Orig=clear text|Local Time=1864-8-7 12:00
+1864	08	07	04	00	0	rain at intervals	Orig=rain at intervals text|Local Time=1864-8-7 00:00
+1864	08	08	16	00	0	clear	Orig=clear text|Local Time=1864-8-8 12:00
+1864	08	08	04	00	0	rain at intervals	Orig=rain at intervals text|Local Time=1864-8-8 00:00
+1864	08	09	16	00	0	clear	Orig=clear text|Local Time=1864-8-9 12:00
+1864	08	09	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-8-9 00:00
+1864	08	10	16	00	0	clear	Orig=clear text|Local Time=1864-8-10 12:00
+1864	08	10	04	00	0	fog all day	Orig=fog all day text|Local Time=1864-8-10 00:00
+1864	08	11	16	00	0	hazy	Orig=hazy text|Local Time=1864-8-11 12:00
+1864	08	11	04	00	0	heavy thunder/lightning bfr daybrk	Orig=heavy thunder/lightning bfr daybrk text|Local Time=1864-8-11 00:00
+1864	08	12	16	00	0	clear	Orig=clear text|Local Time=1864-8-12 12:00
+1864	08	12	04	00	0		Orig= text|Local Time=1864-8-12 00:00
+1864	08	13	16	00	0	clear	Orig=clear text|Local Time=1864-8-13 12:00
+1864	08	13	04	00	0		Orig= text|Local Time=1864-8-13 00:00
+1864	08	14	16	00	0	clear	Orig=clear text|Local Time=1864-8-14 12:00
+1864	08	14	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-14 00:00
+1864	08	15	16	00	0	clear	Orig=clear text|Local Time=1864-8-15 12:00
+1864	08	15	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-15 00:00
+1864	08	16	16	00	0	clear	Orig=clear text|Local Time=1864-8-16 12:00
+1864	08	16	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-16 00:00
+1864	08	17	16	00	0	foggy	Orig=foggy text|Local Time=1864-8-17 12:00
+1864	08	17	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-17 00:00
+1864	08	18	16	00	0	clear	Orig=clear text|Local Time=1864-8-18 12:00
+1864	08	18	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-18 00:00
+1864	08	19	16	00	0	clear	Orig=clear text|Local Time=1864-8-19 12:00
+1864	08	19	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-19 00:00
+1864	08	20	16	00	0	clear	Orig=clear text|Local Time=1864-8-20 12:00
+1864	08	20	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-20 00:00
+1864	08	21	16	00	0	clear	Orig=clear text|Local Time=1864-8-21 12:00
+1864	08	21	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-21 00:00
+1864	08	22	16	00	0	clear	Orig=clear text|Local Time=1864-8-22 12:00
+1864	08	22	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-22 00:00
+1864	08	23	16	00	0	clear	Orig=clear text|Local Time=1864-8-23 12:00
+1864	08	23	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-23 00:00
+1864	08	24	16	00	0	clear	Orig=clear text|Local Time=1864-8-24 12:00
+1864	08	24	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-24 00:00
+1864	08	25	16	00	0	clear	Orig=clear text|Local Time=1864-8-25 12:00
+1864	08	25	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-8-25 00:00
+1864	08	26	16	00	0	fog	Orig=fog text|Local Time=1864-8-26 12:00
+1864	08	26	04	00	0	fog all day, rain at night	Orig=fog all day, rain at night text|Local Time=1864-8-26 00:00
+1864	08	27	16	00	0	fog	Orig=fog text|Local Time=1864-8-27 12:00
+1864	08	27	04	00	0	fog at intervals	Orig=fog at intervals text|Local Time=1864-8-27 00:00
+1864	08	28	16	00	0	fog	Orig=fog text|Local Time=1864-8-28 12:00
+1864	08	28	04	00	0	fog at intervals	Orig=fog at intervals text|Local Time=1864-8-28 00:00
+1864	08	29	16	00	0	clear	Orig=clear text|Local Time=1864-8-29 12:00
+1864	08	29	04	00	0	fog at intervals	Orig=fog at intervals text|Local Time=1864-8-29 00:00
+1864	08	30	16	00	0	clear	Orig=clear text|Local Time=1864-8-30 12:00
+1864	08	30	04	00	0	fog at intervals	Orig=fog at intervals text|Local Time=1864-8-30 00:00
+1864	08	31	16	00	0	clear	Orig=clear text|Local Time=1864-8-31 12:00
+1864	08	31	04	00	0	fog at intervals	Orig=fog at intervals text|Local Time=1864-8-31 00:00
+1864	09	01	16	00	0	clear	Orig=clear text|Local Time=1864-9-1 12:00
+1864	09	01	04	00	0	fog forenoon	Orig=fog forenoon text|Local Time=1864-9-1 00:00
+1864	09	02	16	00	0	clear	Orig=clear text|Local Time=1864-9-2 12:00
+1864	09	02	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-2 00:00
+1864	09	03	16	00	0	clear	Orig=clear text|Local Time=1864-9-3 12:00
+1864	09	03	04	00	0		Orig= text|Local Time=1864-9-3 00:00
+1864	09	04	16	00	0	clear	Orig=clear text|Local Time=1864-9-4 12:00
+1864	09	04	04	00	0		Orig= text|Local Time=1864-9-4 00:00
+1864	09	05	16	00	0	clear	Orig=clear text|Local Time=1864-9-5 12:00
+1864	09	05	04	00	0		Orig= text|Local Time=1864-9-5 00:00
+1864	09	06	16	00	0	clear	Orig=clear text|Local Time=1864-9-6 12:00
+1864	09	06	04	00	0		Orig= text|Local Time=1864-9-6 00:00
+1864	09	07	16	00	0	clear	Orig=clear text|Local Time=1864-9-7 12:00
+1864	09	07	04	00	0		Orig= text|Local Time=1864-9-7 00:00
+1864	09	08	16	00	0	clear	Orig=clear text|Local Time=1864-9-8 12:00
+1864	09	08	04	00	0		Orig= text|Local Time=1864-9-8 00:00
+1864	09	09	16	00	0	clear	Orig=clear text|Local Time=1864-9-9 12:00
+1864	09	09	04	00	0		Orig= text|Local Time=1864-9-9 00:00
+1864	09	10	16	00	0	clear	Orig=clear text|Local Time=1864-9-10 12:00
+1864	09	10	04	00	0	slight showers during night	Orig=slight showers during night text|Local Time=1864-9-10 00:00
+1864	09	11	16	00	0	clear	Orig=clear text|Local Time=1864-9-11 12:00
+1864	09	11	04	00	0		Orig= text|Local Time=1864-9-11 00:00
+1864	09	12	16	00	0	clear	Orig=clear text|Local Time=1864-9-12 12:00
+1864	09	12	04	00	0	fog & rain forenoon/thunder/lightg	Orig=fog & rain forenoon/thunder/lightg text|Local Time=1864-9-12 00:00
+1864	09	13	16	00	0	fog	Orig=fog text|Local Time=1864-9-13 12:00
+1864	09	13	04	00	0	fog & rain all day	Orig=fog & rain all day text|Local Time=1864-9-13 00:00
+1864	09	14	16	00	0	clear	Orig=clear text|Local Time=1864-9-14 12:00
+1864	09	14	04	00	0	heavy shower at night	Orig=heavy shower at night text|Local Time=1864-9-14 00:00
+1864	09	15	16	00	0	clear	Orig=clear text|Local Time=1864-9-15 12:00
+1864	09	15	04	00	0	light rain afternoon	Orig=light rain afternoon text|Local Time=1864-9-15 00:00
+1864	09	16	16	00	0	clear	Orig=clear text|Local Time=1864-9-16 12:00
+1864	09	16	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-16 00:00
+1864	09	17	16	00	0	clear	Orig=clear text|Local Time=1864-9-17 12:00
+1864	09	17	04	00	0		Orig= text|Local Time=1864-9-17 00:00
+1864	09	18	16	00	0	clear	Orig=clear text|Local Time=1864-9-18 12:00
+1864	09	18	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-18 00:00
+1864	09	19	16	00	0	clear	Orig=clear text|Local Time=1864-9-19 12:00
+1864	09	19	04	00	0	rain afternoon	Orig=rain afternoon text|Local Time=1864-9-19 00:00
+1864	09	20	16	00	0	clear	Orig=clear text|Local Time=1864-9-20 12:00
+1864	09	20	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-20 00:00
+1864	09	21	16	00	0	clear	Orig=clear text|Local Time=1864-9-21 12:00
+1864	09	21	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-21 00:00
+1864	09	22	16	00	0	clear	Orig=clear text|Local Time=1864-9-22 12:00
+1864	09	22	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-22 00:00
+1864	09	23	16	00	0	clear	Orig=clear text|Local Time=1864-9-23 12:00
+1864	09	23	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-23 00:00
+1864	09	24	16	00	0	thick	Orig=thick text|Local Time=1864-9-24 12:00
+1864	09	24	04	00	0	rain & fog during day	Orig=rain & fog during day text|Local Time=1864-9-24 00:00
+1864	09	25	16	00	0	thick	Orig=thick text|Local Time=1864-9-25 12:00
+1864	09	25	04	00	0	rain & fog during day	Orig=rain & fog during day text|Local Time=1864-9-25 00:00
+1864	09	26	16	00	0	clear	Orig=clear text|Local Time=1864-9-26 12:00
+1864	09	26	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-26 00:00
+1864	09	27	16	00	0	clear	Orig=clear text|Local Time=1864-9-27 12:00
+1864	09	27	04	00	0		Orig= text|Local Time=1864-9-27 00:00
+1864	09	28	16	00	0	clear	Orig=clear text|Local Time=1864-9-28 12:00
+1864	09	28	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-28 00:00
+1864	09	29	16	00	0	clear	Orig=clear text|Local Time=1864-9-29 12:00
+1864	09	29	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-9-29 00:00
+1864	09	30	16	00	0	thick	Orig=thick text|Local Time=1864-9-30 12:00
+1864	09	30	04	00	0	dense fog forenoon	Orig=dense fog forenoon text|Local Time=1864-9-30 00:00
+1864	10	01	16	00	0	-999	Orig=-999 text|Local Time=1864-10-1 12:00
+1864	10	01	04	00	0		Orig= text|Local Time=1864-10-1 00:00
+1864	10	02	16	00	0	-999	Orig=-999 text|Local Time=1864-10-2 12:00
+1864	10	02	04	00	0		Orig= text|Local Time=1864-10-2 00:00
+1864	10	03	16	00	0	-999	Orig=-999 text|Local Time=1864-10-3 12:00
+1864	10	03	04	00	0		Orig= text|Local Time=1864-10-3 00:00
+1864	10	04	16	00	0	-999	Orig=-999 text|Local Time=1864-10-4 12:00
+1864	10	04	04	00	0		Orig= text|Local Time=1864-10-4 00:00
+1864	10	05	16	00	0	-999	Orig=-999 text|Local Time=1864-10-5 12:00
+1864	10	05	04	00	0		Orig= text|Local Time=1864-10-5 00:00
+1864	10	06	16	00	0	-999	Orig=-999 text|Local Time=1864-10-6 12:00
+1864	10	06	04	00	0		Orig= text|Local Time=1864-10-6 00:00
+1864	10	07	16	00	0	-999	Orig=-999 text|Local Time=1864-10-7 12:00
+1864	10	07	04	00	0		Orig= text|Local Time=1864-10-7 00:00
+1864	10	08	16	00	0	-999	Orig=-999 text|Local Time=1864-10-8 12:00
+1864	10	08	04	00	0		Orig= text|Local Time=1864-10-8 00:00
+1864	10	09	16	00	0	-999	Orig=-999 text|Local Time=1864-10-9 12:00
+1864	10	09	04	00	0		Orig= text|Local Time=1864-10-9 00:00
+1864	10	10	16	00	0	-999	Orig=-999 text|Local Time=1864-10-10 12:00
+1864	10	10	04	00	0		Orig= text|Local Time=1864-10-10 00:00
+1864	10	11	16	00	0	-999	Orig=-999 text|Local Time=1864-10-11 12:00
+1864	10	11	04	00	0		Orig= text|Local Time=1864-10-11 00:00
+1864	10	12	16	00	0	-999	Orig=-999 text|Local Time=1864-10-12 12:00
+1864	10	12	04	00	0		Orig= text|Local Time=1864-10-12 00:00
+1864	10	13	16	00	0	-999	Orig=-999 text|Local Time=1864-10-13 12:00
+1864	10	13	04	00	0		Orig= text|Local Time=1864-10-13 00:00
+1864	10	14	16	00	0	-999	Orig=-999 text|Local Time=1864-10-14 12:00
+1864	10	14	04	00	0		Orig= text|Local Time=1864-10-14 00:00
+1864	10	15	16	00	0	-999	Orig=-999 text|Local Time=1864-10-15 12:00
+1864	10	15	04	00	0		Orig= text|Local Time=1864-10-15 00:00
+1864	10	16	16	00	0	-999	Orig=-999 text|Local Time=1864-10-16 12:00
+1864	10	16	04	00	0		Orig= text|Local Time=1864-10-16 00:00
+1864	10	17	16	00	0	-999	Orig=-999 text|Local Time=1864-10-17 12:00
+1864	10	17	04	00	0		Orig= text|Local Time=1864-10-17 00:00
+1864	10	18	16	00	0	-999	Orig=-999 text|Local Time=1864-10-18 12:00
+1864	10	18	04	00	0		Orig= text|Local Time=1864-10-18 00:00
+1864	10	19	16	00	0	-999	Orig=-999 text|Local Time=1864-10-19 12:00
+1864	10	19	04	00	0		Orig= text|Local Time=1864-10-19 00:00
+1864	10	20	16	00	0	-999	Orig=-999 text|Local Time=1864-10-20 12:00
+1864	10	20	04	00	0		Orig= text|Local Time=1864-10-20 00:00
+1864	10	21	16	00	0	-999	Orig=-999 text|Local Time=1864-10-21 12:00
+1864	10	21	04	00	0		Orig= text|Local Time=1864-10-21 00:00
+1864	10	22	16	00	0	-999	Orig=-999 text|Local Time=1864-10-22 12:00
+1864	10	22	04	00	0		Orig= text|Local Time=1864-10-22 00:00
+1864	10	23	16	00	0	-999	Orig=-999 text|Local Time=1864-10-23 12:00
+1864	10	23	04	00	0		Orig= text|Local Time=1864-10-23 00:00
+1864	10	24	16	00	0	-999	Orig=-999 text|Local Time=1864-10-24 12:00
+1864	10	24	04	00	0		Orig= text|Local Time=1864-10-24 00:00
+1864	10	25	16	00	0	-999	Orig=-999 text|Local Time=1864-10-25 12:00
+1864	10	25	04	00	0		Orig= text|Local Time=1864-10-25 00:00
+1864	10	26	16	00	0	-999	Orig=-999 text|Local Time=1864-10-26 12:00
+1864	10	26	04	00	0		Orig= text|Local Time=1864-10-26 00:00
+1864	10	27	16	00	0	-999	Orig=-999 text|Local Time=1864-10-27 12:00
+1864	10	27	04	00	0		Orig= text|Local Time=1864-10-27 00:00
+1864	10	28	16	00	0	-999	Orig=-999 text|Local Time=1864-10-28 12:00
+1864	10	28	04	00	0		Orig= text|Local Time=1864-10-28 00:00
+1864	10	29	16	00	0	-999	Orig=-999 text|Local Time=1864-10-29 12:00
+1864	10	29	04	00	0		Orig= text|Local Time=1864-10-29 00:00
+1864	10	30	16	00	0	-999	Orig=-999 text|Local Time=1864-10-30 12:00
+1864	10	30	04	00	0		Orig= text|Local Time=1864-10-30 00:00
+1864	10	31	16	00	0	-999	Orig=-999 text|Local Time=1864-10-31 12:00
+1864	10	31	04	00	0		Orig= text|Local Time=1864-10-31 00:00
+1864	11	01	16	00	0	-999	Orig=-999 text|Local Time=1864-11-1 12:00
+1864	11	01	04	00	0		Orig= text|Local Time=1864-11-1 00:00
+1864	11	02	16	00	0	-999	Orig=-999 text|Local Time=1864-11-2 12:00
+1864	11	02	04	00	0		Orig= text|Local Time=1864-11-2 00:00
+1864	11	03	16	00	0	-999	Orig=-999 text|Local Time=1864-11-3 12:00
+1864	11	03	04	00	0		Orig= text|Local Time=1864-11-3 00:00
+1864	11	04	16	00	0	-999	Orig=-999 text|Local Time=1864-11-4 12:00
+1864	11	04	04	00	0		Orig= text|Local Time=1864-11-4 00:00
+1864	11	05	16	00	0	-999	Orig=-999 text|Local Time=1864-11-5 12:00
+1864	11	05	04	00	0		Orig= text|Local Time=1864-11-5 00:00
+1864	11	06	16	00	0	-999	Orig=-999 text|Local Time=1864-11-6 12:00
+1864	11	06	04	00	0		Orig= text|Local Time=1864-11-6 00:00
+1864	11	07	16	00	0	-999	Orig=-999 text|Local Time=1864-11-7 12:00
+1864	11	07	04	00	0		Orig= text|Local Time=1864-11-7 00:00
+1864	11	08	16	00	0	-999	Orig=-999 text|Local Time=1864-11-8 12:00
+1864	11	08	04	00	0		Orig= text|Local Time=1864-11-8 00:00
+1864	11	09	16	00	0	-999	Orig=-999 text|Local Time=1864-11-9 12:00
+1864	11	09	04	00	0		Orig= text|Local Time=1864-11-9 00:00
+1864	11	10	16	00	0	-999	Orig=-999 text|Local Time=1864-11-10 12:00
+1864	11	10	04	00	0		Orig= text|Local Time=1864-11-10 00:00
+1864	11	11	16	00	0	-999	Orig=-999 text|Local Time=1864-11-11 12:00
+1864	11	11	04	00	0		Orig= text|Local Time=1864-11-11 00:00
+1864	11	12	16	00	0	-999	Orig=-999 text|Local Time=1864-11-12 12:00
+1864	11	12	04	00	0		Orig= text|Local Time=1864-11-12 00:00
+1864	11	13	16	00	0	-999	Orig=-999 text|Local Time=1864-11-13 12:00
+1864	11	13	04	00	0		Orig= text|Local Time=1864-11-13 00:00
+1864	11	14	16	00	0	-999	Orig=-999 text|Local Time=1864-11-14 12:00
+1864	11	14	04	00	0		Orig= text|Local Time=1864-11-14 00:00
+1864	11	15	16	00	0	-999	Orig=-999 text|Local Time=1864-11-15 12:00
+1864	11	15	04	00	0		Orig= text|Local Time=1864-11-15 00:00
+1864	11	16	16	00	0	-999	Orig=-999 text|Local Time=1864-11-16 12:00
+1864	11	16	04	00	0		Orig= text|Local Time=1864-11-16 00:00
+1864	11	17	16	00	0	-999	Orig=-999 text|Local Time=1864-11-17 12:00
+1864	11	17	04	00	0		Orig= text|Local Time=1864-11-17 00:00
+1864	11	18	16	00	0	-999	Orig=-999 text|Local Time=1864-11-18 12:00
+1864	11	18	04	00	0		Orig= text|Local Time=1864-11-18 00:00
+1864	11	19	16	00	0	-999	Orig=-999 text|Local Time=1864-11-19 12:00
+1864	11	19	04	00	0		Orig= text|Local Time=1864-11-19 00:00
+1864	11	20	16	00	0	-999	Orig=-999 text|Local Time=1864-11-20 12:00
+1864	11	20	04	00	0		Orig= text|Local Time=1864-11-20 00:00
+1864	11	21	16	00	0	-999	Orig=-999 text|Local Time=1864-11-21 12:00
+1864	11	21	04	00	0		Orig= text|Local Time=1864-11-21 00:00
+1864	11	22	16	00	0	-999	Orig=-999 text|Local Time=1864-11-22 12:00
+1864	11	22	04	00	0		Orig= text|Local Time=1864-11-22 00:00
+1864	11	23	16	00	0	-999	Orig=-999 text|Local Time=1864-11-23 12:00
+1864	11	23	04	00	0		Orig= text|Local Time=1864-11-23 00:00
+1864	11	24	16	00	0	-999	Orig=-999 text|Local Time=1864-11-24 12:00
+1864	11	24	04	00	0		Orig= text|Local Time=1864-11-24 00:00
+1864	11	25	16	00	0	-999	Orig=-999 text|Local Time=1864-11-25 12:00
+1864	11	25	04	00	0		Orig= text|Local Time=1864-11-25 00:00
+1864	11	26	16	00	0	-999	Orig=-999 text|Local Time=1864-11-26 12:00
+1864	11	26	04	00	0		Orig= text|Local Time=1864-11-26 00:00
+1864	11	27	16	00	0	-999	Orig=-999 text|Local Time=1864-11-27 12:00
+1864	11	27	04	00	0		Orig= text|Local Time=1864-11-27 00:00
+1864	11	28	16	00	0	-999	Orig=-999 text|Local Time=1864-11-28 12:00
+1864	11	28	04	00	0		Orig= text|Local Time=1864-11-28 00:00
+1864	11	29	16	00	0	-999	Orig=-999 text|Local Time=1864-11-29 12:00
+1864	11	29	04	00	0		Orig= text|Local Time=1864-11-29 00:00
+1864	11	30	16	00	0	-999	Orig=-999 text|Local Time=1864-11-30 12:00
+1864	11	30	04	00	0		Orig= text|Local Time=1864-11-30 00:00
+1864	12	21	16	00	0	clear	Orig=clear text|Local Time=1864-12-21 12:00
+1864	12	21	04	00	0		Orig= text|Local Time=1864-12-21 00:00
+1864	12	22	16	00	0	clear	Orig=clear text|Local Time=1864-12-22 12:00
+1864	12	22	04	00	0		Orig= text|Local Time=1864-12-22 00:00
+1864	12	23	16	00	0	clear	Orig=clear text|Local Time=1864-12-23 12:00
+1864	12	23	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-12-23 00:00
+1864	12	24	16	00	0	hazy	Orig=hazy text|Local Time=1864-12-24 12:00
+1864	12	24	04	00	0		Orig= text|Local Time=1864-12-24 00:00
+1864	12	25	16	00	0	clear	Orig=clear text|Local Time=1864-12-25 12:00
+1864	12	25	04	00	0		Orig= text|Local Time=1864-12-25 00:00
+1864	12	26	16	00	0	clear	Orig=clear text|Local Time=1864-12-26 12:00
+1864	12	26	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-12-26 00:00
+1864	12	27	16	00	0	clear	Orig=clear text|Local Time=1864-12-27 12:00
+1864	12	27	04	00	0		Orig= text|Local Time=1864-12-27 00:00
+1864	12	28	16	00	0	dull	Orig=dull text|Local Time=1864-12-28 12:00
+1864	12	28	04	00	0		Orig= text|Local Time=1864-12-28 00:00
+1864	12	29	16	00	0	rain	Orig=rain text|Local Time=1864-12-29 12:00
+1864	12	29	04	00	0	heavy snow/rain afternoon	Orig=heavy snow/rain afternoon text|Local Time=1864-12-29 00:00
+1864	12	30	16	00	0	clear	Orig=clear text|Local Time=1864-12-30 12:00
+1864	12	30	04	00	0		Orig= text|Local Time=1864-12-30 00:00
+1864	12	31	16	00	0	clear	Orig=clear text|Local Time=1864-12-31 12:00
+1864	12	31	04	00	0		Orig= text|Local Time=1864-12-31 00:00
+1864	12	01	16	00	0	thick	Orig=thick text|Local Time=1864-12-1 12:00
+1864	12	01	04	00	0	light snow during day	Orig=light snow during day text|Local Time=1864-12-1 00:00
+1864	12	02	16	00	0	clear	Orig=clear text|Local Time=1864-12-2 12:00
+1864	12	02	04	00	0		Orig= text|Local Time=1864-12-2 00:00
+1864	12	03	16	00	0	clear	Orig=clear text|Local Time=1864-12-3 12:00
+1864	12	03	04	00	0	sunshine forenoon/rain & snow at night	Orig=sunshine forenoon/rain & snow at night text|Local Time=1864-12-3 00:00
+1864	12	04	16	00	0	clear	Orig=clear text|Local Time=1864-12-4 12:00
+1864	12	04	04	00	0		Orig= text|Local Time=1864-12-4 00:00
+1864	12	05	16	00	0	clear	Orig=clear text|Local Time=1864-12-5 12:00
+1864	12	05	04	00	0	sun shine	Orig=sun shine text|Local Time=1864-12-5 00:00
+1864	12	06	16	00	0	clear	Orig=clear text|Local Time=1864-12-6 12:00
+1864	12	06	04	00	0		Orig= text|Local Time=1864-12-6 00:00
+1864	12	07	16	00	0	clear	Orig=clear text|Local Time=1864-12-7 12:00
+1864	12	07	04	00	0	rain & snow at 2am	Orig=rain & snow at 2am text|Local Time=1864-12-7 00:00
+1864	12	08	16	00	0	thick	Orig=thick text|Local Time=1864-12-8 12:00
+1864	12	08	04	00	0		Orig= text|Local Time=1864-12-8 00:00
+1864	12	09	16	00	0	clear	Orig=clear text|Local Time=1864-12-9 12:00
+1864	12	09	04	00	0		Orig= text|Local Time=1864-12-9 00:00
+1864	12	10	16	00	0	clear	Orig=clear text|Local Time=1864-12-10 12:00
+1864	12	10	04	00	0	heavy snow at night	Orig=heavy snow at night text|Local Time=1864-12-10 00:00
+1864	12	11	16	00	0	thick	Orig=thick text|Local Time=1864-12-11 12:00
+1864	12	11	04	00	0	heavy rain & fog all day	Orig=heavy rain & fog all day text|Local Time=1864-12-11 00:00
+1864	12	12	16	00	0	thick	Orig=thick text|Local Time=1864-12-12 12:00
+1864	12	12	04	00	0	snow all day	Orig=snow all day text|Local Time=1864-12-12 00:00
+1864	12	13	16	00	0	clear	Orig=clear text|Local Time=1864-12-13 12:00
+1864	12	13	04	00	0		Orig= text|Local Time=1864-12-13 00:00
+1864	12	14	16	00	0	rain	Orig=rain text|Local Time=1864-12-14 12:00
+1864	12	14	04	00	0	rain & snow	Orig=rain & snow text|Local Time=1864-12-14 00:00
+1864	12	15	16	00	0	clear	Orig=clear text|Local Time=1864-12-15 12:00
+1864	12	15	04	00	0	light snow forenoon	Orig=light snow forenoon text|Local Time=1864-12-15 00:00
+1864	12	16	16	00	0	clear	Orig=clear text|Local Time=1864-12-16 12:00
+1864	12	16	04	00	0	?? & snow afternoon	Orig=?? & snow afternoon text|Local Time=1864-12-16 00:00
+1864	12	17	16	00	0	clear	Orig=clear text|Local Time=1864-12-17 12:00
+1864	12	17	04	00	0	light snow at night	Orig=light snow at night text|Local Time=1864-12-17 00:00
+1864	12	18	16	00	0	clear	Orig=clear text|Local Time=1864-12-18 12:00
+1864	12	18	04	00	0	light snow forenoon	Orig=light snow forenoon text|Local Time=1864-12-18 00:00
+1864	12	19	16	00	0	thick	Orig=thick text|Local Time=1864-12-19 12:00
+1864	12	19	04	00	0	snow storm afternoon	Orig=snow storm afternoon text|Local Time=1864-12-19 00:00
+1864	12	20	16	00	0	thick	Orig=thick text|Local Time=1864-12-20 12:00
+1864	12	20	04	00	0	snow all day	Orig=snow all day text|Local Time=1864-12-20 00:00
+1864	12	21	16	00	0	thick	Orig=thick text|Local Time=1864-12-21 12:00
+1864	12	21	04	00	0	snow fornoon & night/sud fall of bar	Orig=snow fornoon & night/sud fall of bar text|Local Time=1864-12-21 00:00
+1864	12	22	16	00	0	thick	Orig=thick text|Local Time=1864-12-22 12:00
+1864	12	22	04	00	0	snow & rain	Orig=snow & rain text|Local Time=1864-12-22 00:00
+1864	12	23	16	00	0	clear	Orig=clear text|Local Time=1864-12-23 12:00
+1864	12	23	04	00	0	occasional snow fall at night	Orig=occasional snow fall at night text|Local Time=1864-12-23 00:00
+1864	12	24	16	00	0	clear	Orig=clear text|Local Time=1864-12-24 12:00
+1864	12	24	04	00	0		Orig= text|Local Time=1864-12-24 00:00
+1864	12	25	16	00	0	clear	Orig=clear text|Local Time=1864-12-25 12:00
+1864	12	25	04	00	0		Orig= text|Local Time=1864-12-25 00:00
+1864	12	26	16	00	0	thick	Orig=thick text|Local Time=1864-12-26 12:00
+1864	12	26	04	00	0	rain & foggy all day	Orig=rain & foggy all day text|Local Time=1864-12-26 00:00
+1864	12	27	16	00	0	fog	Orig=fog text|Local Time=1864-12-27 12:00
+1864	12	27	04	00	0	rain & foggy all day	Orig=rain & foggy all day text|Local Time=1864-12-27 00:00
+1864	12	28	16	00	0	fog	Orig=fog text|Local Time=1864-12-28 12:00
+1864	12	28	04	00	0	fog all day	Orig=fog all day text|Local Time=1864-12-28 00:00
+1864	12	29	16	00	0	fog	Orig=fog text|Local Time=1864-12-29 12:00
+1864	12	29	04	00	0	rain & fog all day	Orig=rain & fog all day text|Local Time=1864-12-29 00:00
+1864	12	30	16	00	0	thick	Orig=thick text|Local Time=1864-12-30 12:00
+1864	12	30	04	00	0	rain forenoon	Orig=rain forenoon text|Local Time=1864-12-30 00:00
+1864	12	31	16	00	0	thick	Orig=thick text|Local Time=1864-12-31 12:00
+1864	12	31	04	00	0	snow afternoon	Orig=snow afternoon text|Local Time=1864-12-31 00:00
+1865	01	01	16	00	0	clear	Orig=clear text|Local Time=1865-1-1 12:00
+1865	01	01	04	00	0	rain at night	Orig=rain at night text|Local Time=1865-1-1 00:00
+1865	01	02	16	00	0	thick	Orig=thick text|Local Time=1865-1-2 12:00
+1865	01	02	04	00	0	snow at night	Orig=snow at night text|Local Time=1865-1-2 00:00
+1865	01	03	16	00	0	thick	Orig=thick text|Local Time=1865-1-3 12:00
+1865	01	03	04	00	0		Orig= text|Local Time=1865-1-3 00:00
+1865	01	04	16	00	0	thick	Orig=thick text|Local Time=1865-1-4 12:00
+1865	01	04	04	00	0	snow during day	Orig=snow during day text|Local Time=1865-1-4 00:00
+1865	01	05	16	00	0	thick	Orig=thick text|Local Time=1865-1-5 12:00
+1865	01	05	04	00	0		Orig= text|Local Time=1865-1-5 00:00
+1865	01	06	16	00	0	hazy	Orig=hazy text|Local Time=1865-1-6 12:00
+1865	01	06	04	00	0	light snow forenoon	Orig=light snow forenoon text|Local Time=1865-1-6 00:00
+1865	01	07	16	00	0	thick	Orig=thick text|Local Time=1865-1-7 12:00
+1865	01	07	04	00	0	heavy rain all day	Orig=heavy rain all day text|Local Time=1865-1-7 00:00
+1865	01	08	16	00	0	clear	Orig=clear text|Local Time=1865-1-8 12:00
+1865	01	08	04	00	0		Orig= text|Local Time=1865-1-8 00:00
+1865	01	09	16	00	0	clear	Orig=clear text|Local Time=1865-1-9 12:00
+1865	01	09	04	00	0		Orig= text|Local Time=1865-1-9 00:00
+1865	01	10	16	00	0	thick	Orig=thick text|Local Time=1865-1-10 12:00
+1865	01	10	04	00	0	heavy rain afternoon	Orig=heavy rain afternoon text|Local Time=1865-1-10 00:00
+1865	01	11	16	00	0	thick	Orig=thick text|Local Time=1865-1-11 12:00
+1865	01	11	04	00	0	rain forenoon	Orig=rain forenoon text|Local Time=1865-1-11 00:00
+1865	01	12	16	00	0	clear	Orig=clear text|Local Time=1865-1-12 12:00
+1865	01	12	04	00	0		Orig= text|Local Time=1865-1-12 00:00
+1865	01	13	16	00	0	hazy	Orig=hazy text|Local Time=1865-1-13 12:00
+1865	01	13	04	00	0		Orig= text|Local Time=1865-1-13 00:00
+1865	01	14	16	00	0	clear	Orig=clear text|Local Time=1865-1-14 12:00
+1865	01	14	04	00	0		Orig= text|Local Time=1865-1-14 00:00
+1865	01	15	16	00	0	clear	Orig=clear text|Local Time=1865-1-15 12:00
+1865	01	15	04	00	0		Orig= text|Local Time=1865-1-15 00:00
+1865	01	16	16	00	0	clear	Orig=clear text|Local Time=1865-1-16 12:00
+1865	01	16	04	00	0		Orig= text|Local Time=1865-1-16 00:00
+1865	01	17	16	00	0	clear	Orig=clear text|Local Time=1865-1-17 12:00
+1865	01	17	04	00	0	sun shine	Orig=sun shine text|Local Time=1865-1-17 00:00
+1865	01	18	16	00	0	thick	Orig=thick text|Local Time=1865-1-18 12:00
+1865	01	18	04	00	0	snow forenoon	Orig=snow forenoon text|Local Time=1865-1-18 00:00
+1865	01	19	16	00	0	clear	Orig=clear text|Local Time=1865-1-19 12:00
+1865	01	19	04	00	0	sun shine	Orig=sun shine text|Local Time=1865-1-19 00:00
+1865	01	20	16	00	0	clear	Orig=clear text|Local Time=1865-1-20 12:00
+1865	01	20	04	00	0		Orig= text|Local Time=1865-1-20 00:00
+1865	01	21	16	00	0	clear	Orig=clear text|Local Time=1865-1-21 12:00
+1865	01	21	04	00	0		Orig= text|Local Time=1865-1-21 00:00
+1865	01	22	16	00	0	clear	Orig=clear text|Local Time=1865-1-22 12:00
+1865	01	22	04	00	0		Orig= text|Local Time=1865-1-22 00:00
+1865	01	23	16	00	0	clear	Orig=clear text|Local Time=1865-1-23 12:00
+1865	01	23	04	00	0		Orig= text|Local Time=1865-1-23 00:00
+1865	01	24	16	00	0	fog	Orig=fog text|Local Time=1865-1-24 12:00
+1865	01	24	04	00	0	fog & rain forenoon	Orig=fog & rain forenoon text|Local Time=1865-1-24 00:00
+1865	01	25	16	00	0	clear	Orig=clear text|Local Time=1865-1-25 12:00
+1865	01	25	04	00	0		Orig= text|Local Time=1865-1-25 00:00
+1865	01	26	16	00	0	clear	Orig=clear text|Local Time=1865-1-26 12:00
+1865	01	26	04	00	0		Orig= text|Local Time=1865-1-26 00:00
+1865	01	27	16	00	0	clear	Orig=clear text|Local Time=1865-1-27 12:00
+1865	01	27	04	00	0		Orig= text|Local Time=1865-1-27 00:00
+1865	01	28	16	00	0	clear	Orig=clear text|Local Time=1865-1-28 12:00
+1865	01	28	04	00	0	snow forenoon	Orig=snow forenoon text|Local Time=1865-1-28 00:00
+1865	01	29	16	00	0	clear	Orig=clear text|Local Time=1865-1-29 12:00
+1865	01	29	04	00	0		Orig= text|Local Time=1865-1-29 00:00
+1865	01	30	16	00	0	clear	Orig=clear text|Local Time=1865-1-30 12:00
+1865	01	30	04	00	0		Orig= text|Local Time=1865-1-30 00:00
+1865	01	31	16	00	0	clear	Orig=clear text|Local Time=1865-1-31 12:00
+1865	01	31	04	00	0		Orig= text|Local Time=1865-1-31 00:00
+1865	02	01	16	00	0	hazy	Orig=hazy text|Local Time=1865-2-1 12:00
+1865	02	01	04	00	0		Orig= text|Local Time=1865-2-1 00:00
+1865	02	02	16	00	0	hazy	Orig=hazy text|Local Time=1865-2-2 12:00
+1865	02	02	04	00	0		Orig= text|Local Time=1865-2-2 00:00
+1865	02	03	16	00	0	clear	Orig=clear text|Local Time=1865-2-3 12:00
+1865	02	03	04	00	0		Orig= text|Local Time=1865-2-3 00:00
+1865	02	04	16	00	0	clear	Orig=clear text|Local Time=1865-2-4 12:00
+1865	02	04	04	00	0		Orig= text|Local Time=1865-2-4 00:00
+1865	02	05	16	00	0	hazy	Orig=hazy text|Local Time=1865-2-5 12:00
+1865	02	05	04	00	0		Orig= text|Local Time=1865-2-5 00:00
+1865	02	06	16	00	0	clear	Orig=clear text|Local Time=1865-2-6 12:00
+1865	02	06	04	00	0		Orig= text|Local Time=1865-2-6 00:00
+1865	02	07	16	00	0	clear	Orig=clear text|Local Time=1865-2-7 12:00
+1865	02	07	04	00	0		Orig= text|Local Time=1865-2-7 00:00
+1865	02	08	16	00	0	thick	Orig=thick text|Local Time=1865-2-8 12:00
+1865	02	08	04	00	0		Orig= text|Local Time=1865-2-8 00:00
+1865	02	09	16	00	0	clear	Orig=clear text|Local Time=1865-2-9 12:00
+1865	02	09	04	00	0		Orig= text|Local Time=1865-2-9 00:00
+1865	02	10	16	00	0	clear	Orig=clear text|Local Time=1865-2-10 12:00
+1865	02	10	04	00	0		Orig= text|Local Time=1865-2-10 00:00
+1865	02	11	16	00	0	clear	Orig=clear text|Local Time=1865-2-11 12:00
+1865	02	11	04	00	0	snow during day	Orig=snow during day text|Local Time=1865-2-11 00:00
+1865	02	12	16	00	0	clear	Orig=clear text|Local Time=1865-2-12 12:00
+1865	02	12	04	00	0		Orig= text|Local Time=1865-2-12 00:00
+1865	02	13	16	00	0	snow	Orig=snow text|Local Time=1865-2-13 12:00
+1865	02	13	04	00	0	snow forenoon	Orig=snow forenoon text|Local Time=1865-2-13 00:00
+1865	02	14	16	00	0	clear	Orig=clear text|Local Time=1865-2-14 12:00
+1865	02	14	04	00	0		Orig= text|Local Time=1865-2-14 00:00
+1865	02	15	16	00	0	clear	Orig=clear text|Local Time=1865-2-15 12:00
+1865	02	15	04	00	0		Orig= text|Local Time=1865-2-15 00:00
+1865	02	16	16	00	0	rain	Orig=rain text|Local Time=1865-2-16 12:00
+1865	02	16	04	00	0	rain & fog all day	Orig=rain & fog all day text|Local Time=1865-2-16 00:00
+1865	02	17	16	00	0	hazy	Orig=hazy text|Local Time=1865-2-17 12:00
+1865	02	17	04	00	0	rain forenoon, snow at night	Orig=rain forenoon, snow at night text|Local Time=1865-2-17 00:00
+1865	02	18	16	00	0	clear	Orig=clear text|Local Time=1865-2-18 12:00
+1865	02	18	04	00	0		Orig= text|Local Time=1865-2-18 00:00
+1865	02	19	16	00	0	thick	Orig=thick text|Local Time=1865-2-19 12:00
+1865	02	19	04	00	0	snow forenoon	Orig=snow forenoon text|Local Time=1865-2-19 00:00
+1865	02	20	16	00	0	clear	Orig=clear text|Local Time=1865-2-20 12:00
+1865	02	20	04	00	0		Orig= text|Local Time=1865-2-20 00:00
+1865	02	21	16	00	0	clear	Orig=clear text|Local Time=1865-2-21 12:00
+1865	02	21	04	00	0		Orig= text|Local Time=1865-2-21 00:00
+1865	02	22	16	00	0	clear	Orig=clear text|Local Time=1865-2-22 12:00
+1865	02	22	04	00	0		Orig= text|Local Time=1865-2-22 00:00
+1865	02	23	16	00	0	dull	Orig=dull text|Local Time=1865-2-23 12:00
+1865	02	23	04	00	0		Orig= text|Local Time=1865-2-23 00:00
+1865	02	24	16	00	0	thick	Orig=thick text|Local Time=1865-2-24 12:00
+1865	02	24	04	00	0	hail storm midday	Orig=hail storm midday text|Local Time=1865-2-24 00:00
+1865	02	25	16	00	0	clear	Orig=clear text|Local Time=1865-2-25 12:00
+1865	02	25	04	00	0		Orig= text|Local Time=1865-2-25 00:00
+1865	02	26	16	00	0	thick	Orig=thick text|Local Time=1865-2-26 12:00
+1865	02	26	04	00	0	rain & sleet	Orig=rain & sleet text|Local Time=1865-2-26 00:00
+1865	02	27	16	00	0	thick	Orig=thick text|Local Time=1865-2-27 12:00
+1865	02	27	04	00	0		Orig= text|Local Time=1865-2-27 00:00
+1865	02	28	16	00	0	clear	Orig=clear text|Local Time=1865-2-28 12:00
+1865	02	28	04	00	0		Orig= text|Local Time=1865-2-28 00:00
