@@ -1,0 +1,1596 @@
+SEF	1.0.0
+ID	2850
+Name	'Hebron'
+Lat	58.2
+Lon	-61.35
+Alt	15
+Source	ACRE-Canada
+Link	TBD
+Vbl	ww
+Stat	point
+Units	text and symbols
+Meta	Observer Name='Anon'	UTCOffset=Applied	UTCOffset=4.00
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1883	09	01	04	00	0		Orig= text and symbols|Local Time=1883-9-1 00:00
+1883	09	02	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1883-9-2 00:00
+1883	09	03	04	00	0	mg. ⃝,  pm.  ≡, ab. ⃝0	Orig=mg. ⃝,  pm.  ≡, ab. ⃝0 text and symbols|Local Time=1883-9-3 00:00
+1883	09	04	04	00	0		Orig= text and symbols|Local Time=1883-9-4 00:00
+1883	09	05	04	00	0	mg ⃝, ab	Orig=mg ⃝, ab text and symbols|Local Time=1883-9-5 00:00
+1883	09	06	04	00	0		Orig= text and symbols|Local Time=1883-9-6 00:00
+1883	09	07	04	00	0	mg ⃝, ab. ?	Orig=mg ⃝, ab. ? text and symbols|Local Time=1883-9-7 00:00
+1883	09	08	04	00	0		Orig= text and symbols|Local Time=1883-9-8 00:00
+1883	09	09	04	00	0		Orig= text and symbols|Local Time=1883-9-9 00:00
+1883	09	10	04	00	0	ab.?	Orig=ab.? text and symbols|Local Time=1883-9-10 00:00
+1883	09	11	04	00	0		Orig= text and symbols|Local Time=1883-9-11 00:00
+1883	09	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-9-12 00:00
+1883	09	13	04	00	0	mg. und p.m.  ⃝	Orig=mg. und p.m.  ⃝ text and symbols|Local Time=1883-9-13 00:00
+1883	09	14	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1883-9-14 00:00
+1883	09	15	04	00	0		Orig= text and symbols|Local Time=1883-9-15 00:00
+1883	09	16	04	00	0		Orig= text and symbols|Local Time=1883-9-16 00:00
+1883	09	17	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1883-9-17 00:00
+1883	09	18	04	00	0	p.m.  ⃝ 	Orig=p.m.  ⃝  text and symbols|Local Time=1883-9-18 00:00
+1883	09	19	04	00	0		Orig= text and symbols|Local Time=1883-9-19 00:00
+1883	09	20	04	00	0		Orig= text and symbols|Local Time=1883-9-20 00:00
+1883	09	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-9-21 00:00
+1883	09	22	04	00	0	p.m.  ⃝ 	Orig=p.m.  ⃝  text and symbols|Local Time=1883-9-22 00:00
+1883	09	23	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1883-9-23 00:00
+1883	09	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-9-24 00:00
+1883	09	25	04	00	0	ab.  ⃝	Orig=ab.  ⃝ text and symbols|Local Time=1883-9-25 00:00
+1883	09	26	04	00	0		Orig= text and symbols|Local Time=1883-9-26 00:00
+1883	09	27	04	00	0	ab.  ⃝	Orig=ab.  ⃝ text and symbols|Local Time=1883-9-27 00:00
+1883	09	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-9-28 00:00
+1883	09	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-9-29 00:00
+1883	09	30	04	00	0	p.m  ∆0, ab ?	Orig=p.m  ∆0, ab ? text and symbols|Local Time=1883-9-30 00:00
+1883	10	01	04	00	0	über N ˽0,   5 h 30p. bis  6 h  p. ?	Orig=über N ˽0,   5 h 30p. bis  6 h  p. ? text and symbols|Local Time=1883-10-1 00:00
+1883	10	02	04	00	0	üb N  ?, ab. ? Bänd. M. Regendb.-Farb.v. Wn.E	Orig=üb N  ?, ab. ? Bänd. M. Regendb.-Farb.v. Wn.E text and symbols|Local Time=1883-10-2 00:00
+1883	10	03	04	00	0	1h p. bis. 1 h 45 p ?, ab. ? 	Orig=1h p. bis. 1 h 45 p ?, ab. ?  text and symbols|Local Time=1883-10-3 00:00
+1883	10	04	04	00	0		Orig= text and symbols|Local Time=1883-10-4 00:00
+1883	10	05	04	00	0	8 h p. bis. 8 h 30 p ?, wellen von NW nach SE  	Orig=8 h p. bis. 8 h 30 p ?, wellen von NW nach SE   text and symbols|Local Time=1883-10-5 00:00
+1883	10	06	04	00	0	6h -7 h a. Wb, ab. ? Dunst von W  nach E  	Orig=6h -7 h a. Wb, ab. ? Dunst von W  nach E   text and symbols|Local Time=1883-10-6 00:00
+1883	10	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-10-7 00:00
+1883	10	08	04	00	0		Orig= text and symbols|Local Time=1883-10-8 00:00
+1883	10	09	04	00	0	p.m.  ⃝ 	Orig=p.m.  ⃝  text and symbols|Local Time=1883-10-9 00:00
+1883	10	10	04	00	0	mg.  ⃝, p.m., ≡ 0 , ab. ⃝ 	Orig=mg.  ⃝, p.m., ≡ 0 , ab. ⃝  text and symbols|Local Time=1883-10-10 00:00
+1883	10	11	04	00	0		Orig= text and symbols|Local Time=1883-10-11 00:00
+1883	10	12	04	00	0		Orig= text and symbols|Local Time=1883-10-12 00:00
+1883	10	13	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1883-10-13 00:00
+1883	10	14	04	00	0		Orig= text and symbols|Local Time=1883-10-14 00:00
+1883	10	15	04	00	0		Orig= text and symbols|Local Time=1883-10-15 00:00
+1883	10	16	04	00	0	8 h  30a.  bis. 9 h  a. 2 Nebensonnen, ab. ?   	Orig=8 h  30a.  bis. 9 h  a. 2 Nebensonnen, ab. ?    text and symbols|Local Time=1883-10-16 00:00
+1883	10	17	04	00	0	2 h  45 p.  bis. 3 h   15 p. ? 	Orig=2 h  45 p.  bis. 3 h   15 p. ?  text and symbols|Local Time=1883-10-17 00:00
+1883	10	18	04	00	0		Orig= text and symbols|Local Time=1883-10-18 00:00
+1883	10	19	04	00	0	über N ⃝ 0	Orig=über N ⃝ 0 text and symbols|Local Time=1883-10-19 00:00
+1883	10	20	04	00	0	ab. ? Mit Regenbogen-Farben von W nach NE	Orig=ab. ? Mit Regenbogen-Farben von W nach NE text and symbols|Local Time=1883-10-20 00:00
+1883	10	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-10-21 00:00
+1883	10	22	04	00	0		Orig= text and symbols|Local Time=1883-10-22 00:00
+1883	10	23	04	00	0		Orig= text and symbols|Local Time=1883-10-23 00:00
+1883	10	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-10-24 00:00
+1883	10	25	04	00	0		Orig= text and symbols|Local Time=1883-10-25 00:00
+1883	10	26	04	00	0	über N  und mg. ? ab. ? Bänder .v. Wn. NE	Orig=über N  und mg. ? ab. ? Bänder .v. Wn. NE text and symbols|Local Time=1883-10-26 00:00
+1883	10	27	04	00	0		Orig= text and symbols|Local Time=1883-10-27 00:00
+1883	10	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-10-28 00:00
+1883	10	29	04	00	0	8 h  45 a. Nebensonne	Orig=8 h  45 a. Nebensonne text and symbols|Local Time=1883-10-29 00:00
+1883	10	30	04	00	0	7 h p. bis. 10 h p ?,  von  E nach W  	Orig=7 h p. bis. 10 h p ?,  von  E nach W   text and symbols|Local Time=1883-10-30 00:00
+1883	10	31	04	00	0		Orig= text and symbols|Local Time=1883-10-31 00:00
+1883	11	01	04	00	0	6 h 30 p. bis. 6 h 45 p ?,  von W nach E  	Orig=6 h 30 p. bis. 6 h 45 p ?,  von W nach E   text and symbols|Local Time=1883-11-1 00:00
+1883	11	02	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-2 00:00
+1883	11	03	04	00	0		Orig= text and symbols|Local Time=1883-11-3 00:00
+1883	11	04	04	00	0		Orig= text and symbols|Local Time=1883-11-4 00:00
+1883	11	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-5 00:00
+1883	11	06	04	00	0	8 h 30 bis. 11 h  a.?, ab. ?  	Orig=8 h 30 bis. 11 h  a.?, ab. ?   text and symbols|Local Time=1883-11-6 00:00
+1883	11	07	04	00	0	mg. Rb. Von NNW  nach SSE	Orig=mg. Rb. Von NNW  nach SSE text and symbols|Local Time=1883-11-7 00:00
+1883	11	08	04	00	0		Orig= text and symbols|Local Time=1883-11-8 00:00
+1883	11	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-9 00:00
+1883	11	10	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1883-11-10 00:00
+1883	11	11	04	00	0	von mg. bis. ab. ?	Orig=von mg. bis. ab. ? text and symbols|Local Time=1883-11-11 00:00
+1883	11	12	04	00	0	ab?, 10 h  p. ?	Orig=ab?, 10 h  p. ? text and symbols|Local Time=1883-11-12 00:00
+1883	11	13	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1883-11-13 00:00
+1883	11	14	04	00	0	10 h 30 bis. 11 h 30  a.?, ab. ?  	Orig=10 h 30 bis. 11 h 30  a.?, ab. ?   text and symbols|Local Time=1883-11-14 00:00
+1883	11	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-15 00:00
+1883	11	16	04	00	0		Orig= text and symbols|Local Time=1883-11-16 00:00
+1883	11	17	04	00	0	9 h  p ?,  von NW nach E  	Orig=9 h  p ?,  von NW nach E   text and symbols|Local Time=1883-11-17 00:00
+1883	11	18	04	00	0		Orig= text and symbols|Local Time=1883-11-18 00:00
+1883	11	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-19 00:00
+1883	11	20	04	00	0	6 h   a.Ш	Orig=6 h   a.Ш text and symbols|Local Time=1883-11-20 00:00
+1883	11	21	04	00	0	mg.  bis ab. ?	Orig=mg.  bis ab. ? text and symbols|Local Time=1883-11-21 00:00
+1883	11	22	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1883-11-22 00:00
+1883	11	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-23 00:00
+1883	11	24	04	00	0		Orig= text and symbols|Local Time=1883-11-24 00:00
+1883	11	25	04	00	0	mg. und m. p. ?	Orig=mg. und m. p. ? text and symbols|Local Time=1883-11-25 00:00
+1883	11	26	04	00	0	6 h  15  a.Ш, ab. ?	Orig=6 h  15  a.Ш, ab. ? text and symbols|Local Time=1883-11-26 00:00
+1883	11	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-27 00:00
+1883	11	28	04	00	0	7 h  p ?,  von NW nach E  	Orig=7 h  p ?,  von NW nach E   text and symbols|Local Time=1883-11-28 00:00
+1883	11	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-29 00:00
+1883	11	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-11-30 00:00
+1883	12	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-12-1 00:00
+1883	12	02	04	00	0	6 h a. ? Wellen SW-E	Orig=6 h a. ? Wellen SW-E text and symbols|Local Time=1883-12-2 00:00
+1883	12	03	04	00	0	8h a. Nebensonne	Orig=8h a. Nebensonne text and symbols|Local Time=1883-12-3 00:00
+1883	12	04	04	00	0	ab? E-W, Cir.-S E-W	Orig=ab? E-W, Cir.-S E-W text and symbols|Local Time=1883-12-4 00:00
+1883	12	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-12-5 00:00
+1883	12	06	04	00	0	ab. ? . ? W-E 	Orig=ab. ? . ? W-E  text and symbols|Local Time=1883-12-6 00:00
+1883	12	07	04	00	0		Orig= text and symbols|Local Time=1883-12-7 00:00
+1883	12	08	04	00	0	mg. und p.m. ?, ab. Clr W-E	Orig=mg. und p.m. ?, ab. Clr W-E text and symbols|Local Time=1883-12-8 00:00
+1883	12	09	04	00	0	ab. ? W-E	Orig=ab. ? W-E text and symbols|Local Time=1883-12-9 00:00
+1883	12	10	04	00	0	ab, ?	Orig=ab, ? text and symbols|Local Time=1883-12-10 00:00
+1883	12	11	04	00	0	ab, ?	Orig=ab, ? text and symbols|Local Time=1883-12-11 00:00
+1883	12	12	04	00	0		Orig= text and symbols|Local Time=1883-12-12 00:00
+1883	12	13	04	00	0	mtg. ?, p.m.  →	Orig=mtg. ?, p.m.  → text and symbols|Local Time=1883-12-13 00:00
+1883	12	14	04	00	0	mg →p.m. ?, ab. ?	Orig=mg →p.m. ?, ab. ? text and symbols|Local Time=1883-12-14 00:00
+1883	12	15	04	00	0	mg →p.m. ?	Orig=mg →p.m. ? text and symbols|Local Time=1883-12-15 00:00
+1883	12	16	04	00	0		Orig= text and symbols|Local Time=1883-12-16 00:00
+1883	12	17	04	00	0	ab, ?	Orig=ab, ? text and symbols|Local Time=1883-12-17 00:00
+1883	12	18	04	00	0	mg →, ab. ?	Orig=mg →, ab. ? text and symbols|Local Time=1883-12-18 00:00
+1883	12	19	04	00	0	mg →, ab. ? Bánder W-E	Orig=mg →, ab. ? Bánder W-E text and symbols|Local Time=1883-12-19 00:00
+1883	12	20	04	00	0	ab, ?	Orig=ab, ? text and symbols|Local Time=1883-12-20 00:00
+1883	12	21	04	00	0	7h ш, mtg. ?, ab ? 	Orig=7h ш, mtg. ?, ab ?  text and symbols|Local Time=1883-12-21 00:00
+1883	12	22	04	00	0	10 h a. ?	Orig=10 h a. ? text and symbols|Local Time=1883-12-22 00:00
+1883	12	23	04	00	0		Orig= text and symbols|Local Time=1883-12-23 00:00
+1883	12	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-12-24 00:00
+1883	12	25	04	00	0	p m.  →, ab. ?	Orig=p m.  →, ab. ? text and symbols|Local Time=1883-12-25 00:00
+1883	12	26	04	00	0	mg. →p.m. und  ab. ?	Orig=mg. →p.m. und  ab. ? text and symbols|Local Time=1883-12-26 00:00
+1883	12	27	04	00	0		Orig= text and symbols|Local Time=1883-12-27 00:00
+1883	12	28	04	00	0		Orig= text and symbols|Local Time=1883-12-28 00:00
+1883	12	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-12-29 00:00
+1883	12	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1883-12-30 00:00
+1883	12	31	04	00	0	mg. Cir. WSW-E	Orig=mg. Cir. WSW-E text and symbols|Local Time=1883-12-31 00:00
+1884	01	01	04	00	0	12-1 h p. W-b von S-N	Orig=12-1 h p. W-b von S-N text and symbols|Local Time=1884-1-1 00:00
+1884	01	02	04	00	0	ab ?	Orig=ab ? text and symbols|Local Time=1884-1-2 00:00
+1884	01	03	04	00	0	mg. ? p.m. und  ab. ?	Orig=mg. ? p.m. und  ab. ? text and symbols|Local Time=1884-1-3 00:00
+1884	01	04	04	00	0	10 h p. ? Bänder v. W-E	Orig=10 h p. ? Bänder v. W-E text and symbols|Local Time=1884-1-4 00:00
+1884	01	05	04	00	0		Orig= text and symbols|Local Time=1884-1-5 00:00
+1884	01	06	04	00	0	p m. ?	Orig=p m. ? text and symbols|Local Time=1884-1-6 00:00
+1884	01	07	04	00	0	1 h 15 m p. ? Rb. Von. NNW- SSE	Orig=1 h 15 m p. ? Rb. Von. NNW- SSE text and symbols|Local Time=1884-1-7 00:00
+1884	01	08	04	00	0		Orig= text and symbols|Local Time=1884-1-8 00:00
+1884	01	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-9 00:00
+1884	01	10	04	00	0	über N, ab. U. p. m.?,  10 h p. ?	Orig=über N, ab. U. p. m.?,  10 h p. ? text and symbols|Local Time=1884-1-10 00:00
+1884	01	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-11 00:00
+1884	01	12	04	00	0	9h 30 p. ? Bänder von. SW-E	Orig=9h 30 p. ? Bänder von. SW-E text and symbols|Local Time=1884-1-12 00:00
+1884	01	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-13 00:00
+1884	01	14	04	00	0	11h a. ? p.m. ?, ab. ?	Orig=11h a. ? p.m. ?, ab. ? text and symbols|Local Time=1884-1-14 00:00
+1884	01	15	04	00	0	über N ? ab.?, ?	Orig=über N ? ab.?, ? text and symbols|Local Time=1884-1-15 00:00
+1884	01	16	04	00	0		Orig= text and symbols|Local Time=1884-1-16 00:00
+1884	01	17	04	00	0	6 h a. ?	Orig=6 h a. ? text and symbols|Local Time=1884-1-17 00:00
+1884	01	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-18 00:00
+1884	01	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-19 00:00
+1884	01	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-20 00:00
+1884	01	21	04	00	0	6 h a. ? 2-4 h p. ?, ab. ?	Orig=6 h a. ? 2-4 h p. ?, ab. ? text and symbols|Local Time=1884-1-21 00:00
+1884	01	22	04	00	0	5h p. ? ab. ?	Orig=5h p. ? ab. ? text and symbols|Local Time=1884-1-22 00:00
+1884	01	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-23 00:00
+1884	01	24	04	00	0		Orig= text and symbols|Local Time=1884-1-24 00:00
+1884	01	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-25 00:00
+1884	01	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-26 00:00
+1884	01	27	04	00	0		Orig= text and symbols|Local Time=1884-1-27 00:00
+1884	01	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-28 00:00
+1884	01	29	04	00	0		Orig= text and symbols|Local Time=1884-1-29 00:00
+1884	01	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-1-30 00:00
+1884	01	31	04	00	0	p.m. und  ab. ?	Orig=p.m. und  ab. ? text and symbols|Local Time=1884-1-31 00:00
+1884	02	01	04	00	0	über N  ?, ab. ?	Orig=über N  ?, ab. ? text and symbols|Local Time=1884-2-1 00:00
+1884	02	02	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-2 00:00
+1884	02	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-3 00:00
+1884	02	04	04	00	0		Orig= text and symbols|Local Time=1884-2-4 00:00
+1884	02	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-5 00:00
+1884	02	06	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-6 00:00
+1884	02	07	04	00	0	p.m. Rb. WSW-ENE ab. ?	Orig=p.m. Rb. WSW-ENE ab. ? text and symbols|Local Time=1884-2-7 00:00
+1884	02	08	04	00	0	über N  ?	Orig=über N  ? text and symbols|Local Time=1884-2-8 00:00
+1884	02	09	04	00	0	p.m.?,  ab. ?	Orig=p.m.?,  ab. ? text and symbols|Local Time=1884-2-9 00:00
+1884	02	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-10 00:00
+1884	02	11	04	00	0		Orig= text and symbols|Local Time=1884-2-11 00:00
+1884	02	12	04	00	0		Orig= text and symbols|Local Time=1884-2-12 00:00
+1884	02	13	04	00	0	8-9 h a. Rb. NW-SE	Orig=8-9 h a. Rb. NW-SE text and symbols|Local Time=1884-2-13 00:00
+1884	02	14	04	00	0		Orig= text and symbols|Local Time=1884-2-14 00:00
+1884	02	15	04	00	0		Orig= text and symbols|Local Time=1884-2-15 00:00
+1884	02	16	04	00	0		Orig= text and symbols|Local Time=1884-2-16 00:00
+1884	02	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-17 00:00
+1884	02	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-18 00:00
+1884	02	19	04	00	0	10 p.m. ? Bänder E-W	Orig=10 p.m. ? Bänder E-W text and symbols|Local Time=1884-2-19 00:00
+1884	02	20	04	00	0	über N  ?	Orig=über N  ? text and symbols|Local Time=1884-2-20 00:00
+1884	02	21	04	00	0	10 h p. ? Begen	Orig=10 h p. ? Begen text and symbols|Local Time=1884-2-21 00:00
+1884	02	22	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-22 00:00
+1884	02	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-23 00:00
+1884	02	24	04	00	0	über N  ?, ab. ?	Orig=über N  ?, ab. ? text and symbols|Local Time=1884-2-24 00:00
+1884	02	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-2-25 00:00
+1884	02	26	04	00	0	mg. ?, ab. ?	Orig=mg. ?, ab. ? text and symbols|Local Time=1884-2-26 00:00
+1884	02	27	04	00	0	über N  und ab ?	Orig=über N  und ab ? text and symbols|Local Time=1884-2-27 00:00
+1884	02	28	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1884-2-28 00:00
+1884	02	29	04	00	0	über N  ?	Orig=über N  ? text and symbols|Local Time=1884-2-29 00:00
+1884	03	01	04	00	0		Orig= text and symbols|Local Time=1884-3-1 00:00
+1884	03	02	04	00	0	ab. Ш	Orig=ab. Ш text and symbols|Local Time=1884-3-2 00:00
+1884	03	03	04	00	0	mg. und ab. ?	Orig=mg. und ab. ? text and symbols|Local Time=1884-3-3 00:00
+1884	03	04	04	00	0	2 h p ?, ab. ?	Orig=2 h p ?, ab. ? text and symbols|Local Time=1884-3-4 00:00
+1884	03	05	04	00	0	10 h p. ? Bänder 	Orig=10 h p. ? Bänder  text and symbols|Local Time=1884-3-5 00:00
+1884	03	06	04	00	0		Orig= text and symbols|Local Time=1884-3-6 00:00
+1884	03	07	04	00	0		Orig= text and symbols|Local Time=1884-3-7 00:00
+1884	03	08	04	00	0		Orig= text and symbols|Local Time=1884-3-8 00:00
+1884	03	09	04	00	0		Orig= text and symbols|Local Time=1884-3-9 00:00
+1884	03	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-10 00:00
+1884	03	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-11 00:00
+1884	03	12	04	00	0		Orig= text and symbols|Local Time=1884-3-12 00:00
+1884	03	13	04	00	0	über N ?, mg. und p.m.  ?	Orig=über N ?, mg. und p.m.  ? text and symbols|Local Time=1884-3-13 00:00
+1884	03	14	04	00	0	über N ?, 6 h p. ?, 10 h p. ? + krone	Orig=über N ?, 6 h p. ?, 10 h p. ? + krone text and symbols|Local Time=1884-3-14 00:00
+1884	03	15	04	00	0	über N ?	Orig=über N ? text and symbols|Local Time=1884-3-15 00:00
+1884	03	16	04	00	0	12 h 45- 1 h 30 p. ?, ab. ?	Orig=12 h 45- 1 h 30 p. ?, ab. ? text and symbols|Local Time=1884-3-16 00:00
+1884	03	17	04	00	0	10 h p. ?	Orig=10 h p. ? text and symbols|Local Time=1884-3-17 00:00
+1884	03	18	04	00	0	mtg. Wb. V. N-S	Orig=mtg. Wb. V. N-S text and symbols|Local Time=1884-3-18 00:00
+1884	03	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-19 00:00
+1884	03	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-20 00:00
+1884	03	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-21 00:00
+1884	03	22	04	00	0	über N ?, und windstill	Orig=über N ?, und windstill text and symbols|Local Time=1884-3-22 00:00
+1884	03	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-23 00:00
+1884	03	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-24 00:00
+1884	03	25	04	00	0	über N  u. mg. ?, 1 h p. ?, 8 h- 30-10 h p. ?  [ Bänder W-E	Orig=über N  u. mg. ?, 1 h p. ?, 8 h- 30-10 h p. ?  [ Bänder W-E text and symbols|Local Time=1884-3-25 00:00
+1884	03	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-26 00:00
+1884	03	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-27 00:00
+1884	03	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-3-28 00:00
+1884	03	29	04	00	0	mg. ? p. m. und. ab. ?	Orig=mg. ? p. m. und. ab. ? text and symbols|Local Time=1884-3-29 00:00
+1884	03	30	04	00	0	tagsüber ?	Orig=tagsüber ? text and symbols|Local Time=1884-3-30 00:00
+1884	03	31	04	00	0		Orig= text and symbols|Local Time=1884-3-31 00:00
+1884	04	01	04	00	0	∞◦	Orig=∞◦ text and symbols|Local Time=1884-4-1 00:00
+1884	04	02	04	00	0		Orig= text and symbols|Local Time=1884-4-2 00:00
+1884	04	03	04	00	0	über N und p.m. ? 	Orig=über N und p.m. ?  text and symbols|Local Time=1884-4-3 00:00
+1884	04	04	04	00	0	p.m. ?, ab? 	Orig=p.m. ?, ab?  text and symbols|Local Time=1884-4-4 00:00
+1884	04	05	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1884-4-5 00:00
+1884	04	06	04	00	0		Orig= text and symbols|Local Time=1884-4-6 00:00
+1884	04	07	04	00	0		Orig= text and symbols|Local Time=1884-4-7 00:00
+1884	04	08	04	00	0		Orig= text and symbols|Local Time=1884-4-8 00:00
+1884	04	09	04	00	0		Orig= text and symbols|Local Time=1884-4-9 00:00
+1884	04	10	04	00	0		Orig= text and symbols|Local Time=1884-4-10 00:00
+1884	04	11	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1884-4-11 00:00
+1884	04	12	04	00	0	p.m. ?, 9-10 h p. ? fäden E-W	Orig=p.m. ?, 9-10 h p. ? fäden E-W text and symbols|Local Time=1884-4-12 00:00
+1884	04	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-4-13 00:00
+1884	04	14	04	00	0	p.m. ?, 10 h p. ? bänder E-W	Orig=p.m. ?, 10 h p. ? bänder E-W text and symbols|Local Time=1884-4-14 00:00
+1884	04	15	04	00	0		Orig= text and symbols|Local Time=1884-4-15 00:00
+1884	04	16	04	00	0		Orig= text and symbols|Local Time=1884-4-16 00:00
+1884	04	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-4-17 00:00
+1884	04	18	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1884-4-18 00:00
+1884	04	19	04	00	0	über N. ⃝0	Orig=über N. ⃝0 text and symbols|Local Time=1884-4-19 00:00
+1884	04	20	04	00	0	Ablesung 8 h 40, 10 h p. ? fäden aus W	Orig=Ablesung 8 h 40, 10 h p. ? fäden aus W text and symbols|Local Time=1884-4-20 00:00
+1884	04	21	04	00	0	mg. und p.m. ?, 10 h p. ? dunst	Orig=mg. und p.m. ?, 10 h p. ? dunst text and symbols|Local Time=1884-4-21 00:00
+1884	04	22	04	00	0	10 h p. ? bänder E-W	Orig=10 h p. ? bänder E-W text and symbols|Local Time=1884-4-22 00:00
+1884	04	23	04	00	0	10 h p. ? dunst	Orig=10 h p. ? dunst text and symbols|Local Time=1884-4-23 00:00
+1884	04	24	04	00	0	über N.?, 9-10 h p. ? fäden	Orig=über N.?, 9-10 h p. ? fäden text and symbols|Local Time=1884-4-24 00:00
+1884	04	25	04	00	0		Orig= text and symbols|Local Time=1884-4-25 00:00
+1884	04	26	04	00	0	10 h p. ? Krone	Orig=10 h p. ? Krone text and symbols|Local Time=1884-4-26 00:00
+1884	04	27	04	00	0	p.m. ?, 9-10 h p. ? bänder E-W	Orig=p.m. ?, 9-10 h p. ? bänder E-W text and symbols|Local Time=1884-4-27 00:00
+1884	04	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-4-28 00:00
+1884	04	29	04	00	0		Orig= text and symbols|Local Time=1884-4-29 00:00
+1884	04	30	04	00	0		Orig= text and symbols|Local Time=1884-4-30 00:00
+1884	05	01	04	00	0	9 h 15 p. ?	Orig=9 h 15 p. ? text and symbols|Local Time=1884-5-1 00:00
+1884	05	02	04	00	0	mg. und p.m. ?	Orig=mg. und p.m. ? text and symbols|Local Time=1884-5-2 00:00
+1884	05	03	04	00	0	mg. ? p. m. ?,  ab. ?	Orig=mg. ? p. m. ?,  ab. ? text and symbols|Local Time=1884-5-3 00:00
+1884	05	04	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1884-5-4 00:00
+1884	05	05	04	00	0	über N.  ⃝ 0	Orig=über N.  ⃝ 0 text and symbols|Local Time=1884-5-5 00:00
+1884	05	06	04	00	0		Orig= text and symbols|Local Time=1884-5-6 00:00
+1884	05	07	04	00	0		Orig= text and symbols|Local Time=1884-5-7 00:00
+1884	05	08	04	00	0		Orig= text and symbols|Local Time=1884-5-8 00:00
+1884	05	09	04	00	0	8 h  a. Ablesung veräumt	Orig=8 h  a. Ablesung veräumt text and symbols|Local Time=1884-5-9 00:00
+1884	05	10	04	00	0	mg. ˽	Orig=mg. ˽ text and symbols|Local Time=1884-5-10 00:00
+1884	05	11	04	00	0	über N.  ˽, 8 h a. ≡ in N u . E	Orig=über N.  ˽, 8 h a. ≡ in N u . E text and symbols|Local Time=1884-5-11 00:00
+1884	05	12	04	00	0		Orig= text and symbols|Local Time=1884-5-12 00:00
+1884	05	13	04	00	0		Orig= text and symbols|Local Time=1884-5-13 00:00
+1884	05	14	04	00	0	mg. ˽	Orig=mg. ˽ text and symbols|Local Time=1884-5-14 00:00
+1884	05	15	04	00	0	über N.  ˽ 2 	Orig=über N.  ˽ 2  text and symbols|Local Time=1884-5-15 00:00
+1884	05	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-5-16 00:00
+1884	05	17	04	00	0		Orig= text and symbols|Local Time=1884-5-17 00:00
+1884	05	18	04	00	0		Orig= text and symbols|Local Time=1884-5-18 00:00
+1884	05	19	04	00	0	über N. ?, p.m. ?	Orig=über N. ?, p.m. ? text and symbols|Local Time=1884-5-19 00:00
+1884	05	20	04	00	0		Orig= text and symbols|Local Time=1884-5-20 00:00
+1884	05	21	04	00	0		Orig= text and symbols|Local Time=1884-5-21 00:00
+1884	05	22	04	00	0		Orig= text and symbols|Local Time=1884-5-22 00:00
+1884	05	23	04	00	0		Orig= text and symbols|Local Time=1884-5-23 00:00
+1884	05	24	04	00	0		Orig= text and symbols|Local Time=1884-5-24 00:00
+1884	05	25	04	00	0	über N. ?	Orig=über N. ? text and symbols|Local Time=1884-5-25 00:00
+1884	05	26	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1884-5-26 00:00
+1884	05	27	04	00	0		Orig= text and symbols|Local Time=1884-5-27 00:00
+1884	05	28	04	00	0		Orig= text and symbols|Local Time=1884-5-28 00:00
+1884	05	29	04	00	0	4 h p. ?	Orig=4 h p. ? text and symbols|Local Time=1884-5-29 00:00
+1884	05	30	04	00	0	mg. ? ⃝, p.m. ⃝0	Orig=mg. ? ⃝, p.m. ⃝0 text and symbols|Local Time=1884-5-30 00:00
+1884	05	31	04	00	0		Orig= text and symbols|Local Time=1884-5-31 00:00
+1884	06	01	04	00	0		Orig= text and symbols|Local Time=1884-6-1 00:00
+1884	06	02	04	00	0		Orig= text and symbols|Local Time=1884-6-2 00:00
+1884	06	03	04	00	0	3 h p. bis 5 h p. ⃝° schauer, 5 h 50 bis p. ︵ 0	Orig=3 h p. bis 5 h p. ⃝° schauer, 5 h 50 bis p. ︵ 0 text and symbols|Local Time=1884-6-3 00:00
+1884	06	04	04	00	0	5 h p. bis 6 h 30 p. Wind a. ESE 2	Orig=5 h p. bis 6 h 30 p. Wind a. ESE 2 text and symbols|Local Time=1884-6-4 00:00
+1884	06	05	04	00	0		Orig= text and symbols|Local Time=1884-6-5 00:00
+1884	06	06	04	00	0		Orig= text and symbols|Local Time=1884-6-6 00:00
+1884	06	07	04	00	0	11 h 15 a. bis 12 h 30 p. ?	Orig=11 h 15 a. bis 12 h 30 p. ? text and symbols|Local Time=1884-6-7 00:00
+1884	06	08	04	00	0		Orig= text and symbols|Local Time=1884-6-8 00:00
+1884	06	09	04	00	0	über N. ?, mg. p.m. und ab. ?	Orig=über N. ?, mg. p.m. und ab. ? text and symbols|Local Time=1884-6-9 00:00
+1884	06	10	04	00	0		Orig= text and symbols|Local Time=1884-6-10 00:00
+1884	06	11	04	00	0	 9 h p. ⃝° , 10 h p. ?	Orig= 9 h p. ⃝° , 10 h p. ? text and symbols|Local Time=1884-6-11 00:00
+1884	06	12	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1884-6-12 00:00
+1884	06	13	04	00	0		Orig= text and symbols|Local Time=1884-6-13 00:00
+1884	06	14	04	00	0		Orig= text and symbols|Local Time=1884-6-14 00:00
+1884	06	15	04	00	0		Orig= text and symbols|Local Time=1884-6-15 00:00
+1884	06	16	04	00	0	2 h p. ?	Orig=2 h p. ? text and symbols|Local Time=1884-6-16 00:00
+1884	06	17	04	00	0	2 h 15 p. Bis 3 h 30 p. Gewitter ⃝, 3 h 55 p. T von  [ W-S	Orig=2 h 15 p. Bis 3 h 30 p. Gewitter ⃝, 3 h 55 p. T von  [ W-S text and symbols|Local Time=1884-6-17 00:00
+1884	06	18	04	00	0	7 h bis 12 a, h Wind bald NW, 3 h bis 4 h p. ⃝°, 9 h p. ?	Orig=7 h bis 12 a, h Wind bald NW, 3 h bis 4 h p. ⃝°, 9 h p. ? text and symbols|Local Time=1884-6-18 00:00
+1884	06	19	04	00	0		Orig= text and symbols|Local Time=1884-6-19 00:00
+1884	06	20	04	00	0		Orig= text and symbols|Local Time=1884-6-20 00:00
+1884	06	21	04	00	0		Orig= text and symbols|Local Time=1884-6-21 00:00
+1884	06	22	04	00	0	≡ a. E, 4 h 45 p. ?	Orig=≡ a. E, 4 h 45 p. ? text and symbols|Local Time=1884-6-22 00:00
+1884	06	23	04	00	0		Orig= text and symbols|Local Time=1884-6-23 00:00
+1884	06	24	04	00	0		Orig= text and symbols|Local Time=1884-6-24 00:00
+1884	06	25	04	00	0		Orig= text and symbols|Local Time=1884-6-25 00:00
+1884	06	26	04	00	0		Orig= text and symbols|Local Time=1884-6-26 00:00
+1884	06	27	04	00	0		Orig= text and symbols|Local Time=1884-6-27 00:00
+1884	06	28	04	00	0	6 h 30 a. Gewitter  ⃝, 7 h a. ? von W-E nach [ 9 h a. ∞ 2 mit Brandgerunch	Orig=6 h 30 a. Gewitter  ⃝, 7 h a. ? von W-E nach [ 9 h a. ∞ 2 mit Brandgerunch text and symbols|Local Time=1884-6-28 00:00
+1884	06	29	04	00	0		Orig= text and symbols|Local Time=1884-6-29 00:00
+1884	06	30	04	00	0	5 h a. W-b. von NW und Wind a. WSW 2	Orig=5 h a. W-b. von NW und Wind a. WSW 2 text and symbols|Local Time=1884-6-30 00:00
+1884	07	01	04	00	0		Orig= text and symbols|Local Time=1884-7-1 00:00
+1884	07	02	04	00	0	über N. ⃝, mg. ⃝0 ,ab. ?	Orig=über N. ⃝, mg. ⃝0 ,ab. ? text and symbols|Local Time=1884-7-2 00:00
+1884	07	03	04	00	0		Orig= text and symbols|Local Time=1884-7-3 00:00
+1884	07	04	04	00	0		Orig= text and symbols|Local Time=1884-7-4 00:00
+1884	07	05	04	00	0		Orig= text and symbols|Local Time=1884-7-5 00:00
+1884	07	06	04	00	0	p.m.  und ab. Ο⃝0	Orig=p.m.  und ab. Ο⃝0 text and symbols|Local Time=1884-7-6 00:00
+1884	07	07	04	00	0		Orig= text and symbols|Local Time=1884-7-7 00:00
+1884	07	08	04	00	0		Orig= text and symbols|Local Time=1884-7-8 00:00
+1884	07	09	04	00	0	11 h p. ? bänder v. W-SSE	Orig=11 h p. ? bänder v. W-SSE text and symbols|Local Time=1884-7-9 00:00
+1884	07	10	04	00	0		Orig= text and symbols|Local Time=1884-7-10 00:00
+1884	07	11	04	00	0	ab.  Ο⃝0	Orig=ab.  Ο⃝0 text and symbols|Local Time=1884-7-11 00:00
+1884	07	12	04	00	0	10 h 45 p. ? strahien v. SSW-E	Orig=10 h 45 p. ? strahien v. SSW-E text and symbols|Local Time=1884-7-12 00:00
+1884	07	13	04	00	0	2 h p. ?	Orig=2 h p. ? text and symbols|Local Time=1884-7-13 00:00
+1884	07	14	04	00	0		Orig= text and symbols|Local Time=1884-7-14 00:00
+1884	07	15	04	00	0		Orig= text and symbols|Local Time=1884-7-15 00:00
+1884	07	16	04	00	0	9 h bis. 11 h 30 a. Wind. A. SE3	Orig=9 h bis. 11 h 30 a. Wind. A. SE3 text and symbols|Local Time=1884-7-16 00:00
+1884	07	17	04	00	0	Bisher viel Treibeis an der Küste	Orig=Bisher viel Treibeis an der Küste text and symbols|Local Time=1884-7-17 00:00
+1884	07	18	04	00	0		Orig= text and symbols|Local Time=1884-7-18 00:00
+1884	07	19	04	00	0		Orig= text and symbols|Local Time=1884-7-19 00:00
+1884	07	20	04	00	0		Orig= text and symbols|Local Time=1884-7-20 00:00
+1884	07	21	04	00	0	Abiesung erst 2 h 30 p. erfoigt	Orig=Abiesung erst 2 h 30 p. erfoigt text and symbols|Local Time=1884-7-21 00:00
+1884	07	22	04	00	0	10 h 15 p. ? bänder v. W-E	Orig=10 h 15 p. ? bänder v. W-E text and symbols|Local Time=1884-7-22 00:00
+1884	07	23	04	00	0	2 h p. ?	Orig=2 h p. ? text and symbols|Local Time=1884-7-23 00:00
+1884	07	24	04	00	0		Orig= text and symbols|Local Time=1884-7-24 00:00
+1884	07	25	04	00	0	10 h 30 bis 11 h 15 a. Cir u. W-b. n. NW-SE	Orig=10 h 30 bis 11 h 15 a. Cir u. W-b. n. NW-SE text and symbols|Local Time=1884-7-25 00:00
+1884	07	26	04	00	0	5 h 30 p. ︵ ≡ im E	Orig=5 h 30 p. ︵ ≡ im E text and symbols|Local Time=1884-7-26 00:00
+1884	07	27	04	00	0		Orig= text and symbols|Local Time=1884-7-27 00:00
+1884	07	28	04	00	0		Orig= text and symbols|Local Time=1884-7-28 00:00
+1884	07	29	04	00	0	p.m. und ab. ⃝	Orig=p.m. und ab. ⃝ text and symbols|Local Time=1884-7-29 00:00
+1884	07	30	04	00	0		Orig= text and symbols|Local Time=1884-7-30 00:00
+1884	07	31	04	00	0		Orig= text and symbols|Local Time=1884-7-31 00:00
+1884	08	01	04	00	0	7 h 30 bis 45 a. Platz ⃝, 2 h p. nicht abgelesen, [n. ⃝	Orig=7 h 30 bis 45 a. Platz ⃝, 2 h p. nicht abgelesen, [n. ⃝ text and symbols|Local Time=1884-8-1 00:00
+1884	08	02	04	00	0	p.m. Staub ⃝	Orig=p.m. Staub ⃝ text and symbols|Local Time=1884-8-2 00:00
+1884	08	03	04	00	0	mg. ⃝0	Orig=mg. ⃝0 text and symbols|Local Time=1884-8-3 00:00
+1884	08	04	04	00	0		Orig= text and symbols|Local Time=1884-8-4 00:00
+1884	08	05	04	00	0		Orig= text and symbols|Local Time=1884-8-5 00:00
+1884	08	06	04	00	0		Orig= text and symbols|Local Time=1884-8-6 00:00
+1884	08	07	04	00	0	11 h 15 a. ⃝	Orig=11 h 15 a. ⃝ text and symbols|Local Time=1884-8-7 00:00
+1884	08	08	04	00	0	bis 5 h 30 a. ⃝	Orig=bis 5 h 30 a. ⃝ text and symbols|Local Time=1884-8-8 00:00
+1884	08	09	04	00	0	10 h p. ?  Starhien von W-E	Orig=10 h p. ?  Starhien von W-E text and symbols|Local Time=1884-8-9 00:00
+1884	08	10	04	00	0	mg. ⃝0  , p.m. ∞, 4 h 45 p. ͡	Orig=mg. ⃝0  , p.m. ∞, 4 h 45 p. ͡ text and symbols|Local Time=1884-8-10 00:00
+1884	08	11	04	00	0	2 h p. ?	Orig=2 h p. ? text and symbols|Local Time=1884-8-11 00:00
+1884	08	12	04	00	0		Orig= text and symbols|Local Time=1884-8-12 00:00
+1884	08	13	04	00	0	mg. ∞, 10 h a. ⃝0, 11 h 30 a. plõtzllch Wind a. [ N 4 bis gegen 12 h	Orig=mg. ∞, 10 h a. ⃝0, 11 h 30 a. plõtzllch Wind a. [ N 4 bis gegen 12 h text and symbols|Local Time=1884-8-13 00:00
+1884	08	14	04	00	0		Orig= text and symbols|Local Time=1884-8-14 00:00
+1884	08	15	04	00	0		Orig= text and symbols|Local Time=1884-8-15 00:00
+1884	08	16	04	00	0		Orig= text and symbols|Local Time=1884-8-16 00:00
+1884	08	17	04	00	0	8 h p. nicht abgelesen, 10 h p. ? Bänder von W-E	Orig=8 h p. nicht abgelesen, 10 h p. ? Bänder von W-E text and symbols|Local Time=1884-8-17 00:00
+1884	08	18	04	00	0		Orig= text and symbols|Local Time=1884-8-18 00:00
+1884	08	19	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1884-8-19 00:00
+1884	08	20	04	00	0	3 h a. Bar tiefster Stand = 737,7 mm, Wind a. [ W 6,9 h bis 10 h p. ? v. W-E 	Orig=3 h a. Bar tiefster Stand = 737,7 mm, Wind a. [ W 6,9 h bis 10 h p. ? v. W-E  text and symbols|Local Time=1884-8-20 00:00
+1884	08	21	04	00	0	5 h 30 p. schöner  ︵ , 9 h bis 11 h p. ? Länder v. [ SW-E	Orig=5 h 30 p. schöner  ︵ , 9 h bis 11 h p. ? Länder v. [ SW-E text and symbols|Local Time=1884-8-21 00:00
+1884	08	22	04	00	0	10 h 30 p. ?	Orig=10 h 30 p. ? text and symbols|Local Time=1884-8-22 00:00
+1884	08	23	04	00	0	über N. ˽	Orig=über N. ˽ text and symbols|Local Time=1884-8-23 00:00
+1884	08	24	04	00	0	p.m. ⃝0	Orig=p.m. ⃝0 text and symbols|Local Time=1884-8-24 00:00
+1884	08	25	04	00	0		Orig= text and symbols|Local Time=1884-8-25 00:00
+1884	08	26	04	00	0	p.m. ⃝0	Orig=p.m. ⃝0 text and symbols|Local Time=1884-8-26 00:00
+1884	08	27	04	00	0	über N.  ⃝0	Orig=über N.  ⃝0 text and symbols|Local Time=1884-8-27 00:00
+1884	08	28	04	00	0	über N.  ⃝0, p.m. ⃝0	Orig=über N.  ⃝0, p.m. ⃝0 text and symbols|Local Time=1884-8-28 00:00
+1884	08	29	04	00	0	9 h bis 10 h p. ?	Orig=9 h bis 10 h p. ? text and symbols|Local Time=1884-8-29 00:00
+1884	08	30	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1884-8-30 00:00
+1884	08	31	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1884-8-31 00:00
+1884	09	01	04	00	0		Orig= text and symbols|Local Time=1884-9-1 00:00
+1884	09	02	04	00	0	p.m ⃝ 0	Orig=p.m ⃝ 0 text and symbols|Local Time=1884-9-2 00:00
+1884	09	03	04	00	0	mtg  ⃝ 0	Orig=mtg  ⃝ 0 text and symbols|Local Time=1884-9-3 00:00
+1884	09	04	04	00	0	ab.⃝ 0	Orig=ab.⃝ 0 text and symbols|Local Time=1884-9-4 00:00
+1884	09	05	04	00	0	p.m. ν	Orig=p.m. ν text and symbols|Local Time=1884-9-5 00:00
+1884	09	06	04	00	0		Orig= text and symbols|Local Time=1884-9-6 00:00
+1884	09	07	04	00	0	10 h  p. Bar tiefster Stand 7441	Orig=10 h  p. Bar tiefster Stand 7441 text and symbols|Local Time=1884-9-7 00:00
+1884	09	08	04	00	0		Orig= text and symbols|Local Time=1884-9-8 00:00
+1884	09	09	04	00	0	10 h  p. ⃝ 0	Orig=10 h  p. ⃝ 0 text and symbols|Local Time=1884-9-9 00:00
+1884	09	10	04	00	0	ab ?	Orig=ab ? text and symbols|Local Time=1884-9-10 00:00
+1884	09	11	04	00	0	2 h p. ?, 3h bis 4h p. W-b. v. WSW	Orig=2 h p. ?, 3h bis 4h p. W-b. v. WSW text and symbols|Local Time=1884-9-11 00:00
+1884	09	12	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1884-9-12 00:00
+1884	09	13	04	00	0		Orig= text and symbols|Local Time=1884-9-13 00:00
+1884	09	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-9-14 00:00
+1884	09	15	04	00	0		Orig= text and symbols|Local Time=1884-9-15 00:00
+1884	09	16	04	00	0		Orig= text and symbols|Local Time=1884-9-16 00:00
+1884	09	17	04	00	0	p.m. ?, 10 h p. ? v. W-E	Orig=p.m. ?, 10 h p. ? v. W-E text and symbols|Local Time=1884-9-17 00:00
+1884	09	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-9-18 00:00
+1884	09	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1884-9-19 00:00
+1884	09	20	04	00	0	über N.  ⃝, ab ?	Orig=über N.  ⃝, ab ? text and symbols|Local Time=1884-9-20 00:00
+1884	09	21	04	00	0	10h p. ?  Bänder von W-E	Orig=10h p. ?  Bänder von W-E text and symbols|Local Time=1884-9-21 00:00
+1884	09	22	04	00	0	über N.  ⃝,  ˽ p.m.  ⃝ ?	Orig=über N.  ⃝,  ˽ p.m.  ⃝ ? text and symbols|Local Time=1884-9-22 00:00
+1884	09	23	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1884-9-23 00:00
+1884	09	24	04	00	0	8 h 15 a. bis 10 h 30 a. ?, 10 h p. ⃝	Orig=8 h 15 a. bis 10 h 30 a. ?, 10 h p. ⃝ text and symbols|Local Time=1884-9-24 00:00
+1884	09	25	04	00	0	mg. ? ⃝, p.m. ?, 10 h p. ⃝	Orig=mg. ? ⃝, p.m. ?, 10 h p. ⃝ text and symbols|Local Time=1884-9-25 00:00
+1884	09	26	04	00	0	über N. ?, 1 h bis 4 h p. 2 Nebensonnen	Orig=über N. ?, 1 h bis 4 h p. 2 Nebensonnen text and symbols|Local Time=1884-9-26 00:00
+1884	09	27	04	00	0	2 h p. ?	Orig=2 h p. ? text and symbols|Local Time=1884-9-27 00:00
+1884	09	28	04	00	0		Orig= text and symbols|Local Time=1884-9-28 00:00
+1884	09	29	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1884-9-29 00:00
+1884	09	30	04	00	0	10 h 30 a Δ	Orig=10 h 30 a Δ text and symbols|Local Time=1884-9-30 00:00
+1884	10	01	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1884-10-1 00:00
+1884	10	02	04	00	0	3 h 45 p. Wind a. N mit ?	Orig=3 h 45 p. Wind a. N mit ? text and symbols|Local Time=1884-10-2 00:00
+1884	10	03	04	00	0	ab. Ш	Orig=ab. Ш text and symbols|Local Time=1884-10-3 00:00
+1884	10	04	04	00	0		Orig= text and symbols|Local Time=1884-10-4 00:00
+1884	10	05	04	00	0	über N. ?	Orig=über N. ? text and symbols|Local Time=1884-10-5 00:00
+1884	10	06	04	00	0		Orig= text and symbols|Local Time=1884-10-6 00:00
+1884	10	07	04	00	0	über N. ⃝	Orig=über N. ⃝ text and symbols|Local Time=1884-10-7 00:00
+1884	10	08	04	00	0	mg., p.m. und ab. ⃝	Orig=mg., p.m. und ab. ⃝ text and symbols|Local Time=1884-10-8 00:00
+1884	10	09	04	00	0	p.m. ⃝, ab. ?	Orig=p.m. ⃝, ab. ? text and symbols|Local Time=1884-10-9 00:00
+1884	10	10	04	00	0	2 h p. ?	Orig=2 h p. ? text and symbols|Local Time=1884-10-10 00:00
+1884	10	11	04	00	0	10 h p. ? v. E-W * )	Orig=10 h p. ? v. E-W * ) text and symbols|Local Time=1884-10-11 00:00
+1884	10	12	04	00	0	10 h p. ?  dunst  v. E-W ** )	Orig=10 h p. ?  dunst  v. E-W ** ) text and symbols|Local Time=1884-10-12 00:00
+1884	10	13	04	00	0		Orig= text and symbols|Local Time=1884-10-13 00:00
+1884	10	14	04	00	0	8 h 30 p. Wind a. N3 mit ?	Orig=8 h 30 p. Wind a. N3 mit ? text and symbols|Local Time=1884-10-14 00:00
+1884	10	15	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-10-15 00:00
+1884	10	16	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-10-16 00:00
+1884	10	17	04	00	0	9 h 15 bis 45 a. ?	Orig=9 h 15 bis 45 a. ? text and symbols|Local Time=1884-10-17 00:00
+1884	10	18	04	00	0		Orig= text and symbols|Local Time=1884-10-18 00:00
+1884	10	19	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-10-19 00:00
+1884	10	20	04	00	0	10 h 15 a. bis 1 h 30 p. Wind a SW mit ?, 10 h p. [? bänder u, Wind a W. 	Orig=10 h 15 a. bis 1 h 30 p. Wind a SW mit ?, 10 h p. [? bänder u, Wind a W.  text and symbols|Local Time=1884-10-20 00:00
+1884	10	21	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-10-21 00:00
+1884	10	22	04	00	0	8 h a. kam Stratus In Hufeisenform von NW [zog über  Su, E nach N, Zenith wolkenios, a.m. [Wind unbeständig, ab. ?	Orig=8 h a. kam Stratus In Hufeisenform von NW [zog über  Su, E nach N, Zenith wolkenios, a.m. [Wind unbeständig, ab. ? text and symbols|Local Time=1884-10-22 00:00
+1884	10	23	04	00	0	10 h p. ? Krone	Orig=10 h p. ? Krone text and symbols|Local Time=1884-10-23 00:00
+1884	10	24	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-10-24 00:00
+1884	10	25	04	00	0		Orig= text and symbols|Local Time=1884-10-25 00:00
+1884	10	26	04	00	0	10 h p.? bänder	Orig=10 h p.? bänder text and symbols|Local Time=1884-10-26 00:00
+1884	10	27	04	00	0		Orig= text and symbols|Local Time=1884-10-27 00:00
+1884	10	28	04	00	0	4 h p. Wind a. N mit ? ab. ?	Orig=4 h p. Wind a. N mit ? ab. ? text and symbols|Local Time=1884-10-28 00:00
+1884	10	29	04	00	0	6 h p. ?	Orig=6 h p. ? text and symbols|Local Time=1884-10-29 00:00
+1884	10	30	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-10-30 00:00
+1884	10	31	04	00	0	10 h p. ?	Orig=10 h p. ? text and symbols|Local Time=1884-10-31 00:00
+1884	11	01	04	00	0	10 h a Nebensonnen	Orig=10 h a Nebensonnen text and symbols|Local Time=1884-11-1 00:00
+1884	11	02	04	00	0		Orig= text and symbols|Local Time=1884-11-2 00:00
+1884	11	03	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-3 00:00
+1884	11	04	04	00	0		Orig= text and symbols|Local Time=1884-11-4 00:00
+1884	11	05	04	00	0	10 h p. ?	Orig=10 h p. ? text and symbols|Local Time=1884-11-5 00:00
+1884	11	06	04	00	0	über N. ?, 9 h bis 11 h 30 a. abwechseind ? u Δ	Orig=über N. ?, 9 h bis 11 h 30 a. abwechseind ? u Δ text and symbols|Local Time=1884-11-6 00:00
+1884	11	07	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-7 00:00
+1884	11	08	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-8 00:00
+1884	11	09	04	00	0		Orig= text and symbols|Local Time=1884-11-9 00:00
+1884	11	10	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-10 00:00
+1884	11	11	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1884-11-11 00:00
+1884	11	12	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-12 00:00
+1884	11	13	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-13 00:00
+1884	11	14	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-14 00:00
+1884	11	15	04	00	0	10 h p. ? Krone	Orig=10 h p. ? Krone text and symbols|Local Time=1884-11-15 00:00
+1884	11	16	04	00	0		Orig= text and symbols|Local Time=1884-11-16 00:00
+1884	11	17	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-17 00:00
+1884	11	18	04	00	0	8  h 30 p. bis 10 h 15 p. ?	Orig=8  h 30 p. bis 10 h 15 p. ? text and symbols|Local Time=1884-11-18 00:00
+1884	11	19	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-19 00:00
+1884	11	20	04	00	0		Orig= text and symbols|Local Time=1884-11-20 00:00
+1884	11	21	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1884-11-21 00:00
+1884	11	22	04	00	0		Orig= text and symbols|Local Time=1884-11-22 00:00
+1884	11	23	04	00	0		Orig= text and symbols|Local Time=1884-11-23 00:00
+1884	11	24	04	00	0	10 h  p. ?	Orig=10 h  p. ? text and symbols|Local Time=1884-11-24 00:00
+1884	11	25	04	00	0	p.m. nis ab. ?	Orig=p.m. nis ab. ? text and symbols|Local Time=1884-11-25 00:00
+1884	11	26	04	00	0		Orig= text and symbols|Local Time=1884-11-26 00:00
+1884	11	27	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-11-27 00:00
+1884	11	28	04	00	0		Orig= text and symbols|Local Time=1884-11-28 00:00
+1884	11	29	04	00	0	5 h p. ?	Orig=5 h p. ? text and symbols|Local Time=1884-11-29 00:00
+1884	11	30	04	00	0		Orig= text and symbols|Local Time=1884-11-30 00:00
+1884	12	01	04	00	0		Orig= text and symbols|Local Time=1884-12-1 00:00
+1884	12	02	04	00	0		Orig= text and symbols|Local Time=1884-12-2 00:00
+1884	12	03	04	00	0	über N. ?	Orig=über N. ? text and symbols|Local Time=1884-12-3 00:00
+1884	12	04	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-4 00:00
+1884	12	05	04	00	0		Orig= text and symbols|Local Time=1884-12-5 00:00
+1884	12	06	04	00	0		Orig= text and symbols|Local Time=1884-12-6 00:00
+1884	12	07	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-7 00:00
+1884	12	08	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1884-12-8 00:00
+1884	12	09	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-9 00:00
+1884	12	10	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-10 00:00
+1884	12	11	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-11 00:00
+1884	12	12	04	00	0		Orig= text and symbols|Local Time=1884-12-12 00:00
+1884	12	13	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-13 00:00
+1884	12	14	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-14 00:00
+1884	12	15	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-15 00:00
+1884	12	16	04	00	0		Orig= text and symbols|Local Time=1884-12-16 00:00
+1884	12	17	04	00	0		Orig= text and symbols|Local Time=1884-12-17 00:00
+1884	12	18	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-18 00:00
+1884	12	19	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-19 00:00
+1884	12	20	04	00	0	Ablesung erfolgte 1 h 30 p., ab. ?	Orig=Ablesung erfolgte 1 h 30 p., ab. ? text and symbols|Local Time=1884-12-20 00:00
+1884	12	21	04	00	0		Orig= text and symbols|Local Time=1884-12-21 00:00
+1884	12	22	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-22 00:00
+1884	12	23	04	00	0	mg., p.m. und ab. ?, 6 h  p. Bar. tiefster Stand 720 2, 10 h p. Wind a. N5	Orig=mg., p.m. und ab. ?, 6 h  p. Bar. tiefster Stand 720 2, 10 h p. Wind a. N5 text and symbols|Local Time=1884-12-23 00:00
+1884	12	24	04	00	0	8 h a. Thermom. Nicht ablesbar wegen ? u ?	Orig=8 h a. Thermom. Nicht ablesbar wegen ? u ? text and symbols|Local Time=1884-12-24 00:00
+1884	12	25	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-25 00:00
+1884	12	26	04	00	0		Orig= text and symbols|Local Time=1884-12-26 00:00
+1884	12	27	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-27 00:00
+1884	12	28	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1884-12-28 00:00
+1884	12	29	04	00	0	9 h 30 a. 1 Nebensonnen, 8 h p. ?	Orig=9 h 30 a. 1 Nebensonnen, 8 h p. ? text and symbols|Local Time=1884-12-29 00:00
+1884	12	30	04	00	0	über N. ?, 10 h a. 2  Nebensonnen, p.m. ?	Orig=über N. ?, 10 h a. 2  Nebensonnen, p.m. ? text and symbols|Local Time=1884-12-30 00:00
+1884	12	31	04	00	0	11 h 30 p. ?	Orig=11 h 30 p. ? text and symbols|Local Time=1884-12-31 00:00
+1885	01	01	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-1 00:00
+1885	01	02	04	00	0		Orig= text and symbols|Local Time=1885-1-2 00:00
+1885	01	03	04	00	0		Orig= text and symbols|Local Time=1885-1-3 00:00
+1885	01	04	04	00	0		Orig= text and symbols|Local Time=1885-1-4 00:00
+1885	01	05	04	00	0	pm.? ab. ?	Orig=pm.? ab. ? text and symbols|Local Time=1885-1-5 00:00
+1885	01	06	04	00	0		Orig= text and symbols|Local Time=1885-1-6 00:00
+1885	01	07	04	00	0		Orig= text and symbols|Local Time=1885-1-7 00:00
+1885	01	08	04	00	0	mg. und pm. ?	Orig=mg. und pm. ? text and symbols|Local Time=1885-1-8 00:00
+1885	01	09	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-9 00:00
+1885	01	10	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-10 00:00
+1885	01	11	04	00	0	n.?, ab. ?	Orig=n.?, ab. ? text and symbols|Local Time=1885-1-11 00:00
+1885	01	12	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-12 00:00
+1885	01	13	04	00	0	n. 0 h-2h a. Westeurm 11	Orig=n. 0 h-2h a. Westeurm 11 text and symbols|Local Time=1885-1-13 00:00
+1885	01	14	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-14 00:00
+1885	01	15	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-15 00:00
+1885	01	16	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-16 00:00
+1885	01	17	04	00	0	ab?, 6 h-7 h p. Nordllchtbäder	Orig=ab?, 6 h-7 h p. Nordllchtbäder text and symbols|Local Time=1885-1-17 00:00
+1885	01	18	04	00	0	anhaltend ?	Orig=anhaltend ? text and symbols|Local Time=1885-1-18 00:00
+1885	01	19	04	00	0		Orig= text and symbols|Local Time=1885-1-19 00:00
+1885	01	20	04	00	0		Orig= text and symbols|Local Time=1885-1-20 00:00
+1885	01	21	04	00	0		Orig= text and symbols|Local Time=1885-1-21 00:00
+1885	01	22	04	00	0	n. ? ab. ?, 7 1/2 Nordllchtbäder	Orig=n. ? ab. ?, 7 1/2 Nordllchtbäder text and symbols|Local Time=1885-1-22 00:00
+1885	01	23	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-23 00:00
+1885	01	24	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-24 00:00
+1885	01	25	04	00	0	ab?,?, 10h p. Nordllchtstrahien	Orig=ab?,?, 10h p. Nordllchtstrahien text and symbols|Local Time=1885-1-25 00:00
+1885	01	26	04	00	0	ab?	Orig=ab? text and symbols|Local Time=1885-1-26 00:00
+1885	01	27	04	00	0	tags   →, 1 h pm. cir S-N, cir. SE-NW [ ab. ? 	Orig=tags   →, 1 h pm. cir S-N, cir. SE-NW [ ab. ?  text and symbols|Local Time=1885-1-27 00:00
+1885	01	28	04	00	0		Orig= text and symbols|Local Time=1885-1-28 00:00
+1885	01	29	04	00	0		Orig= text and symbols|Local Time=1885-1-29 00:00
+1885	01	30	04	00	0	mg. und pm. ?	Orig=mg. und pm. ? text and symbols|Local Time=1885-1-30 00:00
+1885	01	31	04	00	0	mg. ?, ab. ?	Orig=mg. ?, ab. ? text and symbols|Local Time=1885-1-31 00:00
+1885	02	01	04	00	0	ab ?, 11 p. cir. c. E-W	Orig=ab ?, 11 p. cir. c. E-W text and symbols|Local Time=1885-2-1 00:00
+1885	02	02	04	00	0	mg. und ab. ?	Orig=mg. und ab. ? text and symbols|Local Time=1885-2-2 00:00
+1885	02	03	04	00	0	mg ?	Orig=mg ? text and symbols|Local Time=1885-2-3 00:00
+1885	02	04	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1885-2-4 00:00
+1885	02	05	04	00	0	mg ?	Orig=mg ? text and symbols|Local Time=1885-2-5 00:00
+1885	02	06	04	00	0	n, V. ab. ?	Orig=n, V. ab. ? text and symbols|Local Time=1885-2-6 00:00
+1885	02	07	04	00	0	7 1/4  a. ?, p.m. ?	Orig=7 1/4  a. ?, p.m. ? text and symbols|Local Time=1885-2-7 00:00
+1885	02	08	04	00	0		Orig= text and symbols|Local Time=1885-2-8 00:00
+1885	02	09	04	00	0		Orig= text and symbols|Local Time=1885-2-9 00:00
+1885	02	10	04	00	0		Orig= text and symbols|Local Time=1885-2-10 00:00
+1885	02	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-2-11 00:00
+1885	02	12	04	00	0	mg ?, ab. ?	Orig=mg ?, ab. ? text and symbols|Local Time=1885-2-12 00:00
+1885	02	13	04	00	0		Orig= text and symbols|Local Time=1885-2-13 00:00
+1885	02	14	04	00	0	ab. ? bänder E-W	Orig=ab. ? bänder E-W text and symbols|Local Time=1885-2-14 00:00
+1885	02	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-2-15 00:00
+1885	02	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-2-16 00:00
+1885	02	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-2-17 00:00
+1885	02	18	04	00	0	pm. und ab. ?	Orig=pm. und ab. ? text and symbols|Local Time=1885-2-18 00:00
+1885	02	19	04	00	0	pm. und ab. ?	Orig=pm. und ab. ? text and symbols|Local Time=1885-2-19 00:00
+1885	02	20	04	00	0	pm. ? ab. ?, 9 3/4 p. ? bänder	Orig=pm. ? ab. ?, 9 3/4 p. ? bänder text and symbols|Local Time=1885-2-20 00:00
+1885	02	21	04	00	0		Orig= text and symbols|Local Time=1885-2-21 00:00
+1885	02	22	04	00	0		Orig= text and symbols|Local Time=1885-2-22 00:00
+1885	02	23	04	00	0	10 p. ? streifen 	Orig=10 p. ? streifen  text and symbols|Local Time=1885-2-23 00:00
+1885	02	24	04	00	0		Orig= text and symbols|Local Time=1885-2-24 00:00
+1885	02	25	04	00	0	6-7 1/3 a. cir s ESE-WNW	Orig=6-7 1/3 a. cir s ESE-WNW text and symbols|Local Time=1885-2-25 00:00
+1885	02	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-2-26 00:00
+1885	02	27	04	00	0		Orig= text and symbols|Local Time=1885-2-27 00:00
+1885	02	28	04	00	0	4 p. cir. C. S-N	Orig=4 p. cir. C. S-N text and symbols|Local Time=1885-2-28 00:00
+1885	03	01	04	00	0	5 p. cir. s.  SW-NE; ab. ?	Orig=5 p. cir. s.  SW-NE; ab. ? text and symbols|Local Time=1885-3-1 00:00
+1885	03	02	04	00	0	4 p. Str. SSE- NNE, ab. ?	Orig=4 p. Str. SSE- NNE, ab. ? text and symbols|Local Time=1885-3-2 00:00
+1885	03	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-3 00:00
+1885	03	04	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-4 00:00
+1885	03	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-5 00:00
+1885	03	06	04	00	0		Orig= text and symbols|Local Time=1885-3-6 00:00
+1885	03	07	04	00	0		Orig= text and symbols|Local Time=1885-3-7 00:00
+1885	03	08	04	00	0		Orig= text and symbols|Local Time=1885-3-8 00:00
+1885	03	09	04	00	0	8a. Cir. e. S- N	Orig=8a. Cir. e. S- N text and symbols|Local Time=1885-3-9 00:00
+1885	03	10	04	00	0	n. ?	Orig=n. ? text and symbols|Local Time=1885-3-10 00:00
+1885	03	11	04	00	0		Orig= text and symbols|Local Time=1885-3-11 00:00
+1885	03	12	04	00	0		Orig= text and symbols|Local Time=1885-3-12 00:00
+1885	03	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-13 00:00
+1885	03	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-14 00:00
+1885	03	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-15 00:00
+1885	03	16	04	00	0	mg. ?, 11 1/2 a. ?, ab. ?, 10 p. ?	Orig=mg. ?, 11 1/2 a. ?, ab. ?, 10 p. ? text and symbols|Local Time=1885-3-16 00:00
+1885	03	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-17 00:00
+1885	03	18	04	00	0		Orig= text and symbols|Local Time=1885-3-18 00:00
+1885	03	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-19 00:00
+1885	03	20	04	00	0	anhaltend ?	Orig=anhaltend ? text and symbols|Local Time=1885-3-20 00:00
+1885	03	21	04	00	0	3p. Niedrisgst. Bar. 723,2 mm, ?	Orig=3p. Niedrisgst. Bar. 723,2 mm, ? text and symbols|Local Time=1885-3-21 00:00
+1885	03	22	04	00	0	p.m. und ab. ?	Orig=p.m. und ab. ? text and symbols|Local Time=1885-3-22 00:00
+1885	03	23	04	00	0	8 a. ?	Orig=8 a. ? text and symbols|Local Time=1885-3-23 00:00
+1885	03	24	04	00	0	10p. ? Bänder W-E	Orig=10p. ? Bänder W-E text and symbols|Local Time=1885-3-24 00:00
+1885	03	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-25 00:00
+1885	03	26	04	00	0	ab. ?, 10 p. ? dunst	Orig=ab. ?, 10 p. ? dunst text and symbols|Local Time=1885-3-26 00:00
+1885	03	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-3-27 00:00
+1885	03	28	04	00	0	n. ?, 2 p. ?, ab. ?	Orig=n. ?, 2 p. ?, ab. ? text and symbols|Local Time=1885-3-28 00:00
+1885	03	29	04	00	0		Orig= text and symbols|Local Time=1885-3-29 00:00
+1885	03	30	04	00	0		Orig= text and symbols|Local Time=1885-3-30 00:00
+1885	03	31	04	00	0		Orig= text and symbols|Local Time=1885-3-31 00:00
+1885	04	01	04	00	0	n?	Orig=n? text and symbols|Local Time=1885-4-1 00:00
+1885	04	02	04	00	0	2 p. ?	Orig=2 p. ? text and symbols|Local Time=1885-4-2 00:00
+1885	04	03	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1885-4-3 00:00
+1885	04	04	04	00	0	10 p. ? dunst SE-NW	Orig=10 p. ? dunst SE-NW text and symbols|Local Time=1885-4-4 00:00
+1885	04	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-4-5 00:00
+1885	04	06	04	00	0	mg. ?, 8 p. ?, 10 p. ? krone	Orig=mg. ?, 8 p. ?, 10 p. ? krone text and symbols|Local Time=1885-4-6 00:00
+1885	04	07	04	00	0	10 3/4 p. ? dunst	Orig=10 3/4 p. ? dunst text and symbols|Local Time=1885-4-7 00:00
+1885	04	08	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1885-4-8 00:00
+1885	04	09	04	00	0	2 1/8  p.- 6 1/4 p. ?, 10 1/4 p. ? dunst	Orig=2 1/8  p.- 6 1/4 p. ?, 10 1/4 p. ? dunst text and symbols|Local Time=1885-4-9 00:00
+1885	04	10	04	00	0	mg. ?, 2 p. ? ⃝, ab. ?	Orig=mg. ?, 2 p. ? ⃝, ab. ? text and symbols|Local Time=1885-4-10 00:00
+1885	04	11	04	00	0	mg. ⃝ ?	Orig=mg. ⃝ ? text and symbols|Local Time=1885-4-11 00:00
+1885	04	12	04	00	0	n. ?	Orig=n. ? text and symbols|Local Time=1885-4-12 00:00
+1885	04	13	04	00	0	1 a. ? Krone 2 p. ?	Orig=1 a. ? Krone 2 p. ? text and symbols|Local Time=1885-4-13 00:00
+1885	04	14	04	00	0	mg. und p.m. ?	Orig=mg. und p.m. ? text and symbols|Local Time=1885-4-14 00:00
+1885	04	15	04	00	0	2 p. ?	Orig=2 p. ? text and symbols|Local Time=1885-4-15 00:00
+1885	04	16	04	00	0		Orig= text and symbols|Local Time=1885-4-16 00:00
+1885	04	17	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1885-4-17 00:00
+1885	04	18	04	00	0		Orig= text and symbols|Local Time=1885-4-18 00:00
+1885	04	19	04	00	0		Orig= text and symbols|Local Time=1885-4-19 00:00
+1885	04	20	04	00	0	9 1/8 a.-0 1/4 p. ?, ab. ?	Orig=9 1/8 a.-0 1/4 p. ?, ab. ? text and symbols|Local Time=1885-4-20 00:00
+1885	04	21	04	00	0	mg. ?, 2 p. ? 	Orig=mg. ?, 2 p. ?  text and symbols|Local Time=1885-4-21 00:00
+1885	04	22	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1885-4-22 00:00
+1885	04	23	04	00	0	8 a. ?	Orig=8 a. ? text and symbols|Local Time=1885-4-23 00:00
+1885	04	24	04	00	0		Orig= text and symbols|Local Time=1885-4-24 00:00
+1885	04	25	04	00	0		Orig= text and symbols|Local Time=1885-4-25 00:00
+1885	04	26	04	00	0	10 p. ? krone	Orig=10 p. ? krone text and symbols|Local Time=1885-4-26 00:00
+1885	04	27	04	00	0		Orig= text and symbols|Local Time=1885-4-27 00:00
+1885	04	28	04	00	0	a. m. und p.m. ?	Orig=a. m. und p.m. ? text and symbols|Local Time=1885-4-28 00:00
+1885	04	29	04	00	0		Orig= text and symbols|Local Time=1885-4-29 00:00
+1885	04	30	04	00	0		Orig= text and symbols|Local Time=1885-4-30 00:00
+1885	05	01	04	00	0	mg. ? p.m. und  ab. ⃝ ?	Orig=mg. ? p.m. und  ab. ⃝ ? text and symbols|Local Time=1885-5-1 00:00
+1885	05	02	04	00	0		Orig= text and symbols|Local Time=1885-5-2 00:00
+1885	05	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-5-3 00:00
+1885	05	04	04	00	0		Orig= text and symbols|Local Time=1885-5-4 00:00
+1885	05	05	04	00	0		Orig= text and symbols|Local Time=1885-5-5 00:00
+1885	05	06	04	00	0	mg.  und  p.m ?	Orig=mg.  und  p.m ? text and symbols|Local Time=1885-5-6 00:00
+1885	05	07	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1885-5-7 00:00
+1885	05	08	04	00	0		Orig= text and symbols|Local Time=1885-5-8 00:00
+1885	05	09	04	00	0		Orig= text and symbols|Local Time=1885-5-9 00:00
+1885	05	10	04	00	0	mg. ?, ab. ?	Orig=mg. ?, ab. ? text and symbols|Local Time=1885-5-10 00:00
+1885	05	11	04	00	0		Orig= text and symbols|Local Time=1885-5-11 00:00
+1885	05	12	04	00	0		Orig= text and symbols|Local Time=1885-5-12 00:00
+1885	05	13	04	00	0	2 p. ⃝ ?	Orig=2 p. ⃝ ? text and symbols|Local Time=1885-5-13 00:00
+1885	05	14	04	00	0	9 1/8 a.-11 a. ?	Orig=9 1/8 a.-11 a. ? text and symbols|Local Time=1885-5-14 00:00
+1885	05	15	04	00	0		Orig= text and symbols|Local Time=1885-5-15 00:00
+1885	05	16	04	00	0		Orig= text and symbols|Local Time=1885-5-16 00:00
+1885	05	17	04	00	0	mtg. cir. C. und cir. s. W-E	Orig=mtg. cir. C. und cir. s. W-E text and symbols|Local Time=1885-5-17 00:00
+1885	05	18	04	00	0	n. ?	Orig=n. ? text and symbols|Local Time=1885-5-18 00:00
+1885	05	19	04	00	0	10 p. ?	Orig=10 p. ? text and symbols|Local Time=1885-5-19 00:00
+1885	05	20	04	00	0		Orig= text and symbols|Local Time=1885-5-20 00:00
+1885	05	21	04	00	0		Orig= text and symbols|Local Time=1885-5-21 00:00
+1885	05	22	04	00	0		Orig= text and symbols|Local Time=1885-5-22 00:00
+1885	05	23	04	00	0		Orig= text and symbols|Local Time=1885-5-23 00:00
+1885	05	24	04	00	0		Orig= text and symbols|Local Time=1885-5-24 00:00
+1885	05	25	04	00	0		Orig= text and symbols|Local Time=1885-5-25 00:00
+1885	05	26	04	00	0	n. ?, p.m. und ab. ?	Orig=n. ?, p.m. und ab. ? text and symbols|Local Time=1885-5-26 00:00
+1885	05	27	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1885-5-27 00:00
+1885	05	28	04	00	0		Orig= text and symbols|Local Time=1885-5-28 00:00
+1885	05	29	04	00	0	p.m. öfter ?, ab. ?	Orig=p.m. öfter ?, ab. ? text and symbols|Local Time=1885-5-29 00:00
+1885	05	30	04	00	0	2 p. ?	Orig=2 p. ? text and symbols|Local Time=1885-5-30 00:00
+1885	05	31	04	00	0		Orig= text and symbols|Local Time=1885-5-31 00:00
+1885	06	01	04	00	0	mg. II 0  ab. ≡2	Orig=mg. II 0  ab. ≡2 text and symbols|Local Time=1885-6-1 00:00
+1885	06	02	04	00	0	 n. II 2	Orig= n. II 2 text and symbols|Local Time=1885-6-2 00:00
+1885	06	03	04	00	0		Orig= text and symbols|Local Time=1885-6-3 00:00
+1885	06	04	04	00	0	mg. ?. p.m. ⃝ 0	Orig=mg. ?. p.m. ⃝ 0 text and symbols|Local Time=1885-6-4 00:00
+1885	06	05	04	00	0	n. ⃝, ab. ⃝ 0	Orig=n. ⃝, ab. ⃝ 0 text and symbols|Local Time=1885-6-5 00:00
+1885	06	06	04	00	0		Orig= text and symbols|Local Time=1885-6-6 00:00
+1885	06	07	04	00	0		Orig= text and symbols|Local Time=1885-6-7 00:00
+1885	06	08	04	00	0	n. ?, ab. ?	Orig=n. ?, ab. ? text and symbols|Local Time=1885-6-8 00:00
+1885	06	09	04	00	0	mg. und p. ?	Orig=mg. und p. ? text and symbols|Local Time=1885-6-9 00:00
+1885	06	10	04	00	0	2 p. ?	Orig=2 p. ? text and symbols|Local Time=1885-6-10 00:00
+1885	06	11	04	00	0		Orig= text and symbols|Local Time=1885-6-11 00:00
+1885	06	12	04	00	0		Orig= text and symbols|Local Time=1885-6-12 00:00
+1885	06	13	04	00	0	am. ⃝	Orig=am. ⃝ text and symbols|Local Time=1885-6-13 00:00
+1885	06	14	04	00	0		Orig= text and symbols|Local Time=1885-6-14 00:00
+1885	06	15	04	00	0		Orig= text and symbols|Local Time=1885-6-15 00:00
+1885	06	16	04	00	0	n. ⃝	Orig=n. ⃝ text and symbols|Local Time=1885-6-16 00:00
+1885	06	17	04	00	0	mg. ?. 2 p. ⃝2	Orig=mg. ?. 2 p. ⃝2 text and symbols|Local Time=1885-6-17 00:00
+1885	06	18	04	00	0		Orig= text and symbols|Local Time=1885-6-18 00:00
+1885	06	19	04	00	0		Orig= text and symbols|Local Time=1885-6-19 00:00
+1885	06	20	04	00	0		Orig= text and symbols|Local Time=1885-6-20 00:00
+1885	06	21	04	00	0	2 1/2 p/ cor. c. SE-NW 	Orig=2 1/2 p/ cor. c. SE-NW  text and symbols|Local Time=1885-6-21 00:00
+1885	06	22	04	00	0	p.m.  ⃝ 2, ab. ⃝ 0	Orig=p.m.  ⃝ 2, ab. ⃝ 0 text and symbols|Local Time=1885-6-22 00:00
+1885	06	23	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1885-6-23 00:00
+1885	06	24	04	00	0		Orig= text and symbols|Local Time=1885-6-24 00:00
+1885	06	25	04	00	0	ab. ⃝ 0	Orig=ab. ⃝ 0 text and symbols|Local Time=1885-6-25 00:00
+1885	06	26	04	00	0	0 1/2 p. ?	Orig=0 1/2 p. ? text and symbols|Local Time=1885-6-26 00:00
+1885	06	27	04	00	0		Orig= text and symbols|Local Time=1885-6-27 00:00
+1885	06	28	04	00	0		Orig= text and symbols|Local Time=1885-6-28 00:00
+1885	06	29	04	00	0		Orig= text and symbols|Local Time=1885-6-29 00:00
+1885	06	30	04	00	0		Orig= text and symbols|Local Time=1885-6-30 00:00
+1885	07	01	04	00	0		Orig= text and symbols|Local Time=1885-7-1 00:00
+1885	07	02	04	00	0		Orig= text and symbols|Local Time=1885-7-2 00:00
+1885	07	03	04	00	0	Heute verliedd un das Wintereis	Orig=Heute verliedd un das Wintereis text and symbols|Local Time=1885-7-3 00:00
+1885	07	04	04	00	0		Orig= text and symbols|Local Time=1885-7-4 00:00
+1885	07	05	04	00	0	4-7 p. Wb. W-E  	Orig=4-7 p. Wb. W-E   text and symbols|Local Time=1885-7-5 00:00
+1885	07	06	04	00	0		Orig= text and symbols|Local Time=1885-7-6 00:00
+1885	07	07	04	00	0	8 1/2 p. Wb. W-E	Orig=8 1/2 p. Wb. W-E text and symbols|Local Time=1885-7-7 00:00
+1885	07	08	04	00	0		Orig= text and symbols|Local Time=1885-7-8 00:00
+1885	07	09	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1885-7-9 00:00
+1885	07	10	04	00	0		Orig= text and symbols|Local Time=1885-7-10 00:00
+1885	07	11	04	00	0		Orig= text and symbols|Local Time=1885-7-11 00:00
+1885	07	12	04	00	0	n ⃝	Orig=n ⃝ text and symbols|Local Time=1885-7-12 00:00
+1885	07	13	04	00	0		Orig= text and symbols|Local Time=1885-7-13 00:00
+1885	07	14	04	00	0	anhaltend ∞	Orig=anhaltend ∞ text and symbols|Local Time=1885-7-14 00:00
+1885	07	15	04	00	0		Orig= text and symbols|Local Time=1885-7-15 00:00
+1885	07	16	04	00	0	5 h am. ? ⃝, 8 1/2 a T. im W	Orig=5 h am. ? ⃝, 8 1/2 a T. im W text and symbols|Local Time=1885-7-16 00:00
+1885	07	17	04	00	0		Orig= text and symbols|Local Time=1885-7-17 00:00
+1885	07	18	04	00	0	8 3/4 a cr. S. von ESE	Orig=8 3/4 a cr. S. von ESE text and symbols|Local Time=1885-7-18 00:00
+1885	07	19	04	00	0	2 p. ⃝	Orig=2 p. ⃝ text and symbols|Local Time=1885-7-19 00:00
+1885	07	20	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1885-7-20 00:00
+1885	07	21	04	00	0	2 p. ⃝	Orig=2 p. ⃝ text and symbols|Local Time=1885-7-21 00:00
+1885	07	22	04	00	0		Orig= text and symbols|Local Time=1885-7-22 00:00
+1885	07	23	04	00	0	p. ⃝, 4 1/2 u. 6 1/3 p. ͡	Orig=p. ⃝, 4 1/2 u. 6 1/3 p. ͡ text and symbols|Local Time=1885-7-23 00:00
+1885	07	24	04	00	0		Orig= text and symbols|Local Time=1885-7-24 00:00
+1885	07	25	04	00	0	mg. ?, p. und ab. ⃝	Orig=mg. ?, p. und ab. ⃝ text and symbols|Local Time=1885-7-25 00:00
+1885	07	26	04	00	0	Bucht voll Treibeis	Orig=Bucht voll Treibeis text and symbols|Local Time=1885-7-26 00:00
+1885	07	27	04	00	0		Orig= text and symbols|Local Time=1885-7-27 00:00
+1885	07	28	04	00	0		Orig= text and symbols|Local Time=1885-7-28 00:00
+1885	07	29	04	00	0	n. ⃝	Orig=n. ⃝ text and symbols|Local Time=1885-7-29 00:00
+1885	07	30	04	00	0	n. ⃝	Orig=n. ⃝ text and symbols|Local Time=1885-7-30 00:00
+1885	07	31	04	00	0	n. ⃝	Orig=n. ⃝ text and symbols|Local Time=1885-7-31 00:00
+1885	08	01	04	00	0		Orig= text and symbols|Local Time=1885-8-1 00:00
+1885	08	02	04	00	0	n. ⃝	Orig=n. ⃝ text and symbols|Local Time=1885-8-2 00:00
+1885	08	03	04	00	0	7 h p. ͡0 , III ⃝, 10 p. ? dunst S-N	Orig=7 h p. ͡0 , III ⃝, 10 p. ? dunst S-N text and symbols|Local Time=1885-8-3 00:00
+1885	08	04	04	00	0		Orig= text and symbols|Local Time=1885-8-4 00:00
+1885	08	05	04	00	0	anhaltend ∞	Orig=anhaltend ∞ text and symbols|Local Time=1885-8-5 00:00
+1885	08	06	04	00	0	mg. ∞,6 1/2 h p. ⃝ 0	Orig=mg. ∞,6 1/2 h p. ⃝ 0 text and symbols|Local Time=1885-8-6 00:00
+1885	08	07	04	00	0	n. ⃝, mg. ≡	Orig=n. ⃝, mg. ≡ text and symbols|Local Time=1885-8-7 00:00
+1885	08	08	04	00	0	1 h p. cir W-S. II ?, 10 1/4 h p. ? krone	Orig=1 h p. cir W-S. II ?, 10 1/4 h p. ? krone text and symbols|Local Time=1885-8-8 00:00
+1885	08	09	04	00	0		Orig= text and symbols|Local Time=1885-8-9 00:00
+1885	08	10	04	00	0	6 h a. Wb. Von W-E, 7 3/4 h p . ͡2 	Orig=6 h a. Wb. Von W-E, 7 3/4 h p . ͡2  text and symbols|Local Time=1885-8-10 00:00
+1885	08	11	04	00	0	9 3/4 h p. ? fäden	Orig=9 3/4 h p. ? fäden text and symbols|Local Time=1885-8-11 00:00
+1885	08	12	04	00	0	6 h a.  ⃝, 10 h p. ? krone	Orig=6 h a.  ⃝, 10 h p. ? krone text and symbols|Local Time=1885-8-12 00:00
+1885	08	13	04	00	0	5 bis 6 h cir. S. NW-SE II ∞, 10 h p. [? Bänder W-E	Orig=5 bis 6 h cir. S. NW-SE II ∞, 10 h p. [? Bänder W-E text and symbols|Local Time=1885-8-13 00:00
+1885	08	14	04	00	0	3 1/2 h p. bis n.  ⃝ 	Orig=3 1/2 h p. bis n.  ⃝  text and symbols|Local Time=1885-8-14 00:00
+1885	08	15	04	00	0		Orig= text and symbols|Local Time=1885-8-15 00:00
+1885	08	16	04	00	0	10 h  p. ? krone	Orig=10 h  p. ? krone text and symbols|Local Time=1885-8-16 00:00
+1885	08	17	04	00	0	n.  ⃝, 10 1/2 h p. band	Orig=n.  ⃝, 10 1/2 h p. band text and symbols|Local Time=1885-8-17 00:00
+1885	08	18	04	00	0	n in den Gärten die Gewächse erfroren, mg und [ ab. ≡	Orig=n in den Gärten die Gewächse erfroren, mg und [ ab. ≡ text and symbols|Local Time=1885-8-18 00:00
+1885	08	19	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1885-8-19 00:00
+1885	08	20	04	00	0	mg. ≡, ab. ⃝ 	Orig=mg. ≡, ab. ⃝  text and symbols|Local Time=1885-8-20 00:00
+1885	08	21	04	00	0	10 h p. ? bänder	Orig=10 h p. ? bänder text and symbols|Local Time=1885-8-21 00:00
+1885	08	22	04	00	0		Orig= text and symbols|Local Time=1885-8-22 00:00
+1885	08	23	04	00	0	mg. ≡	Orig=mg. ≡ text and symbols|Local Time=1885-8-23 00:00
+1885	08	24	04	00	0	öfter ⃝ 0	Orig=öfter ⃝ 0 text and symbols|Local Time=1885-8-24 00:00
+1885	08	25	04	00	0	 ab. ⃝ 	Orig= ab. ⃝  text and symbols|Local Time=1885-8-25 00:00
+1885	08	26	04	00	0	mg. und p.m. ⃝ 	Orig=mg. und p.m. ⃝  text and symbols|Local Time=1885-8-26 00:00
+1885	08	27	04	00	0	öfter ⃝ 	Orig=öfter ⃝  text and symbols|Local Time=1885-8-27 00:00
+1885	08	28	04	00	0	am. ⃝	Orig=am. ⃝ text and symbols|Local Time=1885-8-28 00:00
+1885	08	29	04	00	0		Orig= text and symbols|Local Time=1885-8-29 00:00
+1885	08	30	04	00	0	mg. höchsten Bergen mit ? Ted., ab. ? krone	Orig=mg. höchsten Bergen mit ? Ted., ab. ? krone text and symbols|Local Time=1885-8-30 00:00
+1885	08	31	04	00	0	mg. ⃝ 	Orig=mg. ⃝  text and symbols|Local Time=1885-8-31 00:00
+1885	09	01	04	00	0	10 p. ⃝ 	Orig=10 p. ⃝  text and symbols|Local Time=1885-9-1 00:00
+1885	09	02	04	00	0		Orig= text and symbols|Local Time=1885-9-2 00:00
+1885	09	03	04	00	0	ab. ⃝ 	Orig=ab. ⃝  text and symbols|Local Time=1885-9-3 00:00
+1885	09	04	04	00	0	10 p. ⃝ 	Orig=10 p. ⃝  text and symbols|Local Time=1885-9-4 00:00
+1885	09	05	04	00	0	4 p. ⃝ 	Orig=4 p. ⃝  text and symbols|Local Time=1885-9-5 00:00
+1885	09	06	04	00	0		Orig= text and symbols|Local Time=1885-9-6 00:00
+1885	09	07	04	00	0	11 1/2 a.-0 3/4 p. cir. c. S-N	Orig=11 1/2 a.-0 3/4 p. cir. c. S-N text and symbols|Local Time=1885-9-7 00:00
+1885	09	08	04	00	0	ab. ⃝ 2	Orig=ab. ⃝ 2 text and symbols|Local Time=1885-9-8 00:00
+1885	09	09	04	00	0	10-11 a. ⃝ 0	Orig=10-11 a. ⃝ 0 text and symbols|Local Time=1885-9-9 00:00
+1885	09	10	04	00	0		Orig= text and symbols|Local Time=1885-9-10 00:00
+1885	09	11	04	00	0		Orig= text and symbols|Local Time=1885-9-11 00:00
+1885	09	12	04	00	0	5-7 a. ?, 10 p. ? dunst	Orig=5-7 a. ?, 10 p. ? dunst text and symbols|Local Time=1885-9-12 00:00
+1885	09	13	04	00	0	3 3/4- 6 cir. c. NW-SE, 10 p. ?dunst	Orig=3 3/4- 6 cir. c. NW-SE, 10 p. ?dunst text and symbols|Local Time=1885-9-13 00:00
+1885	09	14	04	00	0		Orig= text and symbols|Local Time=1885-9-14 00:00
+1885	09	15	04	00	0	ab. ⃝ 	Orig=ab. ⃝  text and symbols|Local Time=1885-9-15 00:00
+1885	09	16	04	00	0	mg. ⃝ 	Orig=mg. ⃝  text and symbols|Local Time=1885-9-16 00:00
+1885	09	17	04	00	0	10 p. ? fäden	Orig=10 p. ? fäden text and symbols|Local Time=1885-9-17 00:00
+1885	09	18	04	00	0	6 3/4 a. Nebensonne	Orig=6 3/4 a. Nebensonne text and symbols|Local Time=1885-9-18 00:00
+1885	09	19	04	00	0	5-7 1/2 a. ?	Orig=5-7 1/2 a. ? text and symbols|Local Time=1885-9-19 00:00
+1885	09	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-9-20 00:00
+1885	09	21	04	00	0	ab. ⃝ 	Orig=ab. ⃝  text and symbols|Local Time=1885-9-21 00:00
+1885	09	22	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-9-22 00:00
+1885	09	23	04	00	0		Orig= text and symbols|Local Time=1885-9-23 00:00
+1885	09	24	04	00	0	mg. ? ⃝ 	Orig=mg. ? ⃝  text and symbols|Local Time=1885-9-24 00:00
+1885	09	25	04	00	0	8 1/2- 11a. ?  ⃝	Orig=8 1/2- 11a. ?  ⃝ text and symbols|Local Time=1885-9-25 00:00
+1885	09	26	04	00	0	öfter ? schauer	Orig=öfter ? schauer text and symbols|Local Time=1885-9-26 00:00
+1885	09	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-9-27 00:00
+1885	09	28	04	00	0	2 1/4 p. cir. S. NW-SE. ab. ?	Orig=2 1/4 p. cir. S. NW-SE. ab. ? text and symbols|Local Time=1885-9-28 00:00
+1885	09	29	04	00	0	tgs. ∞, ab. Starker Brandgeruch u. ?	Orig=tgs. ∞, ab. Starker Brandgeruch u. ? text and symbols|Local Time=1885-9-29 00:00
+1885	09	30	04	00	0	10 p. ?	Orig=10 p. ? text and symbols|Local Time=1885-9-30 00:00
+1885	10	01	04	00	0	9 1/4-9 3/4 a. cir. A. W-E	Orig=9 1/4-9 3/4 a. cir. A. W-E text and symbols|Local Time=1885-10-1 00:00
+1885	10	02	04	00	0		Orig= text and symbols|Local Time=1885-10-2 00:00
+1885	10	03	04	00	0	mg. und p.m. ?, ab. ⃝ ?	Orig=mg. und p.m. ?, ab. ⃝ ? text and symbols|Local Time=1885-10-3 00:00
+1885	10	04	04	00	0		Orig= text and symbols|Local Time=1885-10-4 00:00
+1885	10	05	04	00	0	mg. und ab. ?,p.m. ⃝ 	Orig=mg. und ab. ?,p.m. ⃝  text and symbols|Local Time=1885-10-5 00:00
+1885	10	06	04	00	0	p.m. ?, 8 3/4 p. ? band E-W	Orig=p.m. ?, 8 3/4 p. ? band E-W text and symbols|Local Time=1885-10-6 00:00
+1885	10	07	04	00	0		Orig= text and symbols|Local Time=1885-10-7 00:00
+1885	10	08	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-8 00:00
+1885	10	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-9 00:00
+1885	10	10	04	00	0		Orig= text and symbols|Local Time=1885-10-10 00:00
+1885	10	11	04	00	0		Orig= text and symbols|Local Time=1885-10-11 00:00
+1885	10	12	04	00	0		Orig= text and symbols|Local Time=1885-10-12 00:00
+1885	10	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-13 00:00
+1885	10	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-14 00:00
+1885	10	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-15 00:00
+1885	10	16	04	00	0	am. ⃝	Orig=am. ⃝ text and symbols|Local Time=1885-10-16 00:00
+1885	10	17	04	00	0	p.m. ⃝ ?, ab. ⃝	Orig=p.m. ⃝ ?, ab. ⃝ text and symbols|Local Time=1885-10-17 00:00
+1885	10	18	04	00	0		Orig= text and symbols|Local Time=1885-10-18 00:00
+1885	10	19	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1885-10-19 00:00
+1885	10	20	04	00	0	p.m. ⃝	Orig=p.m. ⃝ text and symbols|Local Time=1885-10-20 00:00
+1885	10	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-21 00:00
+1885	10	22	04	00	0	11 3/4 a. ?, p.m. ?, 10 p. ?	Orig=11 3/4 a. ?, p.m. ?, 10 p. ? text and symbols|Local Time=1885-10-22 00:00
+1885	10	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-23 00:00
+1885	10	24	04	00	0		Orig= text and symbols|Local Time=1885-10-24 00:00
+1885	10	25	04	00	0		Orig= text and symbols|Local Time=1885-10-25 00:00
+1885	10	26	04	00	0	3 3/4 cir.s. W-E, ab. ?	Orig=3 3/4 cir.s. W-E, ab. ? text and symbols|Local Time=1885-10-26 00:00
+1885	10	27	04	00	0	mg. ?, ab. ?	Orig=mg. ?, ab. ? text and symbols|Local Time=1885-10-27 00:00
+1885	10	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-28 00:00
+1885	10	29	04	00	0	9-10 p. ? dunst	Orig=9-10 p. ? dunst text and symbols|Local Time=1885-10-29 00:00
+1885	10	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-10-30 00:00
+1885	10	31	04	00	0	10 p. ? bänder	Orig=10 p. ? bänder text and symbols|Local Time=1885-10-31 00:00
+1885	11	01	04	00	0		Orig= text and symbols|Local Time=1885-11-1 00:00
+1885	11	02	04	00	0		Orig= text and symbols|Local Time=1885-11-2 00:00
+1885	11	03	04	00	0		Orig= text and symbols|Local Time=1885-11-3 00:00
+1885	11	04	04	00	0		Orig= text and symbols|Local Time=1885-11-4 00:00
+1885	11	05	04	00	0		Orig= text and symbols|Local Time=1885-11-5 00:00
+1885	11	06	04	00	0		Orig= text and symbols|Local Time=1885-11-6 00:00
+1885	11	07	04	00	0	11 1/4 a. cir. S. SE-NW. ab. ?	Orig=11 1/4 a. cir. S. SE-NW. ab. ? text and symbols|Local Time=1885-11-7 00:00
+1885	11	08	04	00	0	n.  ?, ab. ?	Orig=n.  ?, ab. ? text and symbols|Local Time=1885-11-8 00:00
+1885	11	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-9 00:00
+1885	11	10	04	00	0	mg. ? ⃝	Orig=mg. ? ⃝ text and symbols|Local Time=1885-11-10 00:00
+1885	11	11	04	00	0	p.m. und ab. ?	Orig=p.m. und ab. ? text and symbols|Local Time=1885-11-11 00:00
+1885	11	12	04	00	0	n ⃝	Orig=n ⃝ text and symbols|Local Time=1885-11-12 00:00
+1885	11	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-13 00:00
+1885	11	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-14 00:00
+1885	11	15	04	00	0	p.m ?	Orig=p.m ? text and symbols|Local Time=1885-11-15 00:00
+1885	11	16	04	00	0	mg. ?, ab.  ⃝	Orig=mg. ?, ab.  ⃝ text and symbols|Local Time=1885-11-16 00:00
+1885	11	17	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1885-11-17 00:00
+1885	11	18	04	00	0		Orig= text and symbols|Local Time=1885-11-18 00:00
+1885	11	19	04	00	0	mg. ? ⃝	Orig=mg. ? ⃝ text and symbols|Local Time=1885-11-19 00:00
+1885	11	20	04	00	0		Orig= text and symbols|Local Time=1885-11-20 00:00
+1885	11	21	04	00	0		Orig= text and symbols|Local Time=1885-11-21 00:00
+1885	11	22	04	00	0	10 p. ?	Orig=10 p. ? text and symbols|Local Time=1885-11-22 00:00
+1885	11	23	04	00	0	6 1/2 a. ?, 9 a. ?	Orig=6 1/2 a. ?, 9 a. ? text and symbols|Local Time=1885-11-23 00:00
+1885	11	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-24 00:00
+1885	11	25	04	00	0	9-10 1/2 a. Nebensonne, ab. ?	Orig=9-10 1/2 a. Nebensonne, ab. ? text and symbols|Local Time=1885-11-25 00:00
+1885	11	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-26 00:00
+1885	11	27	04	00	0	10 p. ?	Orig=10 p. ? text and symbols|Local Time=1885-11-27 00:00
+1885	11	28	04	00	0	9 und 10 p. ?	Orig=9 und 10 p. ? text and symbols|Local Time=1885-11-28 00:00
+1885	11	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-29 00:00
+1885	11	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-11-30 00:00
+1885	12	01	04	00	0	11 1/2 a.-12 a. cir. S WNW-ESE, ab. ?	Orig=11 1/2 a.-12 a. cir. S WNW-ESE, ab. ? text and symbols|Local Time=1885-12-1 00:00
+1885	12	02	04	00	0		Orig= text and symbols|Local Time=1885-12-2 00:00
+1885	12	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-12-3 00:00
+1885	12	04	04	00	0	p.m. ?, ab. ?, 10 p., Bar. 729.7 mm, Wind N6	Orig=p.m. ?, ab. ?, 10 p., Bar. 729.7 mm, Wind N6 text and symbols|Local Time=1885-12-4 00:00
+1885	12	05	04	00	0	mg. und p, ?, ab. ?	Orig=mg. und p, ?, ab. ? text and symbols|Local Time=1885-12-5 00:00
+1885	12	06	04	00	0	mg. ?, 6 p. Ba. 728.9 Wind S3	Orig=mg. ?, 6 p. Ba. 728.9 Wind S3 text and symbols|Local Time=1885-12-6 00:00
+1885	12	07	04	00	0		Orig= text and symbols|Local Time=1885-12-7 00:00
+1885	12	08	04	00	0	tgs. anhaltend ?, ab. ?	Orig=tgs. anhaltend ?, ab. ? text and symbols|Local Time=1885-12-8 00:00
+1885	12	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-12-9 00:00
+1885	12	10	04	00	0		Orig= text and symbols|Local Time=1885-12-10 00:00
+1885	12	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-12-11 00:00
+1885	12	12	04	00	0		Orig= text and symbols|Local Time=1885-12-12 00:00
+1885	12	13	04	00	0	10 p. bänder W-E	Orig=10 p. bänder W-E text and symbols|Local Time=1885-12-13 00:00
+1885	12	14	04	00	0	8-11 a. ?, ab. ?	Orig=8-11 a. ?, ab. ? text and symbols|Local Time=1885-12-14 00:00
+1885	12	15	04	00	0	1 0 p. ?, krone	Orig=1 0 p. ?, krone text and symbols|Local Time=1885-12-15 00:00
+1885	12	16	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1885-12-16 00:00
+1885	12	17	04	00	0		Orig= text and symbols|Local Time=1885-12-17 00:00
+1885	12	18	04	00	0	10 p. cir. S. S-N	Orig=10 p. cir. S. S-N text and symbols|Local Time=1885-12-18 00:00
+1885	12	19	04	00	0	7p. Cir S-N, ?	Orig=7p. Cir S-N, ? text and symbols|Local Time=1885-12-19 00:00
+1885	12	20	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1885-12-20 00:00
+1885	12	21	04	00	0		Orig= text and symbols|Local Time=1885-12-21 00:00
+1885	12	22	04	00	0	9 1/2 a Nebensonne	Orig=9 1/2 a Nebensonne text and symbols|Local Time=1885-12-22 00:00
+1885	12	23	04	00	0	2 p. ?	Orig=2 p. ? text and symbols|Local Time=1885-12-23 00:00
+1885	12	24	04	00	0		Orig= text and symbols|Local Time=1885-12-24 00:00
+1885	12	25	04	00	0		Orig= text and symbols|Local Time=1885-12-25 00:00
+1885	12	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-12-26 00:00
+1885	12	27	04	00	0		Orig= text and symbols|Local Time=1885-12-27 00:00
+1885	12	28	04	00	0		Orig= text and symbols|Local Time=1885-12-28 00:00
+1885	12	29	04	00	0	p.m. , 10 p. ?	Orig=p.m. , 10 p. ? text and symbols|Local Time=1885-12-29 00:00
+1885	12	30	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1885-12-30 00:00
+1885	12	31	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1885-12-31 00:00
+1886	01	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-1 00:00
+1886	01	02	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-1-2 00:00
+1886	01	03	04	00	0	p.m. ?, ab. ?	Orig=p.m. ?, ab. ? text and symbols|Local Time=1886-1-3 00:00
+1886	01	04	04	00	0	9 h a. bis. 2 h p. ci-s von WNW nach ESE	Orig=9 h a. bis. 2 h p. ci-s von WNW nach ESE text and symbols|Local Time=1886-1-4 00:00
+1886	01	05	04	00	0	über N ?, ab. ?	Orig=über N ?, ab. ? text and symbols|Local Time=1886-1-5 00:00
+1886	01	06	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-6 00:00
+1886	01	07	04	00	0	de gazen Tag ?, p.m. u. ab. ?	Orig=de gazen Tag ?, p.m. u. ab. ? text and symbols|Local Time=1886-1-7 00:00
+1886	01	08	04	00	0	de gazen Tag ? * )	Orig=de gazen Tag ? * ) text and symbols|Local Time=1886-1-8 00:00
+1886	01	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-9 00:00
+1886	01	10	04	00	0	p.m. u. ab. ? u. ?, 10 h p. Bar. 728,2	Orig=p.m. u. ab. ? u. ?, 10 h p. Bar. 728,2 text and symbols|Local Time=1886-1-10 00:00
+1886	01	11	04	00	0		Orig= text and symbols|Local Time=1886-1-11 00:00
+1886	01	12	04	00	0	mg. u. p.m. ?, p.m. Nebensonne	Orig=mg. u. p.m. ?, p.m. Nebensonne text and symbols|Local Time=1886-1-12 00:00
+1886	01	13	04	00	0	mg. u. p.m. ?	Orig=mg. u. p.m. ? text and symbols|Local Time=1886-1-13 00:00
+1886	01	14	04	00	0		Orig= text and symbols|Local Time=1886-1-14 00:00
+1886	01	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-15 00:00
+1886	01	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-16 00:00
+1886	01	17	04	00	0	mg. u. p.m. ?	Orig=mg. u. p.m. ? text and symbols|Local Time=1886-1-17 00:00
+1886	01	18	04	00	0	den gazen Tag. ? und ?	Orig=den gazen Tag. ? und ? text and symbols|Local Time=1886-1-18 00:00
+1886	01	19	04	00	0	mg., p.m. u. ab. ? ?? ), ab. ?	Orig=mg., p.m. u. ab. ? ?? ), ab. ? text and symbols|Local Time=1886-1-19 00:00
+1886	01	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-20 00:00
+1886	01	21	04	00	0	10 h a Nebensonnen	Orig=10 h a Nebensonnen text and symbols|Local Time=1886-1-21 00:00
+1886	01	22	04	00	0	Nachts ?	Orig=Nachts ? text and symbols|Local Time=1886-1-22 00:00
+1886	01	23	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-1-23 00:00
+1886	01	24	04	00	0	mg. u. p.m. ? ? u. ? ab. ?	Orig=mg. u. p.m. ? ? u. ? ab. ? text and symbols|Local Time=1886-1-24 00:00
+1886	01	25	04	00	0	p.m. sehr unbeständiger Wind, mehrmals in [ derselben	Orig=p.m. sehr unbeständiger Wind, mehrmals in [ derselben text and symbols|Local Time=1886-1-25 00:00
+1886	01	26	04	00	0	9 3/4 h a. zwei Nebensonnen, ab. ? [ Stunde aus [ N,S,E u. W	Orig=9 3/4 h a. zwei Nebensonnen, ab. ? [ Stunde aus [ N,S,E u. W text and symbols|Local Time=1886-1-26 00:00
+1886	01	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-27 00:00
+1886	01	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-28 00:00
+1886	01	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-1-29 00:00
+1886	01	30	04	00	0	1 h p. im Zenith ein helber Nebensonnenring, ab. ?	Orig=1 h p. im Zenith ein helber Nebensonnenring, ab. ? text and symbols|Local Time=1886-1-30 00:00
+1886	01	31	04	00	0	p.m. u. ab. ? 	Orig=p.m. u. ab. ?  text and symbols|Local Time=1886-1-31 00:00
+1886	02	01	04	00	0	p.m. u. ab. ? 	Orig=p.m. u. ab. ?  text and symbols|Local Time=1886-2-1 00:00
+1886	02	02	04	00	0	m.g. ?	Orig=m.g. ? text and symbols|Local Time=1886-2-2 00:00
+1886	02	03	04	00	0		Orig= text and symbols|Local Time=1886-2-3 00:00
+1886	02	04	04	00	0	12 1/2 h p. ?, 10 h p. ? bänder	Orig=12 1/2 h p. ?, 10 h p. ? bänder text and symbols|Local Time=1886-2-4 00:00
+1886	02	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-5 00:00
+1886	02	06	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-2-6 00:00
+1886	02	07	04	00	0	10 1/2 h p. ? Bänder W-E	Orig=10 1/2 h p. ? Bänder W-E text and symbols|Local Time=1886-2-7 00:00
+1886	02	08	04	00	0	 10 h p. ?  Völling bedeckt	Orig= 10 h p. ?  Völling bedeckt text and symbols|Local Time=1886-2-8 00:00
+1886	02	09	04	00	0	Nachts u. mg.?, p.m. u. ab. ?	Orig=Nachts u. mg.?, p.m. u. ab. ? text and symbols|Local Time=1886-2-9 00:00
+1886	02	10	04	00	0	mg. u. p.m. ?  u. ? 10  h p. ? Bänder W-E	Orig=mg. u. p.m. ?  u. ? 10  h p. ? Bänder W-E text and symbols|Local Time=1886-2-10 00:00
+1886	02	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-11 00:00
+1886	02	12	04	00	0	10 h p ?	Orig=10 h p ? text and symbols|Local Time=1886-2-12 00:00
+1886	02	13	04	00	0	ab. ∞ u. ?	Orig=ab. ∞ u. ? text and symbols|Local Time=1886-2-13 00:00
+1886	02	14	04	00	0	Nachts u. mg.?, p.m. u. ab. ?	Orig=Nachts u. mg.?, p.m. u. ab. ? text and symbols|Local Time=1886-2-14 00:00
+1886	02	15	04	00	0	Nachts starker Sturm WNW  10, mg. u. p.m. [ ? u ?	Orig=Nachts starker Sturm WNW  10, mg. u. p.m. [ ? u ? text and symbols|Local Time=1886-2-15 00:00
+1886	02	16	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-2-16 00:00
+1886	02	17	04	00	0	den gazen Tag. ? u. ?	Orig=den gazen Tag. ? u. ? text and symbols|Local Time=1886-2-17 00:00
+1886	02	18	04	00	0		Orig= text and symbols|Local Time=1886-2-18 00:00
+1886	02	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-19 00:00
+1886	02	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-20 00:00
+1886	02	21	04	00	0	3 1/2 h p. ?, ab. ?	Orig=3 1/2 h p. ?, ab. ? text and symbols|Local Time=1886-2-21 00:00
+1886	02	22	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-22 00:00
+1886	02	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-23 00:00
+1886	02	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-2-24 00:00
+1886	02	25	04	00	0		Orig= text and symbols|Local Time=1886-2-25 00:00
+1886	02	26	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1886-2-26 00:00
+1886	02	27	04	00	0	mg. u . ab. ⃝ ?	Orig=mg. u . ab. ⃝ ? text and symbols|Local Time=1886-2-27 00:00
+1886	02	28	04	00	0	mg.  ⃝ ?	Orig=mg.  ⃝ ? text and symbols|Local Time=1886-2-28 00:00
+1886	03	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-1 00:00
+1886	03	02	04	00	0		Orig= text and symbols|Local Time=1886-3-2 00:00
+1886	03	03	04	00	0		Orig= text and symbols|Local Time=1886-3-3 00:00
+1886	03	04	04	00	0	9 h p.  ? segment	Orig=9 h p.  ? segment text and symbols|Local Time=1886-3-4 00:00
+1886	03	05	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-3-5 00:00
+1886	03	06	04	00	0	mg. ?, 4 h p. ?, ab. ?	Orig=mg. ?, 4 h p. ?, ab. ? text and symbols|Local Time=1886-3-6 00:00
+1886	03	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-7 00:00
+1886	03	08	04	00	0		Orig= text and symbols|Local Time=1886-3-8 00:00
+1886	03	09	04	00	0	11  3/4 h p. ? bänder 	Orig=11  3/4 h p. ? bänder  text and symbols|Local Time=1886-3-9 00:00
+1886	03	10	04	00	0		Orig= text and symbols|Local Time=1886-3-10 00:00
+1886	03	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-11 00:00
+1886	03	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-12 00:00
+1886	03	13	04	00	0	10 1/2 h p. ?	Orig=10 1/2 h p. ? text and symbols|Local Time=1886-3-13 00:00
+1886	03	14	04	00	0		Orig= text and symbols|Local Time=1886-3-14 00:00
+1886	03	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-15 00:00
+1886	03	16	04	00	0	10 h p. ? Fäden	Orig=10 h p. ? Fäden text and symbols|Local Time=1886-3-16 00:00
+1886	03	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-17 00:00
+1886	03	18	04	00	0		Orig= text and symbols|Local Time=1886-3-18 00:00
+1886	03	19	04	00	0	mg. u. p.m. ?, ab. ?	Orig=mg. u. p.m. ?, ab. ? text and symbols|Local Time=1886-3-19 00:00
+1886	03	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-20 00:00
+1886	03	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-21 00:00
+1886	03	22	04	00	0	10 h p. ? dunst	Orig=10 h p. ? dunst text and symbols|Local Time=1886-3-22 00:00
+1886	03	23	04	00	0		Orig= text and symbols|Local Time=1886-3-23 00:00
+1886	03	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-24 00:00
+1886	03	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-25 00:00
+1886	03	26	04	00	0	10 h p. ? Dunst, Wind zemehmend bis Stärke 7	Orig=10 h p. ? Dunst, Wind zemehmend bis Stärke 7 text and symbols|Local Time=1886-3-26 00:00
+1886	03	27	04	00	0	tagsüber ?, 10 h p. ? bänder 	Orig=tagsüber ?, 10 h p. ? bänder  text and symbols|Local Time=1886-3-27 00:00
+1886	03	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-28 00:00
+1886	03	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-29 00:00
+1886	03	30	04	00	0	mg. u. p.m. ?, den gazen  Abend ? Von ver[schied formen, hell u. schönwie seften	Orig=mg. u. p.m. ?, den gazen  Abend ? Von ver[schied formen, hell u. schönwie seften text and symbols|Local Time=1886-3-30 00:00
+1886	03	31	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-3-31 00:00
+1886	04	01	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-4-1 00:00
+1886	04	02	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1886-4-2 00:00
+1886	04	03	04	00	0	10 h p. ? Krone	Orig=10 h p. ? Krone text and symbols|Local Time=1886-4-3 00:00
+1886	04	04	04	00	0	10 h p. ? dunst	Orig=10 h p. ? dunst text and symbols|Local Time=1886-4-4 00:00
+1886	04	05	04	00	0	mg. ?, ab. ?	Orig=mg. ?, ab. ? text and symbols|Local Time=1886-4-5 00:00
+1886	04	06	04	00	0	10 h p. ? dunst	Orig=10 h p. ? dunst text and symbols|Local Time=1886-4-6 00:00
+1886	04	07	04	00	0		Orig= text and symbols|Local Time=1886-4-7 00:00
+1886	04	08	04	00	0		Orig= text and symbols|Local Time=1886-4-8 00:00
+1886	04	09	04	00	0		Orig= text and symbols|Local Time=1886-4-9 00:00
+1886	04	10	04	00	0		Orig= text and symbols|Local Time=1886-4-10 00:00
+1886	04	11	04	00	0		Orig= text and symbols|Local Time=1886-4-11 00:00
+1886	04	12	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-4-12 00:00
+1886	04	13	04	00	0	5 h- 6 h p. ?, ab. ? u. ?	Orig=5 h- 6 h p. ?, ab. ? u. ? text and symbols|Local Time=1886-4-13 00:00
+1886	04	14	04	00	0	10 h p. ? dunst	Orig=10 h p. ? dunst text and symbols|Local Time=1886-4-14 00:00
+1886	04	15	04	00	0	9 h p.?	Orig=9 h p.? text and symbols|Local Time=1886-4-15 00:00
+1886	04	16	04	00	0		Orig= text and symbols|Local Time=1886-4-16 00:00
+1886	04	17	04	00	0	nachts ⃝ u. Δ	Orig=nachts ⃝ u. Δ text and symbols|Local Time=1886-4-17 00:00
+1886	04	18	04	00	0		Orig= text and symbols|Local Time=1886-4-18 00:00
+1886	04	19	04	00	0		Orig= text and symbols|Local Time=1886-4-19 00:00
+1886	04	20	04	00	0	p.m. ?, 10 h p.? band WSW-NNE	Orig=p.m. ?, 10 h p.? band WSW-NNE text and symbols|Local Time=1886-4-20 00:00
+1886	04	21	04	00	0	nachts ? 10 h p. ? dunst	Orig=nachts ? 10 h p. ? dunst text and symbols|Local Time=1886-4-21 00:00
+1886	04	22	04	00	0		Orig= text and symbols|Local Time=1886-4-22 00:00
+1886	04	23	04	00	0	mg. u. ab. ?	Orig=mg. u. ab. ? text and symbols|Local Time=1886-4-23 00:00
+1886	04	24	04	00	0		Orig= text and symbols|Local Time=1886-4-24 00:00
+1886	04	25	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-4-25 00:00
+1886	04	26	04	00	0		Orig= text and symbols|Local Time=1886-4-26 00:00
+1886	04	27	04	00	0		Orig= text and symbols|Local Time=1886-4-27 00:00
+1886	04	28	04	00	0		Orig= text and symbols|Local Time=1886-4-28 00:00
+1886	04	29	04	00	0	nachts ? 	Orig=nachts ?  text and symbols|Local Time=1886-4-29 00:00
+1886	04	30	04	00	0	10 h p. ? Krone	Orig=10 h p. ? Krone text and symbols|Local Time=1886-4-30 00:00
+1886	05	01	04	00	0	9 1/2 h p. ? Krone, wundervolle  Regenbogenfarben	Orig=9 1/2 h p. ? Krone, wundervolle  Regenbogenfarben text and symbols|Local Time=1886-5-1 00:00
+1886	05	02	04	00	0		Orig= text and symbols|Local Time=1886-5-2 00:00
+1886	05	03	04	00	0	9  h p. ? Fäden, ci-str. NW-SE	Orig=9  h p. ? Fäden, ci-str. NW-SE text and symbols|Local Time=1886-5-3 00:00
+1886	05	04	04	00	0		Orig= text and symbols|Local Time=1886-5-4 00:00
+1886	05	05	04	00	0	nachts ?	Orig=nachts ? text and symbols|Local Time=1886-5-5 00:00
+1886	05	06	04	00	0		Orig= text and symbols|Local Time=1886-5-6 00:00
+1886	05	07	04	00	0	mg. u. ab. ?	Orig=mg. u. ab. ? text and symbols|Local Time=1886-5-7 00:00
+1886	05	08	04	00	0	10 1/2 h p. ? dunst	Orig=10 1/2 h p. ? dunst text and symbols|Local Time=1886-5-8 00:00
+1886	05	09	04	00	0		Orig= text and symbols|Local Time=1886-5-9 00:00
+1886	05	10	04	00	0	5 h bis 7 h a. ?, 10 h p. ? krone	Orig=5 h bis 7 h a. ?, 10 h p. ? krone text and symbols|Local Time=1886-5-10 00:00
+1886	05	11	04	00	0		Orig= text and symbols|Local Time=1886-5-11 00:00
+1886	05	12	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1886-5-12 00:00
+1886	05	13	04	00	0		Orig= text and symbols|Local Time=1886-5-13 00:00
+1886	05	14	04	00	0	7 h a. ?	Orig=7 h a. ? text and symbols|Local Time=1886-5-14 00:00
+1886	05	15	04	00	0	nachts 11 2 , p.m. ?	Orig=nachts 11 2 , p.m. ? text and symbols|Local Time=1886-5-15 00:00
+1886	05	16	04	00	0	nachts ⃝	Orig=nachts ⃝ text and symbols|Local Time=1886-5-16 00:00
+1886	05	17	04	00	0		Orig= text and symbols|Local Time=1886-5-17 00:00
+1886	05	18	04	00	0	ab. ⃝ 0	Orig=ab. ⃝ 0 text and symbols|Local Time=1886-5-18 00:00
+1886	05	19	04	00	0		Orig= text and symbols|Local Time=1886-5-19 00:00
+1886	05	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-5-20 00:00
+1886	05	21	04	00	0		Orig= text and symbols|Local Time=1886-5-21 00:00
+1886	05	22	04	00	0	p.m. ?, ab. ⃝ ?	Orig=p.m. ?, ab. ⃝ ? text and symbols|Local Time=1886-5-22 00:00
+1886	05	23	04	00	0	ab. ⃝ ?	Orig=ab. ⃝ ? text and symbols|Local Time=1886-5-23 00:00
+1886	05	24	04	00	0	mg. ⃝ ?	Orig=mg. ⃝ ? text and symbols|Local Time=1886-5-24 00:00
+1886	05	25	04	00	0		Orig= text and symbols|Local Time=1886-5-25 00:00
+1886	05	26	04	00	0	ab. ⃝2	Orig=ab. ⃝2 text and symbols|Local Time=1886-5-26 00:00
+1886	05	27	04	00	0		Orig= text and symbols|Local Time=1886-5-27 00:00
+1886	05	28	04	00	0		Orig= text and symbols|Local Time=1886-5-28 00:00
+1886	05	29	04	00	0	nachts ⃝	Orig=nachts ⃝ text and symbols|Local Time=1886-5-29 00:00
+1886	05	30	04	00	0	mg. ⃝ 	Orig=mg. ⃝  text and symbols|Local Time=1886-5-30 00:00
+1886	05	31	04	00	0		Orig= text and symbols|Local Time=1886-5-31 00:00
+1886	06	01	04	00	0		Orig= text and symbols|Local Time=1886-6-1 00:00
+1886	06	02	04	00	0	mg. u. ab. ⃝ 	Orig=mg. u. ab. ⃝  text and symbols|Local Time=1886-6-2 00:00
+1886	06	03	04	00	0	mg. u. p.m. ≡, ab. Δ ?	Orig=mg. u. p.m. ≡, ab. Δ ? text and symbols|Local Time=1886-6-3 00:00
+1886	06	04	04	00	0		Orig= text and symbols|Local Time=1886-6-4 00:00
+1886	06	05	04	00	0	9 a. bis. 10 a ⃝  u. ?	Orig=9 a. bis. 10 a ⃝  u. ? text and symbols|Local Time=1886-6-5 00:00
+1886	06	06	04	00	0		Orig= text and symbols|Local Time=1886-6-6 00:00
+1886	06	07	04	00	0		Orig= text and symbols|Local Time=1886-6-7 00:00
+1886	06	08	04	00	0		Orig= text and symbols|Local Time=1886-6-8 00:00
+1886	06	09	04	00	0	anhaltend ⃝ 	Orig=anhaltend ⃝  text and symbols|Local Time=1886-6-9 00:00
+1886	06	10	04	00	0	⃝  u. ? In Schauern	Orig=⃝  u. ? In Schauern text and symbols|Local Time=1886-6-10 00:00
+1886	06	11	04	00	0		Orig= text and symbols|Local Time=1886-6-11 00:00
+1886	06	12	04	00	0		Orig= text and symbols|Local Time=1886-6-12 00:00
+1886	06	13	04	00	0	4 p. bis 6 p. ? u. 4 Nebensonnen, eine  höchst [seltene Ercheinung	Orig=4 p. bis 6 p. ? u. 4 Nebensonnen, eine  höchst [seltene Ercheinung text and symbols|Local Time=1886-6-13 00:00
+1886	06	14	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1886-6-14 00:00
+1886	06	15	04	00	0	9 a. ?	Orig=9 a. ? text and symbols|Local Time=1886-6-15 00:00
+1886	06	16	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1886-6-16 00:00
+1886	06	17	04	00	0	p.m. ͡    , nachts ⃝	Orig=p.m. ͡    , nachts ⃝ text and symbols|Local Time=1886-6-17 00:00
+1886	06	18	04	00	0	mg. ≡, p.m.  u. ab. ⃝	Orig=mg. ≡, p.m.  u. ab. ⃝ text and symbols|Local Time=1886-6-18 00:00
+1886	06	19	04	00	0	die hohen Berge sind mit frisch. Schnee bedeckt. [Das Wintereis verlässt die Bucht	Orig=die hohen Berge sind mit frisch. Schnee bedeckt. [Das Wintereis verlässt die Bucht text and symbols|Local Time=1886-6-19 00:00
+1886	06	20	04	00	0		Orig= text and symbols|Local Time=1886-6-20 00:00
+1886	06	21	04	00	0		Orig= text and symbols|Local Time=1886-6-21 00:00
+1886	06	22	04	00	0	9 h  bis 10 p. ⃝	Orig=9 h  bis 10 p. ⃝ text and symbols|Local Time=1886-6-22 00:00
+1886	06	23	04	00	0		Orig= text and symbols|Local Time=1886-6-23 00:00
+1886	06	24	04	00	0		Orig= text and symbols|Local Time=1886-6-24 00:00
+1886	06	25	04	00	0		Orig= text and symbols|Local Time=1886-6-25 00:00
+1886	06	26	04	00	0	5 a. bis 6 a. ?	Orig=5 a. bis 6 a. ? text and symbols|Local Time=1886-6-26 00:00
+1886	06	27	04	00	0		Orig= text and symbols|Local Time=1886-6-27 00:00
+1886	06	28	04	00	0		Orig= text and symbols|Local Time=1886-6-28 00:00
+1886	06	29	04	00	0		Orig= text and symbols|Local Time=1886-6-29 00:00
+1886	06	30	04	00	0		Orig= text and symbols|Local Time=1886-6-30 00:00
+1886	07	01	04	00	0	anhaltend   ∞, 10 h bis 11 h ⃝ 	Orig=anhaltend   ∞, 10 h bis 11 h ⃝  text and symbols|Local Time=1886-7-1 00:00
+1886	07	02	04	00	0	nachts bis 7 h Norwind mit ⃝	Orig=nachts bis 7 h Norwind mit ⃝ text and symbols|Local Time=1886-7-2 00:00
+1886	07	03	04	00	0		Orig= text and symbols|Local Time=1886-7-3 00:00
+1886	07	04	04	00	0		Orig= text and symbols|Local Time=1886-7-4 00:00
+1886	07	05	04	00	0	6 h bis 7 h  ⃝	Orig=6 h bis 7 h  ⃝ text and symbols|Local Time=1886-7-5 00:00
+1886	07	06	04	00	0	mg. ≡	Orig=mg. ≡ text and symbols|Local Time=1886-7-6 00:00
+1886	07	07	04	00	0		Orig= text and symbols|Local Time=1886-7-7 00:00
+1886	07	08	04	00	0		Orig= text and symbols|Local Time=1886-7-8 00:00
+1886	07	09	04	00	0		Orig= text and symbols|Local Time=1886-7-9 00:00
+1886	07	10	04	00	0	p.m. ⃝0    6 1/2  h   p. ͡     2	Orig=p.m. ⃝0    6 1/2  h   p. ͡     2 text and symbols|Local Time=1886-7-10 00:00
+1886	07	11	04	00	0		Orig= text and symbols|Local Time=1886-7-11 00:00
+1886	07	12	04	00	0	mg. ⃝. Es kõmmt viel Treibeis	Orig=mg. ⃝. Es kõmmt viel Treibeis text and symbols|Local Time=1886-7-12 00:00
+1886	07	13	04	00	0	Dichtes Treibeis, dass kein Boot fahren kann	Orig=Dichtes Treibeis, dass kein Boot fahren kann text and symbols|Local Time=1886-7-13 00:00
+1886	07	14	04	00	0	Das Treibeis, versässt die Bucht	Orig=Das Treibeis, versässt die Bucht text and symbols|Local Time=1886-7-14 00:00
+1886	07	15	04	00	0		Orig= text and symbols|Local Time=1886-7-15 00:00
+1886	07	16	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1886-7-16 00:00
+1886	07	17	04	00	0		Orig= text and symbols|Local Time=1886-7-17 00:00
+1886	07	18	04	00	0	ab. ∞	Orig=ab. ∞ text and symbols|Local Time=1886-7-18 00:00
+1886	07	19	04	00	0	anhaltend ∞	Orig=anhaltend ∞ text and symbols|Local Time=1886-7-19 00:00
+1886	07	20	04	00	0	mg. ∞, 8 1/2 p. ͡    0	Orig=mg. ∞, 8 1/2 p. ͡    0 text and symbols|Local Time=1886-7-20 00:00
+1886	07	21	04	00	0	p.m. und ab. ⃝	Orig=p.m. und ab. ⃝ text and symbols|Local Time=1886-7-21 00:00
+1886	07	22	04	00	0		Orig= text and symbols|Local Time=1886-7-22 00:00
+1886	07	23	04	00	0	p.m. ⃝, ab. ≡	Orig=p.m. ⃝, ab. ≡ text and symbols|Local Time=1886-7-23 00:00
+1886	07	24	04	00	0	mg. ≡	Orig=mg. ≡ text and symbols|Local Time=1886-7-24 00:00
+1886	07	25	04	00	0	mg. ≡	Orig=mg. ≡ text and symbols|Local Time=1886-7-25 00:00
+1886	07	26	04	00	0		Orig= text and symbols|Local Time=1886-7-26 00:00
+1886	07	27	04	00	0		Orig= text and symbols|Local Time=1886-7-27 00:00
+1886	07	28	04	00	0		Orig= text and symbols|Local Time=1886-7-28 00:00
+1886	07	29	04	00	0		Orig= text and symbols|Local Time=1886-7-29 00:00
+1886	07	30	04	00	0		Orig= text and symbols|Local Time=1886-7-30 00:00
+1886	07	31	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1886-7-31 00:00
+1886	08	01	04	00	0		Orig= text and symbols|Local Time=1886-8-1 00:00
+1886	08	02	04	00	0	nachts	Orig=nachts text and symbols|Local Time=1886-8-2 00:00
+1886	08	03	04	00	0	nachts ?, 10 p. ? bänder W-E	Orig=nachts ?, 10 p. ? bänder W-E text and symbols|Local Time=1886-8-3 00:00
+1886	08	04	04	00	0		Orig= text and symbols|Local Time=1886-8-4 00:00
+1886	08	05	04	00	0	10 p. ? strahien	Orig=10 p. ? strahien text and symbols|Local Time=1886-8-5 00:00
+1886	08	06	04	00	0		Orig= text and symbols|Local Time=1886-8-6 00:00
+1886	08	07	04	00	0		Orig= text and symbols|Local Time=1886-8-7 00:00
+1886	08	08	04	00	0	p.m. ⃝, 10 1/2 p.  ? bänder W-E	Orig=p.m. ⃝, 10 1/2 p.  ? bänder W-E text and symbols|Local Time=1886-8-8 00:00
+1886	08	09	04	00	0		Orig= text and symbols|Local Time=1886-8-9 00:00
+1886	08	10	04	00	0	10 p. ? fäden	Orig=10 p. ? fäden text and symbols|Local Time=1886-8-10 00:00
+1886	08	11	04	00	0	11 p. ? Bänder	Orig=11 p. ? Bänder text and symbols|Local Time=1886-8-11 00:00
+1886	08	12	04	00	0		Orig= text and symbols|Local Time=1886-8-12 00:00
+1886	08	13	04	00	0	p.m. ⃝	Orig=p.m. ⃝ text and symbols|Local Time=1886-8-13 00:00
+1886	08	14	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1886-8-14 00:00
+1886	08	15	04	00	0	anhaltend ⃝	Orig=anhaltend ⃝ text and symbols|Local Time=1886-8-15 00:00
+1886	08	16	04	00	0	mg.  ⃝	Orig=mg.  ⃝ text and symbols|Local Time=1886-8-16 00:00
+1886	08	17	04	00	0		Orig= text and symbols|Local Time=1886-8-17 00:00
+1886	08	18	04	00	0		Orig= text and symbols|Local Time=1886-8-18 00:00
+1886	08	19	04	00	0		Orig= text and symbols|Local Time=1886-8-19 00:00
+1886	08	20	04	00	0	mg. und p.m. ∞	Orig=mg. und p.m. ∞ text and symbols|Local Time=1886-8-20 00:00
+1886	08	21	04	00	0		Orig= text and symbols|Local Time=1886-8-21 00:00
+1886	08	22	04	00	0	mg. und p.m. ⃝, 9 1/2 p. ?	Orig=mg. und p.m. ⃝, 9 1/2 p. ? text and symbols|Local Time=1886-8-22 00:00
+1886	08	23	04	00	0	10 p. ? fäden	Orig=10 p. ? fäden text and symbols|Local Time=1886-8-23 00:00
+1886	08	24	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1886-8-24 00:00
+1886	08	25	04	00	0		Orig= text and symbols|Local Time=1886-8-25 00:00
+1886	08	26	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1886-8-26 00:00
+1886	08	27	04	00	0	anhaltend ⃝, 1 1/2 p. bis. 2 p.  ⃝ und ?	Orig=anhaltend ⃝, 1 1/2 p. bis. 2 p.  ⃝ und ? text and symbols|Local Time=1886-8-27 00:00
+1886	08	28	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1886-8-28 00:00
+1886	08	29	04	00	0		Orig= text and symbols|Local Time=1886-8-29 00:00
+1886	08	30	04	00	0		Orig= text and symbols|Local Time=1886-8-30 00:00
+1886	08	31	04	00	0	p.m. ∞	Orig=p.m. ∞ text and symbols|Local Time=1886-8-31 00:00
+1886	09	01	04	00	0	mg. u. p.m. ∞ u. Brandegeruch , 10 p. ? Band	Orig=mg. u. p.m. ∞ u. Brandegeruch , 10 p. ? Band text and symbols|Local Time=1886-9-1 00:00
+1886	09	02	04	00	0	 10 p. ? Band	Orig= 10 p. ? Band text and symbols|Local Time=1886-9-2 00:00
+1886	09	03	04	00	0		Orig= text and symbols|Local Time=1886-9-3 00:00
+1886	09	04	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1886-9-4 00:00
+1886	09	05	04	00	0	p.m.  u.  ∞ u. Brandegeruch , 3 p. ⃝2 dunst	Orig=p.m.  u.  ∞ u. Brandegeruch , 3 p. ⃝2 dunst text and symbols|Local Time=1886-9-5 00:00
+1886	09	06	04	00	0		Orig= text and symbols|Local Time=1886-9-6 00:00
+1886	09	07	04	00	0	mg. und p.m. ∞, 10 p. ? Krone	Orig=mg. und p.m. ∞, 10 p. ? Krone text and symbols|Local Time=1886-9-7 00:00
+1886	09	08	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-9-8 00:00
+1886	09	09	04	00	0	mg. ?, ab. ?	Orig=mg. ?, ab. ? text and symbols|Local Time=1886-9-9 00:00
+1886	09	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-9-10 00:00
+1886	09	11	04	00	0		Orig= text and symbols|Local Time=1886-9-11 00:00
+1886	09	12	04	00	0		Orig= text and symbols|Local Time=1886-9-12 00:00
+1886	09	13	04	00	0	9 p. bis. 10 p. ? Bänder W-E	Orig=9 p. bis. 10 p. ? Bänder W-E text and symbols|Local Time=1886-9-13 00:00
+1886	09	14	04	00	0		Orig= text and symbols|Local Time=1886-9-14 00:00
+1886	09	15	04	00	0		Orig= text and symbols|Local Time=1886-9-15 00:00
+1886	09	16	04	00	0	10 p. ⃝2	Orig=10 p. ⃝2 text and symbols|Local Time=1886-9-16 00:00
+1886	09	17	04	00	0	3 p. bis. 5 p. ⃝ in Schauern, ab. ?	Orig=3 p. bis. 5 p. ⃝ in Schauern, ab. ? text and symbols|Local Time=1886-9-17 00:00
+1886	09	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-9-18 00:00
+1886	09	19	04	00	0	ab. ? dunst	Orig=ab. ? dunst text and symbols|Local Time=1886-9-19 00:00
+1886	09	20	04	00	0	10 p. Δ	Orig=10 p. Δ text and symbols|Local Time=1886-9-20 00:00
+1886	09	21	04	00	0	10 p. ? dunst	Orig=10 p. ? dunst text and symbols|Local Time=1886-9-21 00:00
+1886	09	22	04	00	0	mg. und p.m. ⃝ und ?	Orig=mg. und p.m. ⃝ und ? text and symbols|Local Time=1886-9-22 00:00
+1886	09	23	04	00	0	nachts ?, das ganze Land weiss bedeckt	Orig=nachts ?, das ganze Land weiss bedeckt text and symbols|Local Time=1886-9-23 00:00
+1886	09	24	04	00	0		Orig= text and symbols|Local Time=1886-9-24 00:00
+1886	09	25	04	00	0		Orig= text and symbols|Local Time=1886-9-25 00:00
+1886	09	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-9-26 00:00
+1886	09	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-9-27 00:00
+1886	09	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-9-28 00:00
+1886	09	29	04	00	0	nachts ⃝ p.m. ∞	Orig=nachts ⃝ p.m. ∞ text and symbols|Local Time=1886-9-29 00:00
+1886	09	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-9-30 00:00
+1886	10	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-10-1 00:00
+1886	10	02	04	00	0	nachts u. mg.?, p.m. ⃝ u. X, 10 p. ? dunst	Orig=nachts u. mg.?, p.m. ⃝ u. X, 10 p. ? dunst text and symbols|Local Time=1886-10-2 00:00
+1886	10	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-10-3 00:00
+1886	10	04	04	00	0		Orig= text and symbols|Local Time=1886-10-4 00:00
+1886	10	05	04	00	0		Orig= text and symbols|Local Time=1886-10-5 00:00
+1886	10	06	04	00	0	 mg. ⃝ u. X, ab. ?	Orig= mg. ⃝ u. X, ab. ? text and symbols|Local Time=1886-10-6 00:00
+1886	10	07	04	00	0	10 p. ? Bänder W-E	Orig=10 p. ? Bänder W-E text and symbols|Local Time=1886-10-7 00:00
+1886	10	08	04	00	0	9 h ?	Orig=9 h ? text and symbols|Local Time=1886-10-8 00:00
+1886	10	09	04	00	0	nachts u. ab. ⃝, mg. die Sonne feuerroth	Orig=nachts u. ab. ⃝, mg. die Sonne feuerroth text and symbols|Local Time=1886-10-9 00:00
+1886	10	10	04	00	0	 mg. ⃝ u. X, ab. ?	Orig= mg. ⃝ u. X, ab. ? text and symbols|Local Time=1886-10-10 00:00
+1886	10	11	04	00	0		Orig= text and symbols|Local Time=1886-10-11 00:00
+1886	10	12	04	00	0		Orig= text and symbols|Local Time=1886-10-12 00:00
+1886	10	13	04	00	0		Orig= text and symbols|Local Time=1886-10-13 00:00
+1886	10	14	04	00	0		Orig= text and symbols|Local Time=1886-10-14 00:00
+1886	10	15	04	00	0	p.m. ?, ab. ?	Orig=p.m. ?, ab. ? text and symbols|Local Time=1886-10-15 00:00
+1886	10	16	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-10-16 00:00
+1886	10	17	04	00	0		Orig= text and symbols|Local Time=1886-10-17 00:00
+1886	10	18	04	00	0		Orig= text and symbols|Local Time=1886-10-18 00:00
+1886	10	19	04	00	0		Orig= text and symbols|Local Time=1886-10-19 00:00
+1886	10	20	04	00	0		Orig= text and symbols|Local Time=1886-10-20 00:00
+1886	10	21	04	00	0	nachts ?, 7 p. ? schein	Orig=nachts ?, 7 p. ? schein text and symbols|Local Time=1886-10-21 00:00
+1886	10	22	04	00	0		Orig= text and symbols|Local Time=1886-10-22 00:00
+1886	10	23	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-10-23 00:00
+1886	10	24	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-10-24 00:00
+1886	10	25	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-10-25 00:00
+1886	10	26	04	00	0	8 h bis. 10 n  2 Nebensonnen, ab. ?	Orig=8 h bis. 10 n  2 Nebensonnen, ab. ? text and symbols|Local Time=1886-10-26 00:00
+1886	10	27	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-10-27 00:00
+1886	10	28	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-10-28 00:00
+1886	10	29	04	00	0	 ab. ?	Orig= ab. ? text and symbols|Local Time=1886-10-29 00:00
+1886	10	30	04	00	0	4 p. bis. 5 p. ?	Orig=4 p. bis. 5 p. ? text and symbols|Local Time=1886-10-30 00:00
+1886	10	31	04	00	0		Orig= text and symbols|Local Time=1886-10-31 00:00
+1886	11	01	04	00	0	p.m ?, ab. ?	Orig=p.m ?, ab. ? text and symbols|Local Time=1886-11-1 00:00
+1886	11	02	04	00	0	8 p. prachtv. ?, abwechs. in allen Formeni Bögen [ Bänder, Fäden u. Krone mit wunderschönen [ Regenbogenfarben, später ? dunst [ bis 10 p.	Orig=8 p. prachtv. ?, abwechs. in allen Formeni Bögen [ Bänder, Fäden u. Krone mit wunderschönen [ Regenbogenfarben, später ? dunst [ bis 10 p. text and symbols|Local Time=1886-11-2 00:00
+1886	11	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-3 00:00
+1886	11	04	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-11-4 00:00
+1886	11	05	04	00	0	machts ⃝, mg. u. p.m. ?, ab. ?	Orig=machts ⃝, mg. u. p.m. ?, ab. ? text and symbols|Local Time=1886-11-5 00:00
+1886	11	06	04	00	0	machts ?, ab. ?	Orig=machts ?, ab. ? text and symbols|Local Time=1886-11-6 00:00
+1886	11	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-7 00:00
+1886	11	08	04	00	0	mg. V, 9 a bis bis 12a ⃝, ab. ? dunst 	Orig=mg. V, 9 a bis bis 12a ⃝, ab. ? dunst  text and symbols|Local Time=1886-11-8 00:00
+1886	11	09	04	00	0	10 p. ? dunst 	Orig=10 p. ? dunst  text and symbols|Local Time=1886-11-9 00:00
+1886	11	10	04	00	0		Orig= text and symbols|Local Time=1886-11-10 00:00
+1886	11	11	04	00	0	11 a Χ 8 3/4 p. ? dunst	Orig=11 a Χ 8 3/4 p. ? dunst text and symbols|Local Time=1886-11-11 00:00
+1886	11	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-12 00:00
+1886	11	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-13 00:00
+1886	11	14	04	00	0	10 p. ?	Orig=10 p. ? text and symbols|Local Time=1886-11-14 00:00
+1886	11	15	04	00	0	6 bis.7 p. ?	Orig=6 bis.7 p. ? text and symbols|Local Time=1886-11-15 00:00
+1886	11	16	04	00	0	p.m. ? , ab.  ? und ⃝	Orig=p.m. ? , ab.  ? und ⃝ text and symbols|Local Time=1886-11-16 00:00
+1886	11	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-17 00:00
+1886	11	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-18 00:00
+1886	11	19	04	00	0	mg. ? , ab.  ? 	Orig=mg. ? , ab.  ?  text and symbols|Local Time=1886-11-19 00:00
+1886	11	20	04	00	0	ab. ? dunst	Orig=ab. ? dunst text and symbols|Local Time=1886-11-20 00:00
+1886	11	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-11-21 00:00
+1886	11	22	04	00	0		Orig= text and symbols|Local Time=1886-11-22 00:00
+1886	11	23	04	00	0	6 p. ? dunst	Orig=6 p. ? dunst text and symbols|Local Time=1886-11-23 00:00
+1886	11	24	04	00	0	9 1/2 ?   bis. 1 p. ?, ab. ?, 9 1/2 p. ? dunst	Orig=9 1/2 ?   bis. 1 p. ?, ab. ?, 9 1/2 p. ? dunst text and symbols|Local Time=1886-11-24 00:00
+1886	11	25	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1886-11-25 00:00
+1886	11	26	04	00	0	p.m. und ab. ?	Orig=p.m. und ab. ? text and symbols|Local Time=1886-11-26 00:00
+1886	11	27	04	00	0		Orig= text and symbols|Local Time=1886-11-27 00:00
+1886	11	28	04	00	0	8 3/4 p. ? Bänder W-E 	Orig=8 3/4 p. ? Bänder W-E  text and symbols|Local Time=1886-11-28 00:00
+1886	11	29	04	00	0	p.m.  ?	Orig=p.m.  ? text and symbols|Local Time=1886-11-29 00:00
+1886	11	30	04	00	0	nachts ?, mg. ? ab. ?	Orig=nachts ?, mg. ? ab. ? text and symbols|Local Time=1886-11-30 00:00
+1886	12	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-1 00:00
+1886	12	02	04	00	0	anhaltend ?	Orig=anhaltend ? text and symbols|Local Time=1886-12-2 00:00
+1886	12	03	04	00	0	anhaltend ?	Orig=anhaltend ? text and symbols|Local Time=1886-12-3 00:00
+1886	12	04	04	00	0		Orig= text and symbols|Local Time=1886-12-4 00:00
+1886	12	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-5 00:00
+1886	12	06	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-6 00:00
+1886	12	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-7 00:00
+1886	12	08	04	00	0		Orig= text and symbols|Local Time=1886-12-8 00:00
+1886	12	09	04	00	0		Orig= text and symbols|Local Time=1886-12-9 00:00
+1886	12	10	04	00	0	2 h ?	Orig=2 h ? text and symbols|Local Time=1886-12-10 00:00
+1886	12	11	04	00	0	p.m. u. ab. ?, die Bewölkung nicht auzumachen	Orig=p.m. u. ab. ?, die Bewölkung nicht auzumachen text and symbols|Local Time=1886-12-11 00:00
+1886	12	12	04	00	0		Orig= text and symbols|Local Time=1886-12-12 00:00
+1886	12	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-13 00:00
+1886	12	14	04	00	0		Orig= text and symbols|Local Time=1886-12-14 00:00
+1886	12	15	04	00	0	mg. und p.m. ?, ab.  ?	Orig=mg. und p.m. ?, ab.  ? text and symbols|Local Time=1886-12-15 00:00
+1886	12	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-16 00:00
+1886	12	17	04	00	0	mg. ? ab. ?, die Bewölkung nicht auzumachen	Orig=mg. ? ab. ?, die Bewölkung nicht auzumachen text and symbols|Local Time=1886-12-17 00:00
+1886	12	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-18 00:00
+1886	12	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-19 00:00
+1886	12	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-20 00:00
+1886	12	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-21 00:00
+1886	12	22	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-22 00:00
+1886	12	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-23 00:00
+1886	12	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-24 00:00
+1886	12	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-25 00:00
+1886	12	26	04	00	0	mg. ? ab. ?	Orig=mg. ? ab. ? text and symbols|Local Time=1886-12-26 00:00
+1886	12	27	04	00	0	p.m. ∞, ab. ? band	Orig=p.m. ∞, ab. ? band text and symbols|Local Time=1886-12-27 00:00
+1886	12	28	04	00	0		Orig= text and symbols|Local Time=1886-12-28 00:00
+1886	12	29	04	00	0	mg. ∞2, 10 1/2 n ab. ? 	Orig=mg. ∞2, 10 1/2 n ab. ?  text and symbols|Local Time=1886-12-29 00:00
+1886	12	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-30 00:00
+1886	12	31	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1886-12-31 00:00
+1887	01	01	04	00	0		Orig= text and symbols|Local Time=1887-1-1 00:00
+1887	01	02	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-2 00:00
+1887	01	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-3 00:00
+1887	01	04	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-4 00:00
+1887	01	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-5 00:00
+1887	01	06	04	00	0	n. ?. ab. ?	Orig=n. ?. ab. ? text and symbols|Local Time=1887-1-6 00:00
+1887	01	07	04	00	0	n. ?. p.m. ?, ab. ?	Orig=n. ?. p.m. ?, ab. ? text and symbols|Local Time=1887-1-7 00:00
+1887	01	08	04	00	0	p.m. u. ab. ?, ab. ?	Orig=p.m. u. ab. ?, ab. ? text and symbols|Local Time=1887-1-8 00:00
+1887	01	09	04	00	0	tagsüber ?	Orig=tagsüber ? text and symbols|Local Time=1887-1-9 00:00
+1887	01	10	04	00	0	11 p. ᴟ	Orig=11 p. ᴟ text and symbols|Local Time=1887-1-10 00:00
+1887	01	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-11 00:00
+1887	01	12	04	00	0	n. ?. a.m. u. p.m. ?, ab. ?	Orig=n. ?. a.m. u. p.m. ?, ab. ? text and symbols|Local Time=1887-1-12 00:00
+1887	01	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-13 00:00
+1887	01	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-14 00:00
+1887	01	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-15 00:00
+1887	01	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-16 00:00
+1887	01	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-17 00:00
+1887	01	18	04	00	0	ab. ? ?, 12 p. Bar. 714,9	Orig=ab. ? ?, 12 p. Bar. 714,9 text and symbols|Local Time=1887-1-18 00:00
+1887	01	19	04	00	0	4 h Bar. 711,2, ab. ?	Orig=4 h Bar. 711,2, ab. ? text and symbols|Local Time=1887-1-19 00:00
+1887	01	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-20 00:00
+1887	01	21	04	00	0	p.m. ?, ab. ?	Orig=p.m. ?, ab. ? text and symbols|Local Time=1887-1-21 00:00
+1887	01	22	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-22 00:00
+1887	01	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-23 00:00
+1887	01	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-24 00:00
+1887	01	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-25 00:00
+1887	01	26	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-1-26 00:00
+1887	01	27	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-1-27 00:00
+1887	01	28	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-1-28 00:00
+1887	01	29	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-1-29 00:00
+1887	01	30	04	00	0	ab. ? ?	Orig=ab. ? ? text and symbols|Local Time=1887-1-30 00:00
+1887	01	31	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-1-31 00:00
+1887	02	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-1 00:00
+1887	02	02	04	00	0		Orig= text and symbols|Local Time=1887-2-2 00:00
+1887	02	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-3 00:00
+1887	02	04	04	00	0		Orig= text and symbols|Local Time=1887-2-4 00:00
+1887	02	05	04	00	0		Orig= text and symbols|Local Time=1887-2-5 00:00
+1887	02	06	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-6 00:00
+1887	02	07	04	00	0		Orig= text and symbols|Local Time=1887-2-7 00:00
+1887	02	08	04	00	0		Orig= text and symbols|Local Time=1887-2-8 00:00
+1887	02	09	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-2-9 00:00
+1887	02	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-10 00:00
+1887	02	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-11 00:00
+1887	02	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-12 00:00
+1887	02	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-13 00:00
+1887	02	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-14 00:00
+1887	02	15	04	00	0	mg. ? p.m. ? ab. ?	Orig=mg. ? p.m. ? ab. ? text and symbols|Local Time=1887-2-15 00:00
+1887	02	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-16 00:00
+1887	02	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-17 00:00
+1887	02	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-18 00:00
+1887	02	19	04	00	0	p.m. ? ab. ?	Orig=p.m. ? ab. ? text and symbols|Local Time=1887-2-19 00:00
+1887	02	20	04	00	0	p.m. ? ab. ?	Orig=p.m. ? ab. ? text and symbols|Local Time=1887-2-20 00:00
+1887	02	21	04	00	0	mg. ? ab. ?	Orig=mg. ? ab. ? text and symbols|Local Time=1887-2-21 00:00
+1887	02	22	04	00	0		Orig= text and symbols|Local Time=1887-2-22 00:00
+1887	02	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-23 00:00
+1887	02	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-24 00:00
+1887	02	25	04	00	0	mg. und  p.m. ? ab. ?	Orig=mg. und  p.m. ? ab. ? text and symbols|Local Time=1887-2-25 00:00
+1887	02	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-26 00:00
+1887	02	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-27 00:00
+1887	02	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-2-28 00:00
+1887	03	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-1 00:00
+1887	03	02	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-2 00:00
+1887	03	03	04	00	0	mg. ?  p.m. ?	Orig=mg. ?  p.m. ? text and symbols|Local Time=1887-3-3 00:00
+1887	03	04	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-4 00:00
+1887	03	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-5 00:00
+1887	03	06	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-6 00:00
+1887	03	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-7 00:00
+1887	03	08	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-8 00:00
+1887	03	09	04	00	0		Orig= text and symbols|Local Time=1887-3-9 00:00
+1887	03	10	04	00	0	 p.m. und  ab. ?	Orig= p.m. und  ab. ? text and symbols|Local Time=1887-3-10 00:00
+1887	03	11	04	00	0		Orig= text and symbols|Local Time=1887-3-11 00:00
+1887	03	12	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-3-12 00:00
+1887	03	13	04	00	0	mg. und  ab. ?	Orig=mg. und  ab. ? text and symbols|Local Time=1887-3-13 00:00
+1887	03	14	04	00	0	mg. und  ab. ⃝	Orig=mg. und  ab. ⃝ text and symbols|Local Time=1887-3-14 00:00
+1887	03	15	04	00	0	mg.  ⃝	Orig=mg.  ⃝ text and symbols|Local Time=1887-3-15 00:00
+1887	03	16	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-3-16 00:00
+1887	03	17	04	00	0		Orig= text and symbols|Local Time=1887-3-17 00:00
+1887	03	18	04	00	0		Orig= text and symbols|Local Time=1887-3-18 00:00
+1887	03	19	04	00	0		Orig= text and symbols|Local Time=1887-3-19 00:00
+1887	03	20	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-3-20 00:00
+1887	03	21	04	00	0	mg. ? ab. ?	Orig=mg. ? ab. ? text and symbols|Local Time=1887-3-21 00:00
+1887	03	22	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-22 00:00
+1887	03	23	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-3-23 00:00
+1887	03	24	04	00	0	mg. ? ab. ?	Orig=mg. ? ab. ? text and symbols|Local Time=1887-3-24 00:00
+1887	03	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-25 00:00
+1887	03	26	04	00	0	mg. ? p.m. und ab. ?	Orig=mg. ? p.m. und ab. ? text and symbols|Local Time=1887-3-26 00:00
+1887	03	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-27 00:00
+1887	03	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-28 00:00
+1887	03	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-29 00:00
+1887	03	30	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1887-3-30 00:00
+1887	03	31	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-3-31 00:00
+1887	04	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-1 00:00
+1887	04	02	04	00	0	ab. ? ?	Orig=ab. ? ? text and symbols|Local Time=1887-4-2 00:00
+1887	04	03	04	00	0	ab. ? ?	Orig=ab. ? ? text and symbols|Local Time=1887-4-3 00:00
+1887	04	04	04	00	0	p.m. ?, ab ?	Orig=p.m. ?, ab ? text and symbols|Local Time=1887-4-4 00:00
+1887	04	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-5 00:00
+1887	04	06	04	00	0	mg. ?, p.m. und ab. ?	Orig=mg. ?, p.m. und ab. ? text and symbols|Local Time=1887-4-6 00:00
+1887	04	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-7 00:00
+1887	04	08	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-8 00:00
+1887	04	09	04	00	0	mg. ?, p.m. und ab. ?	Orig=mg. ?, p.m. und ab. ? text and symbols|Local Time=1887-4-9 00:00
+1887	04	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-10 00:00
+1887	04	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-11 00:00
+1887	04	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-12 00:00
+1887	04	13	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-13 00:00
+1887	04	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-14 00:00
+1887	04	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-15 00:00
+1887	04	16	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1887-4-16 00:00
+1887	04	17	04	00	0		Orig= text and symbols|Local Time=1887-4-17 00:00
+1887	04	18	04	00	0		Orig= text and symbols|Local Time=1887-4-18 00:00
+1887	04	19	04	00	0	mg. und p.m. ? ab. ?	Orig=mg. und p.m. ? ab. ? text and symbols|Local Time=1887-4-19 00:00
+1887	04	20	04	00	0	mg. und p.m. ? ab. ⃝	Orig=mg. und p.m. ? ab. ⃝ text and symbols|Local Time=1887-4-20 00:00
+1887	04	21	04	00	0	mg. und p.m.  ? ⃝ , ab.  ?	Orig=mg. und p.m.  ? ⃝ , ab.  ? text and symbols|Local Time=1887-4-21 00:00
+1887	04	22	04	00	0		Orig= text and symbols|Local Time=1887-4-22 00:00
+1887	04	23	04	00	0		Orig= text and symbols|Local Time=1887-4-23 00:00
+1887	04	24	04	00	0		Orig= text and symbols|Local Time=1887-4-24 00:00
+1887	04	25	04	00	0	 ab. ⃝	Orig= ab. ⃝ text and symbols|Local Time=1887-4-25 00:00
+1887	04	26	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-4-26 00:00
+1887	04	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-27 00:00
+1887	04	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-28 00:00
+1887	04	29	04	00	0		Orig= text and symbols|Local Time=1887-4-29 00:00
+1887	04	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-4-30 00:00
+1887	05	01	04	00	0		Orig= text and symbols|Local Time=1887-5-1 00:00
+1887	05	02	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-5-2 00:00
+1887	05	03	04	00	0	 p.m. ? 	Orig= p.m. ?  text and symbols|Local Time=1887-5-3 00:00
+1887	05	04	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-5-4 00:00
+1887	05	05	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-5-5 00:00
+1887	05	06	04	00	0		Orig= text and symbols|Local Time=1887-5-6 00:00
+1887	05	07	04	00	0	mg.? p.m.  und ab. ⃝ 	Orig=mg.? p.m.  und ab. ⃝  text and symbols|Local Time=1887-5-7 00:00
+1887	05	08	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-5-8 00:00
+1887	05	09	04	00	0		Orig= text and symbols|Local Time=1887-5-9 00:00
+1887	05	10	04	00	0	ab.  T ?	Orig=ab.  T ? text and symbols|Local Time=1887-5-10 00:00
+1887	05	11	04	00	0	mg. und p.m. ?	Orig=mg. und p.m. ? text and symbols|Local Time=1887-5-11 00:00
+1887	05	12	04	00	0	mg. ? 	Orig=mg. ?  text and symbols|Local Time=1887-5-12 00:00
+1887	05	13	04	00	0		Orig= text and symbols|Local Time=1887-5-13 00:00
+1887	05	14	04	00	0		Orig= text and symbols|Local Time=1887-5-14 00:00
+1887	05	15	04	00	0		Orig= text and symbols|Local Time=1887-5-15 00:00
+1887	05	16	04	00	0		Orig= text and symbols|Local Time=1887-5-16 00:00
+1887	05	17	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1887-5-17 00:00
+1887	05	18	04	00	0		Orig= text and symbols|Local Time=1887-5-18 00:00
+1887	05	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-5-19 00:00
+1887	05	20	04	00	0	mg.? p.m. ?	Orig=mg.? p.m. ? text and symbols|Local Time=1887-5-20 00:00
+1887	05	21	04	00	0	 p.m. ?	Orig= p.m. ? text and symbols|Local Time=1887-5-21 00:00
+1887	05	22	04	00	0		Orig= text and symbols|Local Time=1887-5-22 00:00
+1887	05	23	04	00	0		Orig= text and symbols|Local Time=1887-5-23 00:00
+1887	05	24	04	00	0		Orig= text and symbols|Local Time=1887-5-24 00:00
+1887	05	25	04	00	0	 ab. ⃝ 	Orig= ab. ⃝  text and symbols|Local Time=1887-5-25 00:00
+1887	05	26	04	00	0		Orig= text and symbols|Local Time=1887-5-26 00:00
+1887	05	27	04	00	0		Orig= text and symbols|Local Time=1887-5-27 00:00
+1887	05	28	04	00	0		Orig= text and symbols|Local Time=1887-5-28 00:00
+1887	05	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-5-29 00:00
+1887	05	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-5-30 00:00
+1887	05	31	04	00	0		Orig= text and symbols|Local Time=1887-5-31 00:00
+1887	06	01	04	00	0	 p.m. ?	Orig= p.m. ? text and symbols|Local Time=1887-6-1 00:00
+1887	06	02	04	00	0		Orig= text and symbols|Local Time=1887-6-2 00:00
+1887	06	03	04	00	0		Orig= text and symbols|Local Time=1887-6-3 00:00
+1887	06	04	04	00	0	mg. und ab. ≡, ab. V	Orig=mg. und ab. ≡, ab. V text and symbols|Local Time=1887-6-4 00:00
+1887	06	05	04	00	0	 ab. V	Orig= ab. V text and symbols|Local Time=1887-6-5 00:00
+1887	06	06	04	00	0	mg. ? p.m. ⃝  	Orig=mg. ? p.m. ⃝   text and symbols|Local Time=1887-6-6 00:00
+1887	06	07	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1887-6-7 00:00
+1887	06	08	04	00	0	p.m. ⃝  	Orig=p.m. ⃝   text and symbols|Local Time=1887-6-8 00:00
+1887	06	09	04	00	0		Orig= text and symbols|Local Time=1887-6-9 00:00
+1887	06	10	04	00	0		Orig= text and symbols|Local Time=1887-6-10 00:00
+1887	06	11	04	00	0		Orig= text and symbols|Local Time=1887-6-11 00:00
+1887	06	12	04	00	0		Orig= text and symbols|Local Time=1887-6-12 00:00
+1887	06	13	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1887-6-13 00:00
+1887	06	14	04	00	0		Orig= text and symbols|Local Time=1887-6-14 00:00
+1887	06	15	04	00	0		Orig= text and symbols|Local Time=1887-6-15 00:00
+1887	06	16	04	00	0	p.m. ⃝ , ab. ? 	Orig=p.m. ⃝ , ab. ?  text and symbols|Local Time=1887-6-16 00:00
+1887	06	17	04	00	0	p.m. ⃝ , ab. ? 	Orig=p.m. ⃝ , ab. ?  text and symbols|Local Time=1887-6-17 00:00
+1887	06	18	04	00	0	den ganzen Tag. ?, p.m. u. ab. ⃝	Orig=den ganzen Tag. ?, p.m. u. ab. ⃝ text and symbols|Local Time=1887-6-18 00:00
+1887	06	19	04	00	0	ab. ? 	Orig=ab. ?  text and symbols|Local Time=1887-6-19 00:00
+1887	06	20	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-6-20 00:00
+1887	06	21	04	00	0	 ab. ≡	Orig= ab. ≡ text and symbols|Local Time=1887-6-21 00:00
+1887	06	22	04	00	0	ab. V	Orig=ab. V text and symbols|Local Time=1887-6-22 00:00
+1887	06	23	04	00	0	den ganzen Tag. ⃝	Orig=den ganzen Tag. ⃝ text and symbols|Local Time=1887-6-23 00:00
+1887	06	24	04	00	0		Orig= text and symbols|Local Time=1887-6-24 00:00
+1887	06	25	04	00	0	mg. und p.m. ⃝	Orig=mg. und p.m. ⃝ text and symbols|Local Time=1887-6-25 00:00
+1887	06	26	04	00	0		Orig= text and symbols|Local Time=1887-6-26 00:00
+1887	06	27	04	00	0		Orig= text and symbols|Local Time=1887-6-27 00:00
+1887	06	28	04	00	0		Orig= text and symbols|Local Time=1887-6-28 00:00
+1887	06	29	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1887-6-29 00:00
+1887	06	30	04	00	0		Orig= text and symbols|Local Time=1887-6-30 00:00
+1887	07	01	04	00	0	p.m. ?	Orig=p.m. ? text and symbols|Local Time=1887-7-1 00:00
+1887	07	02	04	00	0	p.m. und ab. ⃝	Orig=p.m. und ab. ⃝ text and symbols|Local Time=1887-7-2 00:00
+1887	07	03	04	00	0		Orig= text and symbols|Local Time=1887-7-3 00:00
+1887	07	04	04	00	0		Orig= text and symbols|Local Time=1887-7-4 00:00
+1887	07	05	04	00	0	ab. II	Orig=ab. II text and symbols|Local Time=1887-7-5 00:00
+1887	07	06	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1887-7-6 00:00
+1887	07	07	04	00	0	p.m. und ab. ⃝	Orig=p.m. und ab. ⃝ text and symbols|Local Time=1887-7-7 00:00
+1887	07	08	04	00	0	den ganzen Tag. ⃝	Orig=den ganzen Tag. ⃝ text and symbols|Local Time=1887-7-8 00:00
+1887	07	09	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1887-7-9 00:00
+1887	07	10	04	00	0		Orig= text and symbols|Local Time=1887-7-10 00:00
+1887	07	11	04	00	0	ab. II 2	Orig=ab. II 2 text and symbols|Local Time=1887-7-11 00:00
+1887	07	12	04	00	0		Orig= text and symbols|Local Time=1887-7-12 00:00
+1887	07	13	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1887-7-13 00:00
+1887	07	14	04	00	0	mg. ⃝, ab. ≡	Orig=mg. ⃝, ab. ≡ text and symbols|Local Time=1887-7-14 00:00
+1887	07	15	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1887-7-15 00:00
+1887	07	16	04	00	0		Orig= text and symbols|Local Time=1887-7-16 00:00
+1887	07	17	04	00	0	p.m. ⃝   ͡	Orig=p.m. ⃝   ͡ text and symbols|Local Time=1887-7-17 00:00
+1887	07	18	04	00	0		Orig= text and symbols|Local Time=1887-7-18 00:00
+1887	07	19	04	00	0		Orig= text and symbols|Local Time=1887-7-19 00:00
+1887	07	20	04	00	0	p.m. und ab. ⃝	Orig=p.m. und ab. ⃝ text and symbols|Local Time=1887-7-20 00:00
+1887	07	21	04	00	0		Orig= text and symbols|Local Time=1887-7-21 00:00
+1887	07	22	04	00	0	 ab. ⃝	Orig= ab. ⃝ text and symbols|Local Time=1887-7-22 00:00
+1887	07	23	04	00	0	mg. und p.m. ≡, ab. ⃝	Orig=mg. und p.m. ≡, ab. ⃝ text and symbols|Local Time=1887-7-23 00:00
+1887	07	24	04	00	0	mg.  ⃝	Orig=mg.  ⃝ text and symbols|Local Time=1887-7-24 00:00
+1887	07	25	04	00	0	p.m. und ab. ⃝	Orig=p.m. und ab. ⃝ text and symbols|Local Time=1887-7-25 00:00
+1887	07	26	04	00	0	mg.  ≡	Orig=mg.  ≡ text and symbols|Local Time=1887-7-26 00:00
+1887	07	27	04	00	0		Orig= text and symbols|Local Time=1887-7-27 00:00
+1887	07	28	04	00	0		Orig= text and symbols|Local Time=1887-7-28 00:00
+1887	07	29	04	00	0		Orig= text and symbols|Local Time=1887-7-29 00:00
+1887	07	30	04	00	0	p.m. ⃝   	Orig=p.m. ⃝    text and symbols|Local Time=1887-7-30 00:00
+1887	07	31	04	00	0	 ab. ⃝	Orig= ab. ⃝ text and symbols|Local Time=1887-7-31 00:00
+1887	08	01	04	00	0	p.m. ⃝   	Orig=p.m. ⃝    text and symbols|Local Time=1887-8-1 00:00
+1887	08	02	04	00	0		Orig= text and symbols|Local Time=1887-8-2 00:00
+1887	08	03	04	00	0		Orig= text and symbols|Local Time=1887-8-3 00:00
+1887	08	04	04	00	0	mg. ⃝   	Orig=mg. ⃝    text and symbols|Local Time=1887-8-4 00:00
+1887	08	05	04	00	0		Orig= text and symbols|Local Time=1887-8-5 00:00
+1887	08	06	04	00	0	den ganzen Tag. ⃝	Orig=den ganzen Tag. ⃝ text and symbols|Local Time=1887-8-6 00:00
+1887	08	07	04	00	0	mg. ⃝   	Orig=mg. ⃝    text and symbols|Local Time=1887-8-7 00:00
+1887	08	08	04	00	0	ab. T	Orig=ab. T text and symbols|Local Time=1887-8-8 00:00
+1887	08	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-8-9 00:00
+1887	08	10	04	00	0		Orig= text and symbols|Local Time=1887-8-10 00:00
+1887	08	11	04	00	0		Orig= text and symbols|Local Time=1887-8-11 00:00
+1887	08	12	04	00	0	mg. und ab. ∞, ab. ?	Orig=mg. und ab. ∞, ab. ? text and symbols|Local Time=1887-8-12 00:00
+1887	08	13	04	00	0	den ganzen Tag. ∞	Orig=den ganzen Tag. ∞ text and symbols|Local Time=1887-8-13 00:00
+1887	08	14	04	00	0	mg. und ab. ⃝	Orig=mg. und ab. ⃝ text and symbols|Local Time=1887-8-14 00:00
+1887	08	15	04	00	0	den ganzen Tag. ⃝	Orig=den ganzen Tag. ⃝ text and symbols|Local Time=1887-8-15 00:00
+1887	08	16	04	00	0	 ab. ⃝	Orig= ab. ⃝ text and symbols|Local Time=1887-8-16 00:00
+1887	08	17	04	00	0	pm. ⃝   	Orig=pm. ⃝    text and symbols|Local Time=1887-8-17 00:00
+1887	08	18	04	00	0		Orig= text and symbols|Local Time=1887-8-18 00:00
+1887	08	19	04	00	0		Orig= text and symbols|Local Time=1887-8-19 00:00
+1887	08	20	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1887-8-20 00:00
+1887	08	21	04	00	0	mg. ⃝ p.m. und ab. ≡	Orig=mg. ⃝ p.m. und ab. ≡ text and symbols|Local Time=1887-8-21 00:00
+1887	08	22	04	00	0	den ganzen Tag. ≡	Orig=den ganzen Tag. ≡ text and symbols|Local Time=1887-8-22 00:00
+1887	08	23	04	00	0	ab. ≡	Orig=ab. ≡ text and symbols|Local Time=1887-8-23 00:00
+1887	08	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-8-24 00:00
+1887	08	25	04	00	0		Orig= text and symbols|Local Time=1887-8-25 00:00
+1887	08	26	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1887-8-26 00:00
+1887	08	27	04	00	0		Orig= text and symbols|Local Time=1887-8-27 00:00
+1887	08	28	04	00	0		Orig= text and symbols|Local Time=1887-8-28 00:00
+1887	08	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-8-29 00:00
+1887	08	30	04	00	0		Orig= text and symbols|Local Time=1887-8-30 00:00
+1887	08	31	04	00	0	mg. ⃝	Orig=mg. ⃝ text and symbols|Local Time=1887-8-31 00:00
+1887	09	01	04	00	0		Orig= text and symbols|Local Time=1887-9-1 00:00
+1887	09	02	04	00	0		Orig= text and symbols|Local Time=1887-9-2 00:00
+1887	09	03	04	00	0		Orig= text and symbols|Local Time=1887-9-3 00:00
+1887	09	04	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1887-9-4 00:00
+1887	09	05	04	00	0	mg.  ⃝, p.m. und  ab. ?	Orig=mg.  ⃝, p.m. und  ab. ? text and symbols|Local Time=1887-9-5 00:00
+1887	09	06	04	00	0	p.m.  ⃝	Orig=p.m.  ⃝ text and symbols|Local Time=1887-9-6 00:00
+1887	09	07	04	00	0	p.m. und  ab.  ⃝ 	Orig=p.m. und  ab.  ⃝  text and symbols|Local Time=1887-9-7 00:00
+1887	09	08	04	00	0	mg.  und p.m.  ⃝ 	Orig=mg.  und p.m.  ⃝  text and symbols|Local Time=1887-9-8 00:00
+1887	09	09	04	00	0		Orig= text and symbols|Local Time=1887-9-9 00:00
+1887	09	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-10 00:00
+1887	09	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-11 00:00
+1887	09	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-12 00:00
+1887	09	13	04	00	0		Orig= text and symbols|Local Time=1887-9-13 00:00
+1887	09	14	04	00	0	c	Orig=c text and symbols|Local Time=1887-9-14 00:00
+1887	09	15	04	00	0		Orig= text and symbols|Local Time=1887-9-15 00:00
+1887	09	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-16 00:00
+1887	09	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-17 00:00
+1887	09	18	04	00	0	ab. ⃝	Orig=ab. ⃝ text and symbols|Local Time=1887-9-18 00:00
+1887	09	19	04	00	0	mg.?,  ab. ?	Orig=mg.?,  ab. ? text and symbols|Local Time=1887-9-19 00:00
+1887	09	20	04	00	0	den ganzen Tag. ?, ab. ?	Orig=den ganzen Tag. ?, ab. ? text and symbols|Local Time=1887-9-20 00:00
+1887	09	21	04	00	0		Orig= text and symbols|Local Time=1887-9-21 00:00
+1887	09	22	04	00	0		Orig= text and symbols|Local Time=1887-9-22 00:00
+1887	09	23	04	00	0	ab. Δ	Orig=ab. Δ text and symbols|Local Time=1887-9-23 00:00
+1887	09	24	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-24 00:00
+1887	09	25	04	00	0	p.m. ?,  ab. ?	Orig=p.m. ?,  ab. ? text and symbols|Local Time=1887-9-25 00:00
+1887	09	26	04	00	0	mg. und p.m. ? p.m. u.  ab. ⃝	Orig=mg. und p.m. ? p.m. u.  ab. ⃝ text and symbols|Local Time=1887-9-26 00:00
+1887	09	27	04	00	0	mg. und p.m. ?  ab. ⃝	Orig=mg. und p.m. ?  ab. ⃝ text and symbols|Local Time=1887-9-27 00:00
+1887	09	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-28 00:00
+1887	09	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-9-29 00:00
+1887	09	30	04	00	0		Orig= text and symbols|Local Time=1887-9-30 00:00
+1887	10	01	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-1 00:00
+1887	10	02	04	00	0		Orig= text and symbols|Local Time=1887-10-2 00:00
+1887	10	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-3 00:00
+1887	10	04	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-4 00:00
+1887	10	05	04	00	0		Orig= text and symbols|Local Time=1887-10-5 00:00
+1887	10	06	04	00	0		Orig= text and symbols|Local Time=1887-10-6 00:00
+1887	10	07	04	00	0	mg. und p.m. ⃝  ab. ?	Orig=mg. und p.m. ⃝  ab. ? text and symbols|Local Time=1887-10-7 00:00
+1887	10	08	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-8 00:00
+1887	10	09	04	00	0		Orig= text and symbols|Local Time=1887-10-9 00:00
+1887	10	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-10 00:00
+1887	10	11	04	00	0	mg. und p.m. ⃝  	Orig=mg. und p.m. ⃝   text and symbols|Local Time=1887-10-11 00:00
+1887	10	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-12 00:00
+1887	10	13	04	00	0		Orig= text and symbols|Local Time=1887-10-13 00:00
+1887	10	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-14 00:00
+1887	10	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-15 00:00
+1887	10	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-16 00:00
+1887	10	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-17 00:00
+1887	10	18	04	00	0	p.m . ?	Orig=p.m . ? text and symbols|Local Time=1887-10-18 00:00
+1887	10	19	04	00	0		Orig= text and symbols|Local Time=1887-10-19 00:00
+1887	10	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-20 00:00
+1887	10	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-21 00:00
+1887	10	22	04	00	0	mg. ⃝  	Orig=mg. ⃝   text and symbols|Local Time=1887-10-22 00:00
+1887	10	23	04	00	0	ab. ⃝  	Orig=ab. ⃝   text and symbols|Local Time=1887-10-23 00:00
+1887	10	24	04	00	0	n. Wind SW 10	Orig=n. Wind SW 10 text and symbols|Local Time=1887-10-24 00:00
+1887	10	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-25 00:00
+1887	10	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-26 00:00
+1887	10	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-27 00:00
+1887	10	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-28 00:00
+1887	10	29	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-29 00:00
+1887	10	30	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-30 00:00
+1887	10	31	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-10-31 00:00
+1887	11	01	04	00	0		Orig= text and symbols|Local Time=1887-11-1 00:00
+1887	11	02	04	00	0	p.m. ?,  ab. ?	Orig=p.m. ?,  ab. ? text and symbols|Local Time=1887-11-2 00:00
+1887	11	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-3 00:00
+1887	11	04	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-4 00:00
+1887	11	05	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1887-11-5 00:00
+1887	11	06	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-6 00:00
+1887	11	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-7 00:00
+1887	11	08	04	00	0	 p.m. u.  ab. ?	Orig= p.m. u.  ab. ? text and symbols|Local Time=1887-11-8 00:00
+1887	11	09	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-11-9 00:00
+1887	11	10	04	00	0	 p.m. u.  ab. ⃝	Orig= p.m. u.  ab. ⃝ text and symbols|Local Time=1887-11-10 00:00
+1887	11	11	04	00	0	 mg.  ⃝	Orig= mg.  ⃝ text and symbols|Local Time=1887-11-11 00:00
+1887	11	12	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1887-11-12 00:00
+1887	11	13	04	00	0	p.m. ?,  ab. ?	Orig=p.m. ?,  ab. ? text and symbols|Local Time=1887-11-13 00:00
+1887	11	14	04	00	0		Orig= text and symbols|Local Time=1887-11-14 00:00
+1887	11	15	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-15 00:00
+1887	11	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-16 00:00
+1887	11	17	04	00	0	 mg. u.p.m. ?  ab. ⃝	Orig= mg. u.p.m. ?  ab. ⃝ text and symbols|Local Time=1887-11-17 00:00
+1887	11	18	04	00	0	4a. Bar.,  720.6	Orig=4a. Bar.,  720.6 text and symbols|Local Time=1887-11-18 00:00
+1887	11	19	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-19 00:00
+1887	11	20	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-20 00:00
+1887	11	21	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-21 00:00
+1887	11	22	04	00	0		Orig= text and symbols|Local Time=1887-11-22 00:00
+1887	11	23	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-23 00:00
+1887	11	24	04	00	0		Orig= text and symbols|Local Time=1887-11-24 00:00
+1887	11	25	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-25 00:00
+1887	11	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-11-26 00:00
+1887	11	27	04	00	0	mg. ?,  ab. ?	Orig=mg. ?,  ab. ? text and symbols|Local Time=1887-11-27 00:00
+1887	11	28	04	00	0	ab. ? ?	Orig=ab. ? ? text and symbols|Local Time=1887-11-28 00:00
+1887	11	29	04	00	0		Orig= text and symbols|Local Time=1887-11-29 00:00
+1887	11	30	04	00	0		Orig= text and symbols|Local Time=1887-11-30 00:00
+1887	12	01	04	00	0	ab. ? ?	Orig=ab. ? ? text and symbols|Local Time=1887-12-1 00:00
+1887	12	02	04	00	0		Orig= text and symbols|Local Time=1887-12-2 00:00
+1887	12	03	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-3 00:00
+1887	12	04	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-4 00:00
+1887	12	05	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1887-12-5 00:00
+1887	12	06	04	00	0	mg. ?,  ab. ?	Orig=mg. ?,  ab. ? text and symbols|Local Time=1887-12-6 00:00
+1887	12	07	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-7 00:00
+1887	12	08	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-8 00:00
+1887	12	09	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-9 00:00
+1887	12	10	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-10 00:00
+1887	12	11	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-11 00:00
+1887	12	12	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-12 00:00
+1887	12	13	04	00	0	n. ?, p.m. ?, ab. ?	Orig=n. ?, p.m. ?, ab. ? text and symbols|Local Time=1887-12-13 00:00
+1887	12	14	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-14 00:00
+1887	12	15	04	00	0	mg. ?, p.m. ?, ab. ?	Orig=mg. ?, p.m. ?, ab. ? text and symbols|Local Time=1887-12-15 00:00
+1887	12	16	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-16 00:00
+1887	12	17	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-17 00:00
+1887	12	18	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-18 00:00
+1887	12	19	04	00	0	mg. ?	Orig=mg. ? text and symbols|Local Time=1887-12-19 00:00
+1887	12	20	04	00	0		Orig= text and symbols|Local Time=1887-12-20 00:00
+1887	12	21	04	00	0	den ganzen Tag. ?	Orig=den ganzen Tag. ? text and symbols|Local Time=1887-12-21 00:00
+1887	12	22	04	00	0		Orig= text and symbols|Local Time=1887-12-22 00:00
+1887	12	23	04	00	0	n. ?,  ab.  ᴟ? ?	Orig=n. ?,  ab.  ᴟ? ? text and symbols|Local Time=1887-12-23 00:00
+1887	12	24	04	00	0	ab. ᴟ	Orig=ab. ᴟ text and symbols|Local Time=1887-12-24 00:00
+1887	12	25	04	00	0		Orig= text and symbols|Local Time=1887-12-25 00:00
+1887	12	26	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-26 00:00
+1887	12	27	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-27 00:00
+1887	12	28	04	00	0	ab. ?	Orig=ab. ? text and symbols|Local Time=1887-12-28 00:00
+1887	12	29	04	00	0	 p.m. ?, ab. ?	Orig= p.m. ?, ab. ? text and symbols|Local Time=1887-12-29 00:00
+1887	12	30	04	00	0	mg. u. p.m. ?	Orig=mg. u. p.m. ? text and symbols|Local Time=1887-12-30 00:00
+1887	12	31	04	00	0		Orig= text and symbols|Local Time=1887-12-31 00:00
