@@ -1,0 +1,257 @@
+SEF	1.0.0
+ID	1510
+Name	'Montreal'
+Lat	45.508
+Lon	-73.555
+Alt	None
+Source	ACRE-Canada
+Link	TBD
+Vbl	ww
+Stat	point
+Units	text
+Meta	Observer Name='Barr'	UTCOffset=Applied	UTCOffset=5.00
+Year	Month	Day	Hour	Minute	Period	Value	Meta
+1776	12	14	05	00	0	clear	Orig=clear text|Local Time=1776-12-14 00:00
+1776	12	15	05	00	0	cloudy , the first fall of snow at night	Orig=cloudy , the first fall of snow at night text|Local Time=1776-12-15 00:00
+1776	12	16	05	00	0	clear	Orig=clear text|Local Time=1776-12-16 00:00
+1776	12	17	05	00	0	clear	Orig=clear text|Local Time=1776-12-17 00:00
+1776	12	18	05	00	0	clear, the wind high	Orig=clear, the wind high text|Local Time=1776-12-18 00:00
+1776	12	19	05	00	0	calm, a fine calm morning	Orig=calm, a fine calm morning text|Local Time=1776-12-19 00:00
+1776	12	20	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-20 00:00
+1776	12	21	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-21 00:00
+1776	12	22	05	00	0	clear	Orig=clear text|Local Time=1776-12-22 00:00
+1776	12	23	05	00	0	clear	Orig=clear text|Local Time=1776-12-23 00:00
+1776	12	24	05	00	0	clear	Orig=clear text|Local Time=1776-12-24 00:00
+1776	12	25	05	00	0	clear, and a little wind. It is worth observing that the wind is never high when the themometer is low	Orig=clear, and a little wind. It is worth observing that the wind is never high when the themometer is low text|Local Time=1776-12-25 00:00
+1776	12	26	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-26 00:00
+1776	12	27	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-27 00:00
+1776	12	28	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-28 00:00
+1776	12	29	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-29 00:00
+1776	12	30	05	00	0	cloudy	Orig=cloudy text|Local Time=1776-12-30 00:00
+1776	12	31	05	00	0	cloudy, some rain in the night	Orig=cloudy, some rain in the night text|Local Time=1776-12-31 00:00
+1777	01	01	05	00	0	cloudy, some rain	Orig=cloudy, some rain text|Local Time=1777-1-1 00:00
+1777	01	02	05	00	0	clear, the wind high	Orig=clear, the wind high text|Local Time=1777-1-2 00:00
+1777	01	03	05	00	0	clear, little wind	Orig=clear, little wind text|Local Time=1777-1-3 00:00
+1777	01	04	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-4 00:00
+1777	01	05	05	00	0	clear	Orig=clear text|Local Time=1777-1-5 00:00
+1777	01	06	05	00	0	clear	Orig=clear text|Local Time=1777-1-6 00:00
+1777	01	07	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-7 00:00
+1777	01	08	05	00	0	clear	Orig=clear text|Local Time=1777-1-8 00:00
+1777	01	09	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-9 00:00
+1777	01	10	05	00	0	cloudy, little wind	Orig=cloudy, little wind text|Local Time=1777-1-10 00:00
+1777	01	11	05	00	0	clear	Orig=clear text|Local Time=1777-1-11 00:00
+1777	01	12	05	00	0	clear	Orig=clear text|Local Time=1777-1-12 00:00
+1777	01	13	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-13 00:00
+1777	01	14	05	00	0	clear, little or no wind	Orig=clear, little or no wind text|Local Time=1777-1-14 00:00
+1777	01	15	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-15 00:00
+1777	01	16	05	00	0	clear	Orig=clear text|Local Time=1777-1-16 00:00
+1777	01	17	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-17 00:00
+1777	01	18	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-18 00:00
+1777	01	19	05	00	0	cloudy, a little snow	Orig=cloudy, a little snow text|Local Time=1777-1-19 00:00
+1777	01	20	05	00	0	clear	Orig=clear text|Local Time=1777-1-20 00:00
+1777	01	21	05	00	0	clear	Orig=clear text|Local Time=1777-1-21 00:00
+1777	01	22	05	00	0	clear	Orig=clear text|Local Time=1777-1-22 00:00
+1777	01	23	05	00	0	clear, very little wind	Orig=clear, very little wind text|Local Time=1777-1-23 00:00
+1777	01	24	05	00	0	clear, in the morning snow and rain in the evening	Orig=clear, in the morning snow and rain in the evening text|Local Time=1777-1-24 00:00
+1777	01	25	05	00	0	cloudy, some rain	Orig=cloudy, some rain text|Local Time=1777-1-25 00:00
+1777	01	26	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-1-26 00:00
+1777	01	27	05	00	0	clear	Orig=clear text|Local Time=1777-1-27 00:00
+1777	01	28	05	00	0	clear	Orig=clear text|Local Time=1777-1-28 00:00
+1777	01	29	05	00	0	clear	Orig=clear text|Local Time=1777-1-29 00:00
+1777	01	30	05	00	0	clear	Orig=clear text|Local Time=1777-1-30 00:00
+1777	01	31	05	00	0	clear	Orig=clear text|Local Time=1777-1-31 00:00
+1777	02	01	05	00	0	clear, this night a little snow	Orig=clear, this night a little snow text|Local Time=1777-2-1 00:00
+1777	02	02	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-2 00:00
+1777	02	03	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-3 00:00
+1777	02	04	05	00	0	clear, some in the night	Orig=clear, some in the night text|Local Time=1777-2-4 00:00
+1777	02	05	05	00	0	cloudy, some rain, wind high	Orig=cloudy, some rain, wind high text|Local Time=1777-2-5 00:00
+1777	02	06	05	00	0	clear	Orig=clear text|Local Time=1777-2-6 00:00
+1777	02	07	05	00	0	clear	Orig=clear text|Local Time=1777-2-7 00:00
+1777	02	08	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-8 00:00
+1777	02	09	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-9 00:00
+1777	02	10	05	00	0	clear	Orig=clear text|Local Time=1777-2-10 00:00
+1777	02	11	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-11 00:00
+1777	02	12	05	00	0	clear	Orig=clear text|Local Time=1777-2-12 00:00
+1777	02	13	05	00	0	clear, little or no wind	Orig=clear, little or no wind text|Local Time=1777-2-13 00:00
+1777	02	14	05	00	0	clear	Orig=clear text|Local Time=1777-2-14 00:00
+1777	02	15	05	00	0	clear	Orig=clear text|Local Time=1777-2-15 00:00
+1777	02	16	05	00	0	clear, a large circle round the moon this evening	Orig=clear, a large circle round the moon this evening text|Local Time=1777-2-16 00:00
+1777	02	17	05	00	0	clear	Orig=clear text|Local Time=1777-2-17 00:00
+1777	02	18	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-18 00:00
+1777	02	19	05	00	0	clear, little wind	Orig=clear, little wind text|Local Time=1777-2-19 00:00
+1777	02	20	05	00	0	cloudy, a little snow in the night	Orig=cloudy, a little snow in the night text|Local Time=1777-2-20 00:00
+1777	02	21	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-21 00:00
+1777	02	22	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-22 00:00
+1777	02	23	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-23 00:00
+1777	02	24	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-2-24 00:00
+1777	02	25	05	00	0	clear	Orig=clear text|Local Time=1777-2-25 00:00
+1777	02	26	05	00	0	clear	Orig=clear text|Local Time=1777-2-26 00:00
+1777	02	27	05	00	0	cloudy, very little wind, and westerly in the evening	Orig=cloudy, very little wind, and westerly in the evening text|Local Time=1777-2-27 00:00
+1777	02	28	05	00	0	clear	Orig=clear text|Local Time=1777-2-28 00:00
+1777	03	01	05	00	0	clear	Orig=clear text|Local Time=1777-3-1 00:00
+1777	03	02	05	00	0	clear	Orig=clear text|Local Time=1777-3-2 00:00
+1777	03	03	05	00	0	clear	Orig=clear text|Local Time=1777-3-3 00:00
+1777	03	04	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-4 00:00
+1777	03	05	05	00	0	clear	Orig=clear text|Local Time=1777-3-5 00:00
+1777	03	06	05	00	0	clear	Orig=clear text|Local Time=1777-3-6 00:00
+1777	03	07	05	00	0	clear	Orig=clear text|Local Time=1777-3-7 00:00
+1777	03	08	05	00	0	clear	Orig=clear text|Local Time=1777-3-8 00:00
+1777	03	09	05	00	0	cloudy, with rain	Orig=cloudy, with rain text|Local Time=1777-3-9 00:00
+1777	03	10	05	00	0	cloudy with rain	Orig=cloudy with rain text|Local Time=1777-3-10 00:00
+1777	03	11	05	00	0	clear	Orig=clear text|Local Time=1777-3-11 00:00
+1777	03	12	05	00	0	cloudy, with rain	Orig=cloudy, with rain text|Local Time=1777-3-12 00:00
+1777	03	13	05	00	0	clear	Orig=clear text|Local Time=1777-3-13 00:00
+1777	03	14	05	00	0	clear	Orig=clear text|Local Time=1777-3-14 00:00
+1777	03	15	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-15 00:00
+1777	03	16	05	00	0	cloudy, with thunder and rain	Orig=cloudy, with thunder and rain text|Local Time=1777-3-16 00:00
+1777	03	17	05	00	0	clear	Orig=clear text|Local Time=1777-3-17 00:00
+1777	03	18	05	00	0	clear	Orig=clear text|Local Time=1777-3-18 00:00
+1777	03	19	05	00	0	clear	Orig=clear text|Local Time=1777-3-19 00:00
+1777	03	20	05	00	0	clear, wind high, and heavy rain, ice on the river begins to break up	Orig=clear, wind high, and heavy rain, ice on the river begins to break up text|Local Time=1777-3-20 00:00
+1777	03	21	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-21 00:00
+1777	03	22	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-22 00:00
+1777	03	23	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-23 00:00
+1777	03	24	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-24 00:00
+1777	03	25	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-25 00:00
+1777	03	26	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-26 00:00
+1777	03	27	05	00	0	clear	Orig=clear text|Local Time=1777-3-27 00:00
+1777	03	28	05	00	0	clear	Orig=clear text|Local Time=1777-3-28 00:00
+1777	03	29	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-29 00:00
+1777	03	30	05	00	0	clear, some snow, with rain at night	Orig=clear, some snow, with rain at night text|Local Time=1777-3-30 00:00
+1777	03	31	05	00	0	cloudy	Orig=cloudy text|Local Time=1777-3-31 00:00
+1778	12	01	05	00	0	a great fall of snow last night	Orig=a great fall of snow last night text|Local Time=1778-12-1 00:00
+1778	12	02	05	00	0	some snow this afternoon	Orig=some snow this afternoon text|Local Time=1778-12-2 00:00
+1778	12	03	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-3 00:00
+1778	12	04	05	00	0	cloudy with little snow	Orig=cloudy with little snow text|Local Time=1778-12-4 00:00
+1778	12	05	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-5 00:00
+1778	12	06	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-6 00:00
+1778	12	07	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-7 00:00
+1778	12	08	05	00	0	cloudy, with snowed all day	Orig=cloudy, with snowed all day text|Local Time=1778-12-8 00:00
+1778	12	09	05	00	0	clear	Orig=clear text|Local Time=1778-12-9 00:00
+1778	12	10	05	00	0	cloundy with little snow	Orig=cloundy with little snow text|Local Time=1778-12-10 00:00
+1778	12	11	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-11 00:00
+1778	12	12	05	00	0	clear	Orig=clear text|Local Time=1778-12-12 00:00
+1778	12	13	05	00	0	cloudy, the wing high with great drift	Orig=cloudy, the wing high with great drift text|Local Time=1778-12-13 00:00
+1778	12	14	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-14 00:00
+1778	12	15	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-15 00:00
+1778	12	16	05	00	0	clear	Orig=clear text|Local Time=1778-12-16 00:00
+1778	12	17	05	00	0	cloudy and a thick fog and rain	Orig=cloudy and a thick fog and rain text|Local Time=1778-12-17 00:00
+1778	12	18	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-18 00:00
+1778	12	19	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-19 00:00
+1778	12	20	05	00	0	cloudy with wind s in the evening	Orig=cloudy with wind s in the evening text|Local Time=1778-12-20 00:00
+1778	12	21	05	00	0	cloudy	Orig=cloudy text|Local Time=1778-12-21 00:00
+1778	12	22	05	00	0	clear, and very little wind	Orig=clear, and very little wind text|Local Time=1778-12-22 00:00
+1778	12	23	05	00	0	clear, and very little wind	Orig=clear, and very little wind text|Local Time=1778-12-23 00:00
+1778	12	24	05	00	0	clear	Orig=clear text|Local Time=1778-12-24 00:00
+1778	12	25	05	00	0	clear	Orig=clear text|Local Time=1778-12-25 00:00
+1778	12	26	05	00	0	cloudy with some snow	Orig=cloudy with some snow text|Local Time=1778-12-26 00:00
+1778	12	27	05	00	0	clear	Orig=clear text|Local Time=1778-12-27 00:00
+1778	12	28	05	00	0	clear	Orig=clear text|Local Time=1778-12-28 00:00
+1778	12	29	05	00	0	clear	Orig=clear text|Local Time=1778-12-29 00:00
+1778	12	30	05	00	0	clear	Orig=clear text|Local Time=1778-12-30 00:00
+1778	12	31	05	00	0	clear	Orig=clear text|Local Time=1778-12-31 00:00
+1779	01	01	05	00	0	clear	Orig=clear text|Local Time=1779-1-1 00:00
+1779	01	02	05	00	0	clear	Orig=clear text|Local Time=1779-1-2 00:00
+1779	01	03	05	00	0	clear	Orig=clear text|Local Time=1779-1-3 00:00
+1779	01	04	05	00	0	clear	Orig=clear text|Local Time=1779-1-4 00:00
+1779	01	05	05	00	0	clear	Orig=clear text|Local Time=1779-1-5 00:00
+1779	01	06	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-1-6 00:00
+1779	01	07	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-1-7 00:00
+1779	01	08	05	00	0	clear	Orig=clear text|Local Time=1779-1-8 00:00
+1779	01	09	05	00	0	cloudy, with little snow	Orig=cloudy, with little snow text|Local Time=1779-1-9 00:00
+1779	01	10	05	00	0	cloudy, in the morning rain	Orig=cloudy, in the morning rain text|Local Time=1779-1-10 00:00
+1779	01	11	05	00	0	clear	Orig=clear text|Local Time=1779-1-11 00:00
+1779	01	12	05	00	0	cloudy, with some snow	Orig=cloudy, with some snow text|Local Time=1779-1-12 00:00
+1779	01	13	05	00	0	clear	Orig=clear text|Local Time=1779-1-13 00:00
+1779	01	14	05	00	0	clear	Orig=clear text|Local Time=1779-1-14 00:00
+1779	01	15	05	00	0	clear	Orig=clear text|Local Time=1779-1-15 00:00
+1779	01	16	05	00	0	clear	Orig=clear text|Local Time=1779-1-16 00:00
+1779	01	17	05	00	0	cloudy, with snow all day	Orig=cloudy, with snow all day text|Local Time=1779-1-17 00:00
+1779	01	18	05	00	0	clear	Orig=clear text|Local Time=1779-1-18 00:00
+1779	01	19	05	00	0	cloudy, with some snow	Orig=cloudy, with some snow text|Local Time=1779-1-19 00:00
+1779	01	20	05	00	0	clear	Orig=clear text|Local Time=1779-1-20 00:00
+1779	01	21	05	00	0	clear	Orig=clear text|Local Time=1779-1-21 00:00
+1779	01	22	05	00	0	clear and almost calm	Orig=clear and almost calm text|Local Time=1779-1-22 00:00
+1779	01	23	05	00	0	cloudy, with snow all day	Orig=cloudy, with snow all day text|Local Time=1779-1-23 00:00
+1779	01	24	05	00	0	cloudy, with snow all day	Orig=cloudy, with snow all day text|Local Time=1779-1-24 00:00
+1779	01	25	05	00	0	cloudy, a great fall last night	Orig=cloudy, a great fall last night text|Local Time=1779-1-25 00:00
+1779	01	26	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-1-26 00:00
+1779	01	27	05	00	0	clear	Orig=clear text|Local Time=1779-1-27 00:00
+1779	01	28	05	00	0	cloudy, with some snow	Orig=cloudy, with some snow text|Local Time=1779-1-28 00:00
+1779	01	29	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-1-29 00:00
+1779	01	30	05	00	0	clear, but snow in the evening	Orig=clear, but snow in the evening text|Local Time=1779-1-30 00:00
+1779	01	31	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-1-31 00:00
+1779	02	01	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-1 00:00
+1779	02	02	05	00	0	cloudy, with a thick fog	Orig=cloudy, with a thick fog text|Local Time=1779-2-2 00:00
+1779	02	03	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-3 00:00
+1779	02	04	05	00	0	cloudy, with a little snow	Orig=cloudy, with a little snow text|Local Time=1779-2-4 00:00
+1779	02	05	05	00	0	clear	Orig=clear text|Local Time=1779-2-5 00:00
+1779	02	06	05	00	0	clear	Orig=clear text|Local Time=1779-2-6 00:00
+1779	02	07	05	00	0	cloudy, with snow	Orig=cloudy, with snow text|Local Time=1779-2-7 00:00
+1779	02	08	05	00	0	clear	Orig=clear text|Local Time=1779-2-8 00:00
+1779	02	09	05	00	0	cloudy with snow last night	Orig=cloudy with snow last night text|Local Time=1779-2-9 00:00
+1779	02	10	05	00	0	foggy	Orig=foggy text|Local Time=1779-2-10 00:00
+1779	02	11	05	00	0	clear	Orig=clear text|Local Time=1779-2-11 00:00
+1779	02	12	05	00	0	clear	Orig=clear text|Local Time=1779-2-12 00:00
+1779	02	13	05	00	0	clear	Orig=clear text|Local Time=1779-2-13 00:00
+1779	02	14	05	00	0	cloudy, with snow	Orig=cloudy, with snow text|Local Time=1779-2-14 00:00
+1779	02	15	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-15 00:00
+1779	02	16	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-16 00:00
+1779	02	17	05	00	0	cloudy, and the wind high	Orig=cloudy, and the wind high text|Local Time=1779-2-17 00:00
+1779	02	18	05	00	0	clear	Orig=clear text|Local Time=1779-2-18 00:00
+1779	02	19	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-19 00:00
+1779	02	20	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-20 00:00
+1779	02	21	05	00	0	cloudy, the win s at night	Orig=cloudy, the win s at night text|Local Time=1779-2-21 00:00
+1779	02	22	05	00	0	cluody	Orig=cluody text|Local Time=1779-2-22 00:00
+1779	02	23	05	00	0	clear	Orig=clear text|Local Time=1779-2-23 00:00
+1779	02	24	05	00	0	clear	Orig=clear text|Local Time=1779-2-24 00:00
+1779	02	25	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-25 00:00
+1779	02	26	05	00	0	cloudy, with snow all day	Orig=cloudy, with snow all day text|Local Time=1779-2-26 00:00
+1779	02	27	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-2-27 00:00
+1779	02	28	05	00	0	cloudy with a fog and rain	Orig=cloudy with a fog and rain text|Local Time=1779-2-28 00:00
+1779	03	01	05	00	0	clear	Orig=clear text|Local Time=1779-3-1 00:00
+1779	03	02	05	00	0	cloudy, with rain	Orig=cloudy, with rain text|Local Time=1779-3-2 00:00
+1779	03	03	05	00	0	clear	Orig=clear text|Local Time=1779-3-3 00:00
+1779	03	04	05	00	0	clear	Orig=clear text|Local Time=1779-3-4 00:00
+1779	03	05	05	00	0	cloudy , with snow all day	Orig=cloudy , with snow all day text|Local Time=1779-3-5 00:00
+1779	03	06	05	00	0	clear	Orig=clear text|Local Time=1779-3-6 00:00
+1779	03	07	05	00	0	clear	Orig=clear text|Local Time=1779-3-7 00:00
+1779	03	08	05	00	0	cloudy with some snow	Orig=cloudy with some snow text|Local Time=1779-3-8 00:00
+1779	03	09	05	00	0	clear	Orig=clear text|Local Time=1779-3-9 00:00
+1779	03	10	05	00	0	clear	Orig=clear text|Local Time=1779-3-10 00:00
+1779	03	11	05	00	0	clear	Orig=clear text|Local Time=1779-3-11 00:00
+1779	03	12	05	00	0	cloudy, with a great fall of snow	Orig=cloudy, with a great fall of snow text|Local Time=1779-3-12 00:00
+1779	03	13	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-3-13 00:00
+1779	03	14	05	00	0	clear and almost calm	Orig=clear and almost calm text|Local Time=1779-3-14 00:00
+1779	03	15	05	00	0	clear	Orig=clear text|Local Time=1779-3-15 00:00
+1779	03	16	05	00	0	clear	Orig=clear text|Local Time=1779-3-16 00:00
+1779	03	17	05	00	0	clear	Orig=clear text|Local Time=1779-3-17 00:00
+1779	03	18	05	00	0	clear	Orig=clear text|Local Time=1779-3-18 00:00
+1779	03	19	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-3-19 00:00
+1779	03	20	05	00	0	clear	Orig=clear text|Local Time=1779-3-20 00:00
+1779	03	21	05	00	0	clear	Orig=clear text|Local Time=1779-3-21 00:00
+1779	03	22	05	00	0	cloudy, with a great quantity of snow	Orig=cloudy, with a great quantity of snow text|Local Time=1779-3-22 00:00
+1779	03	23	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-3-23 00:00
+1779	03	24	05	00	0	cloudy, with a thick fog	Orig=cloudy, with a thick fog text|Local Time=1779-3-24 00:00
+1779	03	25	05	00	0	cloudy with snow	Orig=cloudy with snow text|Local Time=1779-3-25 00:00
+1779	03	26	05	00	0	clear	Orig=clear text|Local Time=1779-3-26 00:00
+1779	03	27	05	00	0	clear	Orig=clear text|Local Time=1779-3-27 00:00
+1779	03	28	05	00	0	clear	Orig=clear text|Local Time=1779-3-28 00:00
+1779	03	29	05	00	0	clear	Orig=clear text|Local Time=1779-3-29 00:00
+1779	03	30	05	00	0	cloudy, with rain	Orig=cloudy, with rain text|Local Time=1779-3-30 00:00
+1779	03	31	05	00	0	cloudy, with rain	Orig=cloudy, with rain text|Local Time=1779-3-31 00:00
+1779	04	01	05	00	0	cloudy, with a thick fog and rain	Orig=cloudy, with a thick fog and rain text|Local Time=1779-4-1 00:00
+1779	04	02	05	00	0	cloudy, with a thick fog and rain	Orig=cloudy, with a thick fog and rain text|Local Time=1779-4-2 00:00
+1779	04	03	05	00	0	cloudy, wind SW in the evening	Orig=cloudy, wind SW in the evening text|Local Time=1779-4-3 00:00
+1779	04	04	05	00	0	clear	Orig=clear text|Local Time=1779-4-4 00:00
+1779	04	05	05	00	0	clear	Orig=clear text|Local Time=1779-4-5 00:00
+1779	04	06	05	00	0	cloudy, with a little rain	Orig=cloudy, with a little rain text|Local Time=1779-4-6 00:00
+1779	04	07	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-4-7 00:00
+1779	04	08	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-4-8 00:00
+1779	04	09	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-4-9 00:00
+1779	04	10	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-4-10 00:00
+1779	04	11	05	00	0	cloudy	Orig=cloudy text|Local Time=1779-4-11 00:00
+1779	04	12	05	00	0	cloudy, a very heavy rain	Orig=cloudy, a very heavy rain text|Local Time=1779-4-12 00:00
+1779	04	13	05	00	0	clear	Orig=clear text|Local Time=1779-4-13 00:00
+1779	04	14	05	00	0	clear	Orig=clear text|Local Time=1779-4-14 00:00
+1779	04	15	05	00	0	clear	Orig=clear text|Local Time=1779-4-15 00:00
