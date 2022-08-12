@@ -1,0 +1,61 @@
+ODR_abbreviation	ODR_measurement_variable			ODR: Open Data Rescue. See https://opendatarescue.org/
+atb	barometer_attached_thermometer			
+au	aurora			
+c 	cloud_type			
+cd	cloud_direction			
+ch	high_cloud_type			
+cv	cloud_velocity			
+dd	wind_direction_degrees			
+diff_t_tb	wet_bulb_thermometer_difference			
+diff_Tx_Tn	maximum_minimum_temperature			
+e	vapour_pressure			
+h	humidity			
+hd	upper_cloud_direction			
+hv	upper_cloud_velocity			
+mslp	mean_sea_level_pressure			
+nl	cloud_amount			
+rh	relative humidity			
+o3	ozone			
+p	barometer			
+pr	precipitation_amount			
+rd	rain_duration			
+rh	relative humidity			
+rr	rainfall			
+rrg	rain_on_ground			
+rtb	rain_time_began			
+rte	rain_time_ended			
+pr	precipitation			
+sd	snow depth			
+skc	clearness_sky			
+ta 	thermometer_openair			
+tarange	thermometer_range			
+tb	wet_bulb_temperature			
+tbn	thermometer_wetbulb_minimum			
+tbx	thermometer_wetbulb_maximum			
+td	dewpoint_temperature			
+tdb	drybulb_temperature			
+Tgn	thermometer_grass_minimum			
+Tn	thermometer_minimum		change to dd	
+Tx 	thermometer_maximum			
+Txs	thermometer_sun_maximum OR blackbulb_thermometer			
+w1	weather_since_last_observation			
+wd	wind_direction			
+wf	wind_force			
+ws	wind_speed			
+ww	weather			
+ww_remarks	remarks			
+taNW	northwall_adjusted_thermometer			
+TnNW	northwall_adjusted_minimum_thermometer			
+TxNW	northwall_adjusted_maximum_thermometer			
+sd	snow duration			
+ss	sunshine			
+				
+measurement_types				
+original				
+corrected				
+mean				
+difference				
+estimated				
+northwall				
+adjusted				
+calculated				
